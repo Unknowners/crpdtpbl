@@ -1,0 +1,6937 @@
+[
+  {
+    "id": 1,
+    "otg_name": "БАРСЬКА МІСЬКА ТГ/М.БАР",
+    "slug": "barska-miska-tgmbar"
+  },
+  {
+    "id": 2,
+    "otg_name": "КОЗЯТИНСЬКА МІСЬКА ТГ/М.КОЗЯТИН",
+    "slug": "koziatinska-miska-tgmkoziatin"
+  },
+  {
+    "id": 3,
+    "otg_name": "КОПАЙГОРОДСЬКА СЕЛИЩНА ТГ/СМТ.КОПАЙГОРОД",
+    "slug": "kopaigorodska-selishhna-tgsmtkopaigorod"
+  },
+  {
+    "id": 4,
+    "otg_name": "ЯКУШИНЕЦЬКА СІЛЬСЬКА ТГ/С.ЯКУШИНЦІ",
+    "slug": "iakusinecka-silska-tgsiakusinci"
+  },
+  {
+    "id": 5,
+    "otg_name": "КУНКІВСЬКА СІЛЬСЬКА ТГ/С.КУНКА",
+    "slug": "kunkivska-silska-tgskunka"
+  },
+  {
+    "id": 6,
+    "otg_name": "СЕВЕРИНІВСЬКА СІЛЬСЬКА ТГ/С.СЕВЕРИНІВКА",
+    "slug": "severinivska-silska-tgsseverinivka"
+  },
+  {
+    "id": 7,
+    "otg_name": "СТАНІСЛАВЧИЦЬКА СІЛЬСЬКА ТГ/С.СТАНІСЛАВЧИК",
+    "slug": "stanislavcicka-silska-tgsstanislavcik"
+  },
+  {
+    "id": 8,
+    "otg_name": "МУРОВАНО-КУРИЛОВЕЦЬКА СЕЛИЩЕНСЬКА ТГ/СМТ.МУРОВАНІ КУРИЛІВЦІ",
+    "slug": "murovano-kurilovecka-selishhenska-tgsmtmurovani-kurilivci"
+  },
+  {
+    "id": 9,
+    "otg_name": "ІЛЛІНЕЦЬКА МІСЬКА ТГ/М.ІЛЛІНЦІ",
+    "slug": "illinecka-miska-tgmillinci"
+  },
+  {
+    "id": 10,
+    "otg_name": "ДАШІВСЬКА СЕЛИЩЕНСЬКА ТГ/СМТ.ДАШІВ",
+    "slug": "dasivska-selishhenska-tgsmtdasiv"
+  },
+  {
+    "id": 11,
+    "otg_name": "КАЛИНІВСЬКА МІСЬКА ТГ/М.КАЛИНІВКА",
+    "slug": "kalinivska-miska-tgmkalinivka"
+  },
+  {
+    "id": 12,
+    "otg_name": "НЕМИРІВСЬКА МІСЬКА ТГ/М.НЕМИРІВ",
+    "slug": "nemirivska-miska-tgmnemiriv"
+  },
+  {
+    "id": 13,
+    "otg_name": "РАЙГОРОДСЬКА СІЛЬСЬКА ТГ/С.РАЙГОРОД",
+    "slug": "raigorodska-silska-tgsraigorod"
+  },
+  {
+    "id": 14,
+    "otg_name": "ОРАТІВСЬКА СЕЛИЩНА ТГ/СМТ.ОРАТІВ",
+    "slug": "orativska-selishhna-tgsmtorativ"
+  },
+  {
+    "id": 15,
+    "otg_name": "ПІЩАНСЬКА СЕЛИЩНА ТГ/СМТ.ПІЩАНКА",
+    "slug": "pishhanska-selishhna-tgsmtpishhanka"
+  },
+  {
+    "id": 16,
+    "otg_name": "СТУДЕНЯНСЬКА СІЛЬСЬКА ТГ/С.СТУДЕНА",
+    "slug": "studenianska-silska-tgsstudena"
+  },
+  {
+    "id": 17,
+    "otg_name": "ПОГРЕБИЩЕНСЬКА МІСЬКА ТГ/М.ПОГРЕБИЩЕ",
+    "slug": "pogrebishhenska-miska-tgmpogrebishhe"
+  },
+  {
+    "id": 18,
+    "otg_name": "ОБОДІВСЬКА СІЛЬСЬКА ТГ/С.ОБОДІВКА",
+    "slug": "obodivska-silska-tgsobodivka"
+  },
+  {
+    "id": 19,
+    "otg_name": "ВАПНЯРСЬКА СЕЛИЩНА ТГ/СМТ.ВАПНЯРКА",
+    "slug": "vapniarska-selishhna-tgsmtvapniarka"
+  },
+  {
+    "id": 20,
+    "otg_name": "ТУЛЬЧИНСЬКА МІСЬКА ТГ/М.ТУЛЬЧИН",
+    "slug": "tulcinska-miska-tgmtulcin"
+  },
+  {
+    "id": 21,
+    "otg_name": "ШПИКІВСЬКА СЕЛИЩНА ТГ/СМТ.ШПИКІВ",
+    "slug": "spikivska-selishhna-tgsmtspikiv"
+  },
+  {
+    "id": 22,
+    "otg_name": "УЛАНІВСЬКА СІЛЬСЬКА ТГ/С.УЛАНІВ",
+    "slug": "ulanivska-silska-tgsulaniv"
+  },
+  {
+    "id": 23,
+    "otg_name": "ЖДАНІВСЬКА СІЛЬСЬКА ТГ/С.ВІЙТІВЦІ",
+    "slug": "zdanivska-silska-tgsviitivci"
+  },
+  {
+    "id": 24,
+    "otg_name": "ЧЕРНІВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРНІВЦІ",
+    "slug": "cernivecka-selishhna-tgsmtcernivci"
+  },
+  {
+    "id": 25,
+    "otg_name": "ЧЕЧЕЛЬНИЦЬКА СЕЛИЩНА ТГ/СМТ.ЧЕЧЕЛЬНИК",
+    "slug": "cecelnicka-selishhna-tgsmtcecelnik"
+  },
+  {
+    "id": 26,
+    "otg_name": "ОЛЬГОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.ОЛЬГОПІЛЬ",
+    "slug": "olgopilska-silska-tgsolgopil"
+  },
+  {
+    "id": 67,
+    "otg_name": "ШАЦЬКА СЕЛИЩНА ТГ/СМТ.ШАЦЬК",
+    "slug": "sacka-selishhna-tgsmtsack"
+  },
+  {
+    "id": 27,
+    "otg_name": "ДЖУРИНСЬКА СІЛЬСЬКА ТГ/С.ДЖУРИН",
+    "slug": "dzurinska-silska-tgsdzurin"
+  },
+  {
+    "id": 28,
+    "otg_name": "БАБЧИНЕЦЬКА СІЛЬСЬКА ТГ/С.БАБЧИНЦІ",
+    "slug": "babcinecka-silska-tgsbabcinci"
+  },
+  {
+    "id": 29,
+    "otg_name": "МУРАФСЬКА СІЛЬСЬКА ТГ/С.МУРАФА",
+    "slug": "murafska-silska-tgsmurafa"
+  },
+  {
+    "id": 30,
+    "otg_name": "ШАРГОРОДСЬКА МІСЬКА ТГ/М.ШАРГОРОД",
+    "slug": "sargorodska-miska-tgmsargorod"
+  },
+  {
+    "id": 31,
+    "otg_name": "ЯМПІЛЬСЬКА МІСЬКА ТГ/М.ЯМПІЛЬ",
+    "slug": "iampilska-miska-tgmiampil"
+  },
+  {
+    "id": 32,
+    "otg_name": "СТРИЖАВСЬКА СЕЛИЩНА ТГ/СМТ.СТРИЖАВКА",
+    "slug": "strizavska-selishhna-tgsmtstrizavka"
+  },
+  {
+    "id": 33,
+    "otg_name": "КРАСНОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.КРАСНОПІЛКА",
+    "slug": "krasnopilska-silska-tgskrasnopilka"
+  },
+  {
+    "id": 34,
+    "otg_name": "ГНІВАНСЬКА МІСЬКА ТГ/М.ГНІВАНЬ",
+    "slug": "gnivanska-miska-tgmgnivan"
+  },
+  {
+    "id": 35,
+    "otg_name": "ГЛУХОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ГЛУХІВЦІ",
+    "slug": "gluxovecka-selishhna-tgsmtgluxivci"
+  },
+  {
+    "id": 36,
+    "otg_name": "ІВАНІВСЬКА СІЛЬСЬКА ТГ/С.ІВАНІВ",
+    "slug": "ivanivska-silska-tgsivaniv"
+  },
+  {
+    "id": 37,
+    "otg_name": "БРАЦЛАВСЬКА СЕЛИЩНА ТГ/СМТ.НОВІ САНЖАРИ",
+    "slug": "braclavska-selishhna-tgsmtnovi-sanzari"
+  },
+  {
+    "id": 38,
+    "otg_name": "СОБОЛІВСЬКА СІЛЬСЬКА ТГ/С.СОБОЛІВКА",
+    "slug": "sobolivska-silska-tgssobolivka"
+  },
+  {
+    "id": 39,
+    "otg_name": "ТЕПЛИЦЬКА СЕЛИЩЕНСЬКА ТГ/СМТ.ТЕПЛИК",
+    "slug": "teplicka-selishhenska-tgsmtteplik"
+  },
+  {
+    "id": 40,
+    "otg_name": "ХМІЛЬНИЦЬКА МІСЬКА ТГ/М.ХМІЛЬНИК",
+    "slug": "xmilnicka-miska-tgmxmilnik"
+  },
+  {
+    "id": 41,
+    "otg_name": "ТРОСТЯНЕЦЬКА СЕЛИЩЕНСЬКА ТГ/СМТ.ТРОСТЯНЕЦЬ",
+    "slug": "trostianecka-selishhenska-tgsmttrostianec"
+  },
+  {
+    "id": 42,
+    "otg_name": "СУТИСКІВСЬКА СЕЛИЩЕНСЬКА ТГ/С.СУТИСКИ",
+    "slug": "sutiskivska-selishhenska-tgssutiski"
+  },
+  {
+    "id": 43,
+    "otg_name": "ТИВРІВСЬКА СЕЛИЩЕНСЬКА ТГ/СМТ.ТИВРІВ",
+    "slug": "tivrivska-selishhenska-tgsmttivriv"
+  },
+  {
+    "id": 44,
+    "otg_name": "ЛІТИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛІТИН",
+    "slug": "litinska-selishhna-tgsmtlitin"
+  },
+  {
+    "id": 45,
+    "otg_name": "МОГИЛІВ-ПОДІЛЬСЬКА МІСЬКА ТГ/М.МОГИЛІВ-ПОДІЛЬСЬКИЙ",
+    "slug": "mogiliv-podilska-miska-tgmmogiliv-podilskii"
+  },
+  {
+    "id": 46,
+    "otg_name": "ВЕНДИЧАНСЬКА СЕЛИЩНА ТГ/СМТ.ВЕНДИЧАНИ",
+    "slug": "vendicanska-selishhna-tgsmtvendicani"
+  },
+  {
+    "id": 47,
+    "otg_name": "ЯРИШІВСЬКА СІЛЬСЬКА ТГ/С.ЯРИШІВ",
+    "slug": "iarisivska-silska-tgsiarisiv"
+  },
+  {
+    "id": 48,
+    "otg_name": "МАХНІВСЬКА СІЛЬСЬКА ТГ/С.МАХНІВКА",
+    "slug": "maxnivska-silska-tgsmaxnivka"
+  },
+  {
+    "id": 49,
+    "otg_name": "САМГОРОДОЦЬКА СІЛЬСЬКА ТГ/С.САМГОРОДОК",
+    "slug": "samgorodocka-silska-tgssamgorodok"
+  },
+  {
+    "id": 50,
+    "otg_name": "ГОРОДКІВСЬКА СІЛЬСЬКА ТГ/С.ГОРОДКІВКА",
+    "slug": "gorodkivska-silska-tgsgorodkivka"
+  },
+  {
+    "id": 1388,
+    "otg_name": "Савранська селищна ТГ",
+    "slug": "savranska-selyshchna-th"
+  },
+  {
+    "id": 52,
+    "otg_name": "УСТИЛУЗЬКА МІСЬКА ТГ/М.УСТИЛУГ",
+    "slug": "ustiluzka-miska-tgmustilug"
+  },
+  {
+    "id": 53,
+    "otg_name": "ГОРОХІВСЬКА МІСЬКА ТГ/М.ГОРОХІВ",
+    "slug": "goroxivska-miska-tgmgoroxiv"
+  },
+  {
+    "id": 54,
+    "otg_name": "ПОРОМІВСЬКА СІЛЬСЬКА ТГ/С.ПОРОМІВ",
+    "slug": "poromivska-silska-tgsporomiv"
+  },
+  {
+    "id": 55,
+    "otg_name": "КАМІНЬ-КАШИРСЬКА МІСЬКА ТГ/М.КАМІНЬ-КАШИРСЬКИЙ",
+    "slug": "kamin-kasirska-miska-tgmkamin-kasirskii"
+  },
+  {
+    "id": 56,
+    "otg_name": "ПАВЛІВСЬКА СІЛЬСЬКА ТГ/С.ПАВЛІВКА",
+    "slug": "pavlivska-silska-tgspavlivka"
+  },
+  {
+    "id": 57,
+    "otg_name": "ГОЛОБСЬКА СЕЛИЩНА ТГ/СМТ.ГОЛОБИ",
+    "slug": "golobska-selishhna-tgsmtgolobi"
+  },
+  {
+    "id": 58,
+    "otg_name": "ЛЮБЛИНЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБЛИНЕЦЬ",
+    "slug": "liublinecka-selishhna-tgsmtliublinec"
+  },
+  {
+    "id": 59,
+    "otg_name": "ДУБІВСЬКА СІЛЬСЬКА ТГ/С.ДУБОВЕ",
+    "slug": "dubivska-silska-tgsdubove"
+  },
+  {
+    "id": 60,
+    "otg_name": "ПОВОРСЬКА СІЛЬСЬКА ТГ/С.ПОВОРСЬК",
+    "slug": "povorska-silska-tgspovorsk"
+  },
+  {
+    "id": 61,
+    "otg_name": "КОЛОДЯЖНЕНСЬКА СІЛЬСЬКА ТГ/С.КОЛОДЯЖНЕ",
+    "slug": "kolodiaznenska-silska-tgskolodiazne"
+  },
+  {
+    "id": 62,
+    "otg_name": "ПРИЛІСНЕНСЬКА СІЛЬСЬКА ТГ/С.ПРИЛІСНЕ",
+    "slug": "prilisnenska-silska-tgsprilisne"
+  },
+  {
+    "id": 63,
+    "otg_name": "ЗАБОЛОТТІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗАБОЛОТТЯ",
+    "slug": "zabolottivska-selishhna-tgsmtzabolottia"
+  },
+  {
+    "id": 64,
+    "otg_name": "ЗАБРОДІВСЬКА СІЛЬСЬКА ТГ/С.ЗАБРОДИ",
+    "slug": "zabrodivska-silska-tgszabrodi"
+  },
+  {
+    "id": 65,
+    "otg_name": "РАТНІВСЬКА СЕЛИЩНА ТГ/СМТ.РАТНЕ",
+    "slug": "ratnivska-selishhna-tgsmtratne"
+  },
+  {
+    "id": 66,
+    "otg_name": "САМАРІВСЬКА СІЛЬСЬКА ТГ/С.САМАРИ",
+    "slug": "samarivska-silska-tgssamari"
+  },
+  {
+    "id": 68,
+    "otg_name": "КОВЕЛЬСЬКА МІСЬКА ТГ/М.КОВЕЛЬ",
+    "slug": "kovelska-miska-tgmkovel"
+  },
+  {
+    "id": 69,
+    "otg_name": "ОВАДНІВСЬКА СІЛЬСЬКА ТГ/С.ОВАДНЕ",
+    "slug": "ovadnivska-silska-tgsovadne"
+  },
+  {
+    "id": 70,
+    "otg_name": "ГОРОДИЩЕНСЬКА СІЛЬСЬКА ТГ/С.ГОРОДИЩЕ",
+    "slug": "gorodishhenska-silska-tgsgorodishhe"
+  },
+  {
+    "id": 71,
+    "otg_name": "ІВАНИЧІВСЬКА СЕЛИЩНА ТГ/СМТ.ІВАНИЧІ",
+    "slug": "ivanicivska-selishhna-tgsmtivanici"
+  },
+  {
+    "id": 72,
+    "otg_name": "ЛИТОВЕЗЬКА СІЛЬСЬКА ТГ/С.ЛИТОВЕЖ",
+    "slug": "litovezka-silska-tgslitovez"
+  },
+  {
+    "id": 73,
+    "otg_name": "ЦУМАНСЬКА СЕЛИЩНА ТГ/СМТ.ЦУМАНЬ",
+    "slug": "cumanska-selishhna-tgsmtcuman"
+  },
+  {
+    "id": 74,
+    "otg_name": "ЛЮБЕШІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБЕШІВ",
+    "slug": "liubesivska-selishhna-tgsmtliubesiv"
+  },
+  {
+    "id": 75,
+    "otg_name": "ЛЮБОМЛЬСЬКА МІСЬКА ТГ/М.ЛЮБОМЛЬ",
+    "slug": "liubomlska-miska-tgmliuboml"
+  },
+  {
+    "id": 76,
+    "otg_name": "ГОЛОВНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ГОЛОВНЕ",
+    "slug": "golovnenska-selishhna-tgsmtgolovne"
+  },
+  {
+    "id": 77,
+    "otg_name": "РІВНЕНСЬКА СІЛЬСЬКА ТГ/С.РІВНЕ",
+    "slug": "rivnenska-silska-tgsrivne"
+  },
+  {
+    "id": 78,
+    "otg_name": "КОЛКІВСЬКА СЕЛИЩНА ТГ/СМТ.КОЛКИ",
+    "slug": "kolkivska-selishhna-tgsmtkolki"
+  },
+  {
+    "id": 79,
+    "otg_name": "МАНЕВИЦЬКА СЕЛИЩНА ТГ/СМТ.МАНЕВИЧІ",
+    "slug": "manevicka-selishhna-tgsmtmanevici"
+  },
+  {
+    "id": 80,
+    "otg_name": "КОПАЧІВСЬКА СІЛЬСЬКА ТГ/С.КОПАЧІВКА",
+    "slug": "kopacivska-silska-tgskopacivka"
+  },
+  {
+    "id": 81,
+    "otg_name": "РОЖИЩЕНСЬКА МІСЬКА ТГ/М.РОЖИЩЕ",
+    "slug": "rozishhenska-miska-tgmrozishhe"
+  },
+  {
+    "id": 82,
+    "otg_name": "ДУБЕЧНЕНСЬКА СІЛЬСЬКА ТГ/С.ДУБЕЧНЕ",
+    "slug": "dubecnenska-silska-tgsdubecne"
+  },
+  {
+    "id": 83,
+    "otg_name": "СМІДИНСЬКА СІЛЬСЬКА ТГ/С.СМІДИН",
+    "slug": "smidinska-silska-tgssmidin"
+  },
+  {
+    "id": 84,
+    "otg_name": "СЕРЕХОВИЧІВСЬКА СІЛЬСЬКА ТГ/С.СЕРЕХОВИЧІ",
+    "slug": "serexovicivska-silska-tgsserexovici"
+  },
+  {
+    "id": 85,
+    "otg_name": "ТУРІЙСЬКА СЕЛИЩНА ТГ/СМТ.ТУРІЙСЬК",
+    "slug": "turiiska-selishhna-tgsmtturiisk"
+  },
+  {
+    "id": 86,
+    "otg_name": "ЛУКІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛУКІВ",
+    "slug": "lukivska-selishhna-tgsmtlukiv"
+  },
+  {
+    "id": 87,
+    "otg_name": "КІВЕРЦІВСЬКА МІСЬКА ТГ/М.КІВЕРЦІ",
+    "slug": "kivercivska-miska-tgmkiverci"
+  },
+  {
+    "id": 88,
+    "otg_name": "ОЛИЦЬКА СЕЛИЩНА ТГ/СМТ.ОЛИКА",
+    "slug": "olicka-selishhna-tgsmtolika"
+  },
+  {
+    "id": 89,
+    "otg_name": "ПІДГАЙЦІВСЬКА СІЛЬСЬКА ТГ/С.ПІДГАЙЦІ",
+    "slug": "pidgaicivska-silska-tgspidgaici"
+  },
+  {
+    "id": 90,
+    "otg_name": "СТАРОВИЖІВСЬКА СЕЛИЩНА ТГ/СМТ.СТАРА ВИЖІВКА",
+    "slug": "starovizivska-selishhna-tgsmtstara-vizivka"
+  },
+  {
+    "id": 91,
+    "otg_name": "ЗАТУРЦІВСЬКА СІЛЬСЬКА ТГ/С.ЗАТУРЦІ",
+    "slug": "zaturcivska-silska-tgszaturci"
+  },
+  {
+    "id": 92,
+    "otg_name": "ЛОКАЧИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛОКАЧІ",
+    "slug": "lokacinska-selishhna-tgsmtlokaci"
+  },
+  {
+    "id": 93,
+    "otg_name": "ТОРЧИНСЬКА СЕЛИЩНА ТГ/СМТ.ТОРЧИН",
+    "slug": "torcinska-selishhna-tgsmttorcin"
+  },
+  {
+    "id": 94,
+    "otg_name": "МАР'ЯНІВСЬКА СЕЛИЩНА ТГ/СМТ.МАР'ЯНІВКА",
+    "slug": "marianivska-selishhna-tgsmtmarianivka"
+  },
+  {
+    "id": 95,
+    "otg_name": "ДОРОСИНІВСЬКА СІЛЬСЬКА ТГ/С.ДОРОСИНІ",
+    "slug": "dorosinivska-silska-tgsdorosini"
+  },
+  {
+    "id": 96,
+    "otg_name": "СОШИЧНЕНСЬКА СІЛЬСЬКА ТГ/С.СОШИЧНЕ",
+    "slug": "sosicnenska-silska-tgssosicne"
+  },
+  {
+    "id": 97,
+    "otg_name": "ЛУЦЬКА МІСЬКА ТГ/М.ЛУЦЬК",
+    "slug": "lucka-miska-tgmluck"
+  },
+  {
+    "id": 98,
+    "otg_name": "НОВОВОЛИНСЬКА МІСЬКА ТГ/М.НОВО-ВОЛИНСЬК",
+    "slug": "novovolinska-miska-tgmnovo-volinsk"
+  },
+  {
+    "id": 99,
+    "otg_name": "АПОСТОЛІВСЬКА МІСЬКА ТГ/М.АПОСТОЛОВЕ",
+    "slug": "apostolivska-miska-tgmapostolove"
+  },
+  {
+    "id": 100,
+    "otg_name": "ЗЕЛЕНОДОЛЬСЬКА МІСЬКА ТГ/М.ЗЕЛЕНОДОЛЬСЬК",
+    "slug": "zelenodolska-miska-tgmzelenodolsk"
+  },
+  {
+    "id": 101,
+    "otg_name": "НИВОТРУДІВСЬКА СІЛЬСЬКА ТГ/С.НИВА ТРУДОВА",
+    "slug": "nivotrudivska-silska-tgsniva-trudova"
+  },
+  {
+    "id": 102,
+    "otg_name": "ГРУШІВСЬКА СІЛЬСЬКА ТГ/С.ГРУШІВКА",
+    "slug": "grusivska-silska-tgsgrusivka"
+  },
+  {
+    "id": 103,
+    "otg_name": "ВАСИЛЬКІВСЬКА СЕЛИЩНА ТГ/СМТ.ВАСИЛЬКІВКА",
+    "slug": "vasilkivska-selishhna-tgsmtvasilkivka"
+  },
+  {
+    "id": 104,
+    "otg_name": "СЛОБОЖАНСЬКА СЕЛИЩНА ТГ/СМТ.СЛОБОЖАНСЬКЕ",
+    "slug": "slobozanska-selishhna-tgsmtslobozanske"
+  },
+  {
+    "id": 105,
+    "otg_name": "НОВООЛЕКСАНДРІВСЬКА СІЛЬСЬКА ТГ/С.НОВООЛЕКСАНДРІВКА",
+    "slug": "novooleksandrivska-silska-tgsnovooleksandrivka"
+  },
+  {
+    "id": 106,
+    "otg_name": "ЛОЗУВАТСЬКА СІЛЬСЬКА ТГ/С.ЛОЗУВАТКА",
+    "slug": "lozuvatska-silska-tgslozuvatka"
+  },
+  {
+    "id": 107,
+    "otg_name": "НОВОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.НОВОПІЛЛЯ",
+    "slug": "novopilska-silska-tgsnovopillia"
+  },
+  {
+    "id": 108,
+    "otg_name": "КРИНИЧАНСЬКА СЕЛИЩНА ТГ/СМТ.КРИНИЧКИ",
+    "slug": "krinicanska-selishhna-tgsmtkrinicki"
+  },
+  {
+    "id": 109,
+    "otg_name": "БОЖЕДАРІВСЬКА СЕЛИЩНА ТГ/СМТ.БОЖЕДАРІВКА",
+    "slug": "bozedarivska-selishhna-tgsmtbozedarivka"
+  },
+  {
+    "id": 110,
+    "otg_name": "НОВОПАВЛІВСЬКА СІЛЬСЬКА ТГ/С.НОВОПАВЛІВКА",
+    "slug": "novopavlivska-silska-tgsnovopavlivka"
+  },
+  {
+    "id": 111,
+    "otg_name": "БОГДАНІВСЬКА СІЛЬСЬКА ТГ/С.БОГДАНІВКА",
+    "slug": "bogdanivska-silska-tgsbogdanivka"
+  },
+  {
+    "id": 112,
+    "otg_name": "ВЕРБКІВСЬКА СІЛЬСЬКА ТГ/С.ВЕРБКИ",
+    "slug": "verbkivska-silska-tgsverbki"
+  },
+  {
+    "id": 113,
+    "otg_name": "ПОКРОВСЬКА СЕЛИЩНА ТГ/СМТ.ПОКРОВСЬКЕ",
+    "slug": "pokrovska-selishhna-tgsmtpokrovske"
+  },
+  {
+    "id": 114,
+    "otg_name": "ВЕЛИКОМИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКОМИХАЙЛІВКА",
+    "slug": "velikomixailivska-silska-tgsvelikomixailivka"
+  },
+  {
+    "id": 115,
+    "otg_name": "МАЛОМИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.МАЛОМИХАЙЛІВКА",
+    "slug": "malomixailivska-silska-tgsmalomixailivka"
+  },
+  {
+    "id": 116,
+    "otg_name": "ВИШНІВСЬКА СЕЛИЩНА ТГ/СМТ.ВИШНЕВЕ",
+    "slug": "visnivska-selishhna-tgsmtvisneve"
+  },
+  {
+    "id": 117,
+    "otg_name": "ЛИХІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛИХІВКА",
+    "slug": "lixivska-selishhna-tgsmtlixivka"
+  },
+  {
+    "id": 118,
+    "otg_name": "П'ЯТИХАТСЬКА МІСЬКА ТГ/М.П'ЯТИХАТКИ",
+    "slug": "piatixatska-miska-tgmpiatixatki"
+  },
+  {
+    "id": 119,
+    "otg_name": "РОЗДОРСЬКА СЕЛИЩНА ТГ/СМТ.РОЗДОРИ",
+    "slug": "rozdorska-selishhna-tgsmtrozdori"
+  },
+  {
+    "id": 120,
+    "otg_name": "СОЛОНЯНСЬКА СЕЛИЩНА ТГ/СМТ.СОЛОНЕ",
+    "slug": "solonianska-selishhna-tgsmtsolone"
+  },
+  {
+    "id": 121,
+    "otg_name": "НОВОПОКРОВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОПОКРОВКА",
+    "slug": "novopokrovska-selishhna-tgsmtnovopokrovka"
+  },
+  {
+    "id": 122,
+    "otg_name": "СВЯТОВАСИЛІВСЬКА СІЛЬСЬКА ТГ/С.СВЯТОВАСИЛІВКА",
+    "slug": "sviatovasilivska-silska-tgssviatovasilivka"
+  },
+  {
+    "id": 123,
+    "otg_name": "СОФІЇВСЬКА СЕЛИЩНА ТГ/СМТ.СОФІЇВКА",
+    "slug": "sofiyivska-selishhna-tgsmtsofiyivka"
+  },
+  {
+    "id": 124,
+    "otg_name": "ВАКУЛІВСЬКА СІЛЬСЬКА ТГ/С.ВАКУЛОВЕ",
+    "slug": "vakulivska-silska-tgsvakulove"
+  },
+  {
+    "id": 125,
+    "otg_name": "ТОМАКІВСЬКА СЕЛИЩНА ТГ/СМТ.ТОМАКІВКА",
+    "slug": "tomakivska-selishhna-tgsmttomakivka"
+  },
+  {
+    "id": 126,
+    "otg_name": "МИРІВСЬКА СЕЛИЩНА ТГ/C. МИРОВЕ",
+    "slug": "mirivska-selishhna-tgc-mirove"
+  },
+  {
+    "id": 127,
+    "otg_name": "ЦАРИЧАНСЬКА СЕЛИЩНА ТГ/СМТ.ЦАРИЧАНКА",
+    "slug": "caricanska-selishhna-tgsmtcaricanka"
+  },
+  {
+    "id": 128,
+    "otg_name": "ЛЯШКІВСЬКА СІЛЬСЬКА ТГ/С.ЛЯШКІВКА",
+    "slug": "liaskivska-silska-tgsliaskivka"
+  },
+  {
+    "id": 129,
+    "otg_name": "МОГИЛІВСЬКА СІЛЬСЬКА ТГ/С.МОГИЛІВ",
+    "slug": "mogilivska-silska-tgsmogiliv"
+  },
+  {
+    "id": 1387,
+    "otg_name": "Вінницька міська ТГ",
+    "slug": "vinnnytska-miska-th"
+  },
+  {
+    "id": 166,
+    "otg_name": "ПОКРОВСЬКА МІСЬКА ТГ/М.ПОКРОВ",
+    "slug": "pokrovska-miska-tgmpokrov"
+  },
+  {
+    "id": 130,
+    "otg_name": "НОВОЛАТІВСЬКА СІЛЬСЬКА ТГ/С.НОВОЛАТІВКА",
+    "slug": "novolativska-silska-tgsnovolativka"
+  },
+  {
+    "id": 131,
+    "otg_name": "ГРЕЧАНОПОДІВСЬКА СІЛЬСЬКА ТГ/С.ГРЕЧАНІ",
+    "slug": "grecanopodivska-silska-tgsgrecani"
+  },
+  {
+    "id": 132,
+    "otg_name": "ДУБОВИКІВСЬКА СІЛЬСЬКА ТГ/С.ДУБОВИКИ",
+    "slug": "dubovikivska-silska-tgsduboviki"
+  },
+  {
+    "id": 133,
+    "otg_name": "ВЕРХІВЦІВСЬКА МІСЬКА ТГ/М.ВЕРХІВЦЕВЕ",
+    "slug": "verxivcivska-miska-tgmverxivceve"
+  },
+  {
+    "id": 134,
+    "otg_name": "МИКОЛАЇВСЬКА СІЛЬСЬКА ТГ/С.МИКОЛАЇВКА",
+    "slug": "mikolayivska-silska-tgsmikolayivka"
+  },
+  {
+    "id": 135,
+    "otg_name": "ДНІПРОВСЬКА МІСЬКА ТГ/М.ДНІПРО",
+    "slug": "dniprovska-miska-tgmdnipro"
+  },
+  {
+    "id": 136,
+    "otg_name": "ЖОВТОВОДСЬКА МІСЬКА ТГ/М.ЖОВТІ ВОДИ",
+    "slug": "zovtovodska-miska-tgmzovti-vodi"
+  },
+  {
+    "id": 137,
+    "otg_name": "ВЕРХНЬОДНІПРОВСЬКА МІСЬКА ТГ/М.ВЕРХНЬОДНІПРОВСЬК",
+    "slug": "verxnodniprovska-miska-tgmverxnodniprovsk"
+  },
+  {
+    "id": 138,
+    "otg_name": "ЛЮБИМІВСЬКА СІЛЬСЬКА ТГ/С.ЛЮБИМІВКА",
+    "slug": "liubimivska-silska-tgsliubimivka"
+  },
+  {
+    "id": 139,
+    "otg_name": "МЕЖІВСЬКА СЕЛИЩНА ТГ/СМТ.МЕЖОВА",
+    "slug": "mezivska-selishhna-tgsmtmezova"
+  },
+  {
+    "id": 140,
+    "otg_name": "СЛОВ'ЯНСЬКА СІЛЬСЬКА ТГ/С.СЛОВ'ЯНКА",
+    "slug": "slovianska-silska-tgsslovianka"
+  },
+  {
+    "id": 141,
+    "otg_name": "ЧЕРВОНОГРИГОРІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРВОНО-ГРИГОРІВКА",
+    "slug": "cervonogrigorivska-selishhna-tgsmtcervono-grigorivka"
+  },
+  {
+    "id": 142,
+    "otg_name": "ПОКРОВСЬКА СІЛЬСЬКА ТГ/С.ПОКРОВСЬКЕ",
+    "slug": "pokrovska-silska-tgspokrovske"
+  },
+  {
+    "id": 143,
+    "otg_name": "ПЕРШОТРАВНЕВСЬКА СІЛЬСЬКА ТГ/С.ПЕРШОТРАВНЕВЕ",
+    "slug": "persotravnevska-silska-tgspersotravneve"
+  },
+  {
+    "id": 144,
+    "otg_name": "ГУБИНИСЬКА СЕЛИЩНА ТГ/СМТ.ГУБИНИХА",
+    "slug": "gubiniska-selishhna-tgsmtgubinixa"
+  },
+  {
+    "id": 145,
+    "otg_name": "МЕЖИРІЦЬКА СІЛЬСЬКА ТГ/С.МЕЖИРІЧ",
+    "slug": "meziricka-silska-tgsmeziric"
+  },
+  {
+    "id": 146,
+    "otg_name": "ТРОЇЦЬКА СІЛЬСЬКА ТГ/С.ТРОЇЦЬКЕ",
+    "slug": "troyicka-silska-tgstroyicke"
+  },
+  {
+    "id": 147,
+    "otg_name": "ПЕТРИКІВСЬКА СЕЛИЩНА ТГ/СМТ.ПЕТРИКІВКА",
+    "slug": "petrikivska-selishhna-tgsmtpetrikivka"
+  },
+  {
+    "id": 148,
+    "otg_name": "МИКОЛАЇВСЬКА СІЛЬСЬКА ТГ/С.МИКОЛАЇВКА",
+    "slug": "mikolayivska-silska-tgsmikolayivka-1"
+  },
+  {
+    "id": 149,
+    "otg_name": "ПЕТРОПАВЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ПЕТРОПАВЛІВКА",
+    "slug": "petropavlivska-selishhna-tgsmtpetropavlivka"
+  },
+  {
+    "id": 150,
+    "otg_name": "БРАГИНІВСЬКА СІЛЬСЬКА ТГ/С.БОГИНІВКА",
+    "slug": "braginivska-silska-tgsboginivka"
+  },
+  {
+    "id": 151,
+    "otg_name": "ІЛАРІОНІВСЬКА СЕЛИЩНА ТГ/СМТ.ІЛАРІОНОВЕ",
+    "slug": "ilarionivska-selishhna-tgsmtilarionove"
+  },
+  {
+    "id": 152,
+    "otg_name": "СЛАВГОРОДСЬКА СЕЛИЩНА ТГ/СМТ.СЛАВГОРОД",
+    "slug": "slavgorodska-selishhna-tgsmtslavgorod"
+  },
+  {
+    "id": 153,
+    "otg_name": "РАЇВСЬКА СІЛЬСЬКА ТГ/С.РАЇВКА",
+    "slug": "rayivska-silska-tgsrayivka"
+  },
+  {
+    "id": 154,
+    "otg_name": "ЗАЙЦІВСЬКА СІЛЬСЬКА ТГ/С.ЗАЙЦЕВЕ",
+    "slug": "zaicivska-silska-tgszaiceve"
+  },
+  {
+    "id": 155,
+    "otg_name": "КИТАЙГОРОДСЬКА СІЛЬСЬКА ТГ/С.КИТАЙГОРОД",
+    "slug": "kitaigorodska-silska-tgskitaigorod"
+  },
+  {
+    "id": 156,
+    "otg_name": "ШИРОКІВСЬКА СЕЛИЩНА ТГ/СМТ.ШИРОКЕ",
+    "slug": "sirokivska-selishhna-tgsmtsiroke"
+  },
+  {
+    "id": 157,
+    "otg_name": "НОВОМОСКОВСЬКА МІСЬКА ТГ/М.НОВОМОСКОВСЬК",
+    "slug": "novomoskovska-miska-tgmnovomoskovsk"
+  },
+  {
+    "id": 158,
+    "otg_name": "ПАВЛОГРАДСЬКА МІСЬКА ТГ/М.ПАВЛОГРАД",
+    "slug": "pavlogradska-miska-tgmpavlograd"
+  },
+  {
+    "id": 159,
+    "otg_name": "ПЕРШОТРАВЕНСЬКА МІСЬКА ТГ/М.ПЕРШОТРАВЕНСЬК",
+    "slug": "persotravenska-miska-tgmpersotravensk"
+  },
+  {
+    "id": 160,
+    "otg_name": "СИНЕЛЬНИКІВСЬКА МІСЬКА ТГ/М.СИНЕЛЬНИКОВЕ",
+    "slug": "sinelnikivska-miska-tgmsinelnikove"
+  },
+  {
+    "id": 161,
+    "otg_name": "ТЕРНІВСЬКА МІСЬКА ТГ/М.ТЕРНІВКА",
+    "slug": "ternivska-miska-tgmternivka"
+  },
+  {
+    "id": 162,
+    "otg_name": "ЮР'ЇВСЬКА СЕЛИЩНА ТГ/СМТ.ЮР'ЇВКА",
+    "slug": "iuryivska-selishhna-tgsmtiuryivka"
+  },
+  {
+    "id": 163,
+    "otg_name": "ЧЕРКАСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРКАСЬКЕ",
+    "slug": "cerkaska-selishhna-tgsmtcerkaske"
+  },
+  {
+    "id": 164,
+    "otg_name": "ВІЛЬНОГІРСЬКА МІСЬКА ТГ/М.ВІЛЬНОГІРСЬК",
+    "slug": "vilnogirska-miska-tgmvilnogirsk"
+  },
+  {
+    "id": 165,
+    "otg_name": "НІКОПОЛЬСЬКА МІСЬКА ТГ/М.НІКОПОЛЬ",
+    "slug": "nikopolska-miska-tgmnikopol"
+  },
+  {
+    "id": 167,
+    "otg_name": "МАРГАНЕЦЬКА МІСЬКА ТГ/М.МАРГАНЕЦЬ",
+    "slug": "marganecka-miska-tgmmarganec"
+  },
+  {
+    "id": 168,
+    "otg_name": "ДЕВЛАДІВСЬКА СІЛЬСЬКА ТГ/С.ДЕВЛАДОВЕ",
+    "slug": "devladivska-silska-tgsdevladove"
+  },
+  {
+    "id": 169,
+    "otg_name": "САКСАГАНСЬКА СІЛЬСЬКА ТГ/С.САКСАГАНЬ",
+    "slug": "saksaganska-silska-tgssaksagan"
+  },
+  {
+    "id": 170,
+    "otg_name": "УКРАЇНСЬКА СІЛЬСЬКА ТГ/С.УКРАЇНСЬКЕ",
+    "slug": "ukrayinska-silska-tgsukrayinske"
+  },
+  {
+    "id": 171,
+    "otg_name": "ЧУМАКІВСЬКА СІЛЬСЬКА ТГ/С.ЧУМАКИ",
+    "slug": "cumakivska-silska-tgscumaki"
+  },
+  {
+    "id": 172,
+    "otg_name": "ЛИЧКІВСЬКА СІЛЬСЬКА ТГ/С.ЛИЧКОВЕ",
+    "slug": "lickivska-silska-tgslickove"
+  },
+  {
+    "id": 173,
+    "otg_name": "ПЕРЕЩЕПИНСЬКА МІСЬКА ТГ/М.ПЕРЕЩЕПИНЕ",
+    "slug": "pereshhepinska-miska-tgmpereshhepine"
+  },
+  {
+    "id": 174,
+    "otg_name": "ПІЩАНСЬКА СІЛЬСЬКА ТГ/С.ПІЩАНКА",
+    "slug": "pishhanska-silska-tgspishhanka"
+  },
+  {
+    "id": 175,
+    "otg_name": "ПІДГОРОДНЕНСЬКА МІСЬКА ТГ/М.ПІДГОРОДНЕ",
+    "slug": "pidgorodnenska-miska-tgmpidgorodne"
+  },
+  {
+    "id": 176,
+    "otg_name": "ГЛЕЮВАТСЬКА СІЛЬСЬКА ТГ/С.ГЛЕЮВАТКА",
+    "slug": "gleiuvatska-silska-tgsgleiuvatka"
+  },
+  {
+    "id": 177,
+    "otg_name": "ЗАТИШНЯНСЬКА СІЛЬСЬКА ТГ/С.ЗАТИШНЕ",
+    "slug": "zatisnianska-silska-tgszatisne"
+  },
+  {
+    "id": 178,
+    "otg_name": "ЧЕРНЕЧЧИНСЬКА СІЛЬСЬКА ТГ/С.ЧЕРНЕЧЧИНА",
+    "slug": "cerneccinska-silska-tgscerneccina"
+  },
+  {
+    "id": 179,
+    "otg_name": "МАГДАЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.МАГДАЛИНІВКА",
+    "slug": "magdalinivska-selishhna-tgsmtmagdalinivka"
+  },
+  {
+    "id": 180,
+    "otg_name": "ОБУХІВСЬКА СЕЛИЩНА ТГ/СМТ.ОБУХІВКА",
+    "slug": "obuxivska-selishhna-tgsmtobuxivka"
+  },
+  {
+    "id": 181,
+    "otg_name": "КАМ'ЯНСЬКА МІСЬКА ТГ/М.КАМ'ЯНСЬКЕ",
+    "slug": "kamianska-miska-tgmkamianske"
+  },
+  {
+    "id": 182,
+    "otg_name": "КРИВОРІЗЬКА МІСЬКА ТГ/М.КРИВИЙ РІГ",
+    "slug": "krivorizka-miska-tgmkrivii-rig"
+  },
+  {
+    "id": 183,
+    "otg_name": "ЧЕРВОНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРВОНЕ",
+    "slug": "cervonenska-selishhna-tgsmtcervone"
+  },
+  {
+    "id": 184,
+    "otg_name": "БАРАНІВСЬКА МІСЬКА ТГ/М.БАРАНІВКА",
+    "slug": "baranivska-miska-tgmbaranivka"
+  },
+  {
+    "id": 185,
+    "otg_name": "ДОВБИСЬКА СЕЛИЩНА ТГ/СМТ.ДОВБИШ",
+    "slug": "dovbiska-selishhna-tgsmtdovbis"
+  },
+  {
+    "id": 186,
+    "otg_name": "ДУБРІВСЬКА СІЛЬСЬКА ТГ/С.ДУБРІВКА",
+    "slug": "dubrivska-silska-tgsdubrivka"
+  },
+  {
+    "id": 187,
+    "otg_name": "СЕМЕНІВСЬКА СІЛЬСЬКА ТГ/С.СЕМЕНІВКА",
+    "slug": "semenivska-silska-tgssemenivka"
+  },
+  {
+    "id": 188,
+    "otg_name": "БРУСИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.БРУСИЛІВ",
+    "slug": "brusilivska-selishhna-tgsmtbrusiliv"
+  },
+  {
+    "id": 189,
+    "otg_name": "ХОРОШІВСЬКА СЕЛИЩНА ТГ/СМТ.ХОРОШІВ",
+    "slug": "xorosivska-selishhna-tgsmtxorosiv"
+  },
+  {
+    "id": 190,
+    "otg_name": "ІРШАНСЬКА СЕЛИЩНА ТГ/СМТ.ІРШАНСЬК",
+    "slug": "irsanska-selishhna-tgsmtirsansk"
+  },
+  {
+    "id": 191,
+    "otg_name": "НОВОБОРІВСЬКА СЕЛИЩНА ТГ/СМТ.НОВА БОРОВА",
+    "slug": "novoborivska-selishhna-tgsmtnova-borova"
+  },
+  {
+    "id": 192,
+    "otg_name": "МИРОПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.МИРОПІЛЬ",
+    "slug": "miropilska-selishhna-tgsmtmiropil"
+  },
+  {
+    "id": 193,
+    "otg_name": "РОМАНІВСЬКА СЕЛИЩНА ТГ/СМТ.РОМАНІВ",
+    "slug": "romanivska-selishhna-tgsmtromaniv"
+  },
+  {
+    "id": 194,
+    "otg_name": "БАРАШІВСЬКА СІЛЬСЬКА ТГ/С.БАРАШІ",
+    "slug": "barasivska-silska-tgsbarasi"
+  },
+  {
+    "id": 195,
+    "otg_name": "ТЕТЕРІВСЬКА СІЛЬСЬКА ТГ/С.ТЕТЕРІВКА",
+    "slug": "teterivska-silska-tgsteterivka"
+  },
+  {
+    "id": 196,
+    "otg_name": "СТАНИШІВСЬКА СІЛЬСЬКА ТГ/С.СТАНИШІВКА",
+    "slug": "stanisivska-silska-tgsstanisivka"
+  },
+  {
+    "id": 197,
+    "otg_name": "УШОМИРСЬКА СІЛЬСЬКА ТГ/С.УШОМИР",
+    "slug": "usomirska-silska-tgsusomir"
+  },
+  {
+    "id": 198,
+    "otg_name": "ГОРЩИКІВСЬКА СІЛЬСЬКА ТГ/С.ГОРЩИК",
+    "slug": "gorshhikivska-silska-tgsgorshhik"
+  },
+  {
+    "id": 199,
+    "otg_name": "КОРОСТИШІВСЬКА МІСЬКА ТГ/М.КОРОСТИШІВ",
+    "slug": "korostisivska-miska-tgmkorostisiv"
+  },
+  {
+    "id": 200,
+    "otg_name": "ЛУГИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛУГИНИ",
+    "slug": "luginska-selishhna-tgsmtlugini"
+  },
+  {
+    "id": 201,
+    "otg_name": "ЧОПОВИЦЬКА СЕЛИЩНА ТГ/СМТ.ЧОПОВИЧІ",
+    "slug": "copovicka-selishhna-tgsmtcopovici"
+  },
+  {
+    "id": 202,
+    "otg_name": "НАРОДИЦЬКА СЕЛИЩНА ТГ/СМТ.НАРОДИЧІ",
+    "slug": "narodicka-selishhna-tgsmtnarodici"
+  },
+  {
+    "id": 203,
+    "otg_name": "ГОРОДНИЦЬКА СЕЛИЩНА ТГ/СМТ.ГОРОДНИЦЯ",
+    "slug": "gorodnicka-selishhna-tgsmtgorodnicia"
+  },
+  {
+    "id": 204,
+    "otg_name": "ЧИЖІВСЬКА СІЛЬСЬКА ТГ/С.ЧИЖІВКА",
+    "slug": "cizivska-silska-tgscizivka"
+  },
+  {
+    "id": 205,
+    "otg_name": "ЯРУНСЬКА СІЛЬСЬКА ТГ/С.ЯРУНЬ",
+    "slug": "iarunska-silska-tgsiarun"
+  },
+  {
+    "id": 206,
+    "otg_name": "ГЛАДКОВИЦЬКА СІЛЬСЬКА ТГ/С.ГЛАДКОВИЧІ",
+    "slug": "gladkovicka-silska-tgsgladkovici"
+  },
+  {
+    "id": 207,
+    "otg_name": "ОЛЕВСЬКА МІСЬКА ТГ/М.ОЛЕВСЬК",
+    "slug": "olevska-miska-tgmolevsk"
+  },
+  {
+    "id": 208,
+    "otg_name": "БІЛОКОРОВИЦЬКА СІЛЬСЬКА ТГ/С.БІЛОКОРОВИЧІ",
+    "slug": "bilokorovicka-silska-tgsbilokorovici"
+  },
+  {
+    "id": 209,
+    "otg_name": "АНДРУШКІВСЬКА СІЛЬСЬКА ТГ/С.АНДРУШКИ",
+    "slug": "andruskivska-silska-tgsandruski"
+  },
+  {
+    "id": 210,
+    "otg_name": "ПОПІЛЬНЯНСЬКА СЕЛИЩНА ТГ/СМТ.ПОПІЛЬНЯ",
+    "slug": "popilnianska-selishhna-tgsmtpopilnia"
+  },
+  {
+    "id": 211,
+    "otg_name": "КОРНИНСЬКА СЕЛИЩНА ТГ/СМТ.КОРНИН",
+    "slug": "korninska-selishhna-tgsmtkornin"
+  },
+  {
+    "id": 212,
+    "otg_name": "АНДРУШІВСЬКА МІСЬКА ТГ/М.АНДРУШІВКА",
+    "slug": "andrusivska-miska-tgmandrusivka"
+  },
+  {
+    "id": 213,
+    "otg_name": "ВОЛИЦЬКА СІЛЬСЬКА ТГ/С.ВОЛИЦЯ",
+    "slug": "volicka-silska-tgsvolicia"
+  },
+  {
+    "id": 214,
+    "otg_name": "КВІТНЕВА СІЛЬСЬКА ТГ/С.КВІТНЕВЕ",
+    "slug": "kvitneva-silska-tgskvitneve"
+  },
+  {
+    "id": 215,
+    "otg_name": "ВИШЕВИЦЬКА СІЛЬСЬКА ТГ/С.ВИШЕВИЧІ",
+    "slug": "visevicka-silska-tgsvisevici"
+  },
+  {
+    "id": 216,
+    "otg_name": "ПОТІЇВСЬКА СІЛЬСЬКА ТГ/С.ПОТІЇВКА",
+    "slug": "potiyivska-silska-tgspotiyivka"
+  },
+  {
+    "id": 217,
+    "otg_name": "ГОРОДОЦЬКА СЕЛИЩНА ТГ/СМТ.ГОРОДОК",
+    "slug": "gorodocka-selishhna-tgsmtgorodok"
+  },
+  {
+    "id": 218,
+    "otg_name": "ЧЕРНЯХІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРНЯХІВ",
+    "slug": "cerniaxivska-selishhna-tgsmtcerniaxiv"
+  },
+  {
+    "id": 219,
+    "otg_name": "ВИСОКІВСЬКА СІЛЬСЬКА ТГ/С.ВИСОКЕ",
+    "slug": "visokivska-silska-tgsvisoke"
+  },
+  {
+    "id": 220,
+    "otg_name": "КРАСНОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.КРАСНОПІЛЬ",
+    "slug": "krasnopilska-silska-tgskrasnopil"
+  },
+  {
+    "id": 221,
+    "otg_name": "ЄМІЛЬЧИНСЬКА СЕЛИЩНА ТГ/СМТ.ЄМІЛЬЧИНЕ",
+    "slug": "jemilcinska-selishhna-tgsmtjemilcine"
+  },
+  {
+    "id": 222,
+    "otg_name": "ГЛИБОЧИЦЬКА СІЛЬСЬКА ТГ/С.ГЛИБОЧИЦЯ",
+    "slug": "glibocicka-silska-tgsglibocicia"
+  },
+  {
+    "id": 223,
+    "otg_name": "БЕРЕЗІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕЗІВКА",
+    "slug": "berezivska-silska-tgsberezivka"
+  },
+  {
+    "id": 224,
+    "otg_name": "НОВОГУЙВИНСЬКА СЕЛИЩНА ТГ/СМТ.НОВОГУЙВИНСЬКЕ",
+    "slug": "novoguivinska-selishhna-tgsmtnovoguivinske"
+  },
+  {
+    "id": 225,
+    "otg_name": "ОЛІЇВСЬКА СІЛЬСЬКА ТГ/С.ОЛІЇВКА",
+    "slug": "oliyivska-silska-tgsoliyivka"
+  },
+  {
+    "id": 226,
+    "otg_name": "ЛЮБАРСЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБАР",
+    "slug": "liubarska-selishhna-tgsmtliubar"
+  },
+  {
+    "id": 227,
+    "otg_name": "БРОНИКІВСЬКА СІЛЬСЬКА ТГ/С.РОМАНІВКА",
+    "slug": "bronikivska-silska-tgsromanivka"
+  },
+  {
+    "id": 228,
+    "otg_name": "ПІЩІВСЬКА СІЛЬСЬКА ТГ/С.ПІЩІВ",
+    "slug": "pishhivska-silska-tgspishhiv"
+  },
+  {
+    "id": 229,
+    "otg_name": "ОВРУЦЬКА МІСЬКА ТГ/М.ОВРУЧ",
+    "slug": "ovrucka-miska-tgmovruc"
+  },
+  {
+    "id": 230,
+    "otg_name": "СЛОВЕЧАНСЬКА СІЛЬСЬКА ТГ/С.СЛОВЕЧНЕ",
+    "slug": "slovecanska-silska-tgsslovecne"
+  },
+  {
+    "id": 231,
+    "otg_name": "РАДОМИШЛЬСЬКА МІСЬКА ТГ/М.РАДОМИШЛЬ",
+    "slug": "radomislska-miska-tgmradomisl"
+  },
+  {
+    "id": 232,
+    "otg_name": "ПУЛИНСЬКА СЕЛИЩНА ТГ/СМТ.ПУЛИНИ",
+    "slug": "pulinska-selishhna-tgsmtpulini"
+  },
+  {
+    "id": 233,
+    "otg_name": "ГРИШКОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ГРИШКІВЦІ",
+    "slug": "griskovecka-selishhna-tgsmtgriskivci"
+  },
+  {
+    "id": 234,
+    "otg_name": "РАЙГОРОДОЦЬКА СІЛЬСЬКА ТГ/С.РАЙГОРОДОК",
+    "slug": "raigorodocka-silska-tgsraigorodok"
+  },
+  {
+    "id": 235,
+    "otg_name": "ШВАЙКІВСЬКА СІЛЬСЬКА ТГ/С.ШВАЙКІВКА",
+    "slug": "svaikivska-silska-tgssvaikivka"
+  },
+  {
+    "id": 236,
+    "otg_name": "ВЧОРАЙШЕНСЬКА СІЛЬСЬКА ТГ/С.ВЧОРАЙШЕ",
+    "slug": "vcoraisenska-silska-tgsvcoraise"
+  },
+  {
+    "id": 237,
+    "otg_name": "ВІЛЬШАНСЬКА СІЛЬСЬКА ТГ/С.ВІЛЬШАНКА",
+    "slug": "vilsanska-silska-tgsvilsanka"
+  },
+  {
+    "id": 238,
+    "otg_name": "РУЖИНСЬКА СЕЛИЩНА ТГ/СМТ.РУЖИН",
+    "slug": "ruzinska-selishhna-tgsmtruzin"
+  },
+  {
+    "id": 239,
+    "otg_name": "НОВОГРАД-ВОЛИНСЬКА МІСЬКА ТГ/М.НОВОГРАД-ВОЛИНСЬКИЙ",
+    "slug": "novograd-volinska-miska-tgmnovograd-volinskii"
+  },
+  {
+    "id": 240,
+    "otg_name": "ЖИТОМИРСЬКА МІСЬКА ТГ/М.ЖИТОМИР",
+    "slug": "zitomirska-miska-tgmzitomir"
+  },
+  {
+    "id": 241,
+    "otg_name": "ХАРИТОНІВСЬКА СІЛЬСЬКА ТГ/С.ХАРИТОНІВКА",
+    "slug": "xaritonivska-silska-tgsxaritonivka"
+  },
+  {
+    "id": 242,
+    "otg_name": "СТРИЇВСЬКА СІЛЬСЬКА ТГ/С.СТРИЄВА",
+    "slug": "striyivska-silska-tgsstrijeva"
+  },
+  {
+    "id": 243,
+    "otg_name": "СТАРОСІЛЕЦЬКА СІЛЬСЬКА ТГ/С.СТАРОСІЛЬЦІ",
+    "slug": "starosilecka-silska-tgsstarosilci"
+  },
+  {
+    "id": 244,
+    "otg_name": "БЕРДИЧІВСЬКА МІСЬКА ТГ/М.БЕРДИЧІВ",
+    "slug": "berdicivska-miska-tgmberdiciv"
+  },
+  {
+    "id": 245,
+    "otg_name": "КОРОСТЕНСЬКА МІСЬКА ТГ/М.КОРОСТЕНЬ",
+    "slug": "korostenska-miska-tgmkorosten"
+  },
+  {
+    "id": 246,
+    "otg_name": "МАЛИНСЬКА МІСЬКА ТГ/М.МАЛИН",
+    "slug": "malinska-miska-tgmmalin"
+  },
+  {
+    "id": 247,
+    "otg_name": "БАТІВСЬКА СЕЛИЩНА ТГ/СМТ.БАТЬОВО",
+    "slug": "bativska-selishhna-tgsmtbatovo"
+  },
+  {
+    "id": 248,
+    "otg_name": "ВЕЛИКОБЕРЕЗЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ БЕРЕГИ",
+    "slug": "velikoberezka-silska-tgsveliki-beregi"
+  },
+  {
+    "id": 249,
+    "otg_name": "ВЕЛИКОБИЙГАНСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА БИЙГАНЬ",
+    "slug": "velikobiiganska-silska-tgsvelika-biigan"
+  },
+  {
+    "id": 250,
+    "otg_name": "КОСОНЬСЬКА СІЛЬСЬКА ТГ/С.КОСОНЬ",
+    "slug": "kosonska-silska-tgskoson"
+  },
+  {
+    "id": 251,
+    "otg_name": "ВЕЛИКОБЕРЕЗНЯНСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКИЙ БЕРЕЗНИЙ",
+    "slug": "velikobereznianska-selishhna-tgsmtvelikii-bereznii"
+  },
+  {
+    "id": 252,
+    "otg_name": "КОСТРИНСЬКА СІЛЬСЬКА ТГ/С.КОСТРИНА",
+    "slug": "kostrinska-silska-tgskostrina"
+  },
+  {
+    "id": 253,
+    "otg_name": "СТАВНЕНСЬКА СІЛЬСЬКА ТГ/С.СТАВНЕ",
+    "slug": "stavnenska-silska-tgsstavne"
+  },
+  {
+    "id": 254,
+    "otg_name": "ВИЛОЦЬКА СЕЛИЩНА ТГ/СМТ.ВИЛОК",
+    "slug": "vilocka-selishhna-tgsmtvilok"
+  },
+  {
+    "id": 268,
+    "otg_name": "ПИЛИПЕЦЬКА СІЛЬСЬКА ТГ/С.ПИЛИПЕЦЬ",
+    "slug": "pilipecka-silska-tgspilipec"
+  },
+  {
+    "id": 255,
+    "otg_name": "ВИНОГРАДІВСЬКА МІСЬКА ТГ/М.ВИНОГРАДІВ",
+    "slug": "vinogradivska-miska-tgmvinogradiv"
+  },
+  {
+    "id": 256,
+    "otg_name": "КОРОЛІВСЬКА СЕЛИЩНА ТГ/СМТ.КОРОЛЕВО",
+    "slug": "korolivska-selishhna-tgsmtkorolevo"
+  },
+  {
+    "id": 257,
+    "otg_name": "ПИЙТЕРФОЛВІВСЬКА СІЛЬСЬКА ТГ/С.ПИЙТЕРФОЛВО",
+    "slug": "piiterfolvivska-silska-tgspiiterfolvo"
+  },
+  {
+    "id": 258,
+    "otg_name": "ВОЛОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВОЛОВЕЦЬ",
+    "slug": "volovecka-selishhna-tgsmtvolovec"
+  },
+  {
+    "id": 259,
+    "otg_name": "ЖДЕНІЇВСЬКА СЕЛИЩНА ТГ/СМТ.ЖДЕНІЄВО",
+    "slug": "zdeniyivska-selishhna-tgsmtzdenijevo"
+  },
+  {
+    "id": 260,
+    "otg_name": "НИЖНЬОВОРІТСЬКА СІЛЬСЬКА ТГ/С.НИЖНІ ВОРОТА",
+    "slug": "niznovoritska-silska-tgsnizni-vorota"
+  },
+  {
+    "id": 261,
+    "otg_name": "БІЛКІВСЬКА СІЛЬСЬКА ТГ/С.БІЛКИ",
+    "slug": "bilkivska-silska-tgsbilki"
+  },
+  {
+    "id": 262,
+    "otg_name": "ДОВЖАНСЬКА СІЛЬСЬКА ТГ/С.ДОВГЕ",
+    "slug": "dovzanska-silska-tgsdovge"
+  },
+  {
+    "id": 263,
+    "otg_name": "ЗАРІЧАНСЬКА СІЛЬСЬКА ТГ/С.ЗАРІЧЧЯ",
+    "slug": "zaricanska-silska-tgszariccia"
+  },
+  {
+    "id": 264,
+    "otg_name": "ІРШАВСЬКА МІСЬКА ТГ/М.ІРШАВА",
+    "slug": "irsavska-miska-tgmirsava"
+  },
+  {
+    "id": 265,
+    "otg_name": "КАМ'ЯНСЬКА СІЛЬСЬКА ТГ/С.КАМ'ЯНСЬКЕ",
+    "slug": "kamianska-silska-tgskamianske"
+  },
+  {
+    "id": 266,
+    "otg_name": "КОЛОЧАВСЬКА СІЛЬСЬКА ТГ/С.КОЛОЧАВА",
+    "slug": "kolocavska-silska-tgskolocava"
+  },
+  {
+    "id": 267,
+    "otg_name": "МІЖГІРСЬКА СЕЛИЩНА ТГ/СМТ.МІЖГІР’Я",
+    "slug": "mizgirska-selishhna-tgsmtmizgiria"
+  },
+  {
+    "id": 269,
+    "otg_name": "СИНЕВИРСЬКА СІЛЬСЬКА ТГ/С.СИНЕВИР",
+    "slug": "sinevirska-silska-tgssinevir"
+  },
+  {
+    "id": 270,
+    "otg_name": "ВЕЛИКОЛУЧКІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ ЛУЧКИ",
+    "slug": "velikoluckivska-silska-tgsveliki-lucki"
+  },
+  {
+    "id": 271,
+    "otg_name": "ВЕРХНЬОКОРОПЕЦЬКА СІЛЬСЬКА ТГ/С.ВЕРХНІЙ КОРОПЕЦЬ",
+    "slug": "verxnokoropecka-silska-tgsverxnii-koropec"
+  },
+  {
+    "id": 272,
+    "otg_name": "ГОРОНДІВСЬКА СІЛЬСЬКА ТГ/С.ГОРОНДА",
+    "slug": "gorondivska-silska-tgsgoronda"
+  },
+  {
+    "id": 273,
+    "otg_name": "ІВАНОВЕЦЬКА СІЛЬСЬКА ТГ/С.ІВАНІВЦІ",
+    "slug": "ivanovecka-silska-tgsivanivci"
+  },
+  {
+    "id": 274,
+    "otg_name": "КОЛЬЧИНСЬКА СЕЛИЩНА ТГ/СМТ.КОЛЬЧИНО",
+    "slug": "kolcinska-selishhna-tgsmtkolcino"
+  },
+  {
+    "id": 275,
+    "otg_name": "ЧИНАДІЇВСЬКА СЕЛИЩНА ТГ/СМТ.ЧИНАДІЙОВО",
+    "slug": "cinadiyivska-selishhna-tgsmtcinadiiovo"
+  },
+  {
+    "id": 276,
+    "otg_name": "ДУБРИНИЦЬКО-МАЛОБЕРЕЗНЯНСЬКА СІЛЬСЬКА ТГ/С.ДУБРИНИЧІ",
+    "slug": "dubrinicko-malobereznianska-silska-tgsdubrinici"
+  },
+  {
+    "id": 277,
+    "otg_name": "ПЕРЕЧИНСЬКА МІСЬКА ТГ/М.ПЕРЕЧИН",
+    "slug": "perecinska-miska-tgmperecin"
+  },
+  {
+    "id": 278,
+    "otg_name": "ТУР'Є-РЕМЕТІВСЬКА СІЛЬСЬКА ТГ/С.ТУР'Ї РЕМЕТИ",
+    "slug": "turje-remetivska-silska-tgsturyi-remeti"
+  },
+  {
+    "id": 279,
+    "otg_name": "БОГДАНСЬКА СІЛЬСЬКА ТГ/С.БОГДАН",
+    "slug": "bogdanska-silska-tgsbogdan"
+  },
+  {
+    "id": 280,
+    "otg_name": "ВЕЛИКОБИЧКІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКИЙ БИЧКІВ",
+    "slug": "velikobickivska-selishhna-tgsmtvelikii-bickiv"
+  },
+  {
+    "id": 992,
+    "otg_name": "САДІВСЬКА СІЛЬСЬКА ТГ/С.САД",
+    "slug": "sadivska-silska-tgssad"
+  },
+  {
+    "id": 281,
+    "otg_name": "РАХІВСЬКА МІСЬКА ТГ/М.РАХІВ",
+    "slug": "raxivska-miska-tgmraxiv"
+  },
+  {
+    "id": 282,
+    "otg_name": "ЯСІНЯНСЬКА СЕЛИЩНА ТГ/СМТ.ЯСІНЯ",
+    "slug": "iasinianska-selishhna-tgsmtiasinia"
+  },
+  {
+    "id": 283,
+    "otg_name": "КЕРЕЦЬКІВСЬКА СІЛЬСЬКА ТГ/С.КЕРЕЦЬКИ",
+    "slug": "kereckivska-silska-tgskerecki"
+  },
+  {
+    "id": 284,
+    "otg_name": "НЕЛІПИНСЬКА СІЛЬСЬКА ТГ/С.НЕЛІПИНО",
+    "slug": "nelipinska-silska-tgsnelipino"
+  },
+  {
+    "id": 285,
+    "otg_name": "ПОЛЯНСЬКА СІЛЬСЬКА ТГ/С.ПОЛЯНА",
+    "slug": "polianska-silska-tgspoliana"
+  },
+  {
+    "id": 286,
+    "otg_name": "СВАЛЯВСЬКА МІСЬКА ТГ/М.СВАЛЯВА",
+    "slug": "svaliavska-miska-tgmsvaliava"
+  },
+  {
+    "id": 287,
+    "otg_name": "БЕДЕВЛЯНСЬКА СІЛЬСЬКА ТГ/С.БЕДЕВЛЯ",
+    "slug": "bedevlianska-silska-tgsbedevlia"
+  },
+  {
+    "id": 288,
+    "otg_name": "БУШТИНСЬКА СЕЛИЩНА ТГ/СМТ.БУШТИНО",
+    "slug": "bustinska-selishhna-tgsmtbustino"
+  },
+  {
+    "id": 289,
+    "otg_name": "ВІЛЬХОВЕЦЬКА СІЛЬСЬКА ТГ/С.ВІЛЬХІВЦІ",
+    "slug": "vilxovecka-silska-tgsvilxivci"
+  },
+  {
+    "id": 290,
+    "otg_name": "ДУБІВСЬКА СЕЛИЩНА ТГ/СМТ.ДУБОВЕ",
+    "slug": "dubivska-selishhna-tgsmtdubove"
+  },
+  {
+    "id": 291,
+    "otg_name": "НЕРЕСНИЦЬКА СІЛЬСЬКА ТГ/С.НЕРЕСНИЦЯ",
+    "slug": "neresnicka-silska-tgsneresnicia"
+  },
+  {
+    "id": 292,
+    "otg_name": "СОЛОТВИНСЬКА СЕЛИЩНА ТГ/СМТ.СОЛОТВИНО",
+    "slug": "solotvinska-selishhna-tgsmtsolotvino"
+  },
+  {
+    "id": 293,
+    "otg_name": "ТЕРЕСВЯНСЬКА СЕЛИЩНА ТГ/СМТ.ТЕРЕСВА",
+    "slug": "teresvianska-selishhna-tgsmtteresva"
+  },
+  {
+    "id": 1007,
+    "otg_name": "РОМЕНСЬКА МІСЬКА ТГ/М.РОМНИ",
+    "slug": "romenska-miska-tgmromni"
+  },
+  {
+    "id": 294,
+    "otg_name": "ТЯЧІВСЬКА МІСЬКА ТГ/М.ТЯЧІВ",
+    "slug": "tiacivska-miska-tgmtiaciv"
+  },
+  {
+    "id": 295,
+    "otg_name": "УГЛЯНСЬКА СІЛЬСЬКА ТГ/С.УГЛЯ",
+    "slug": "uglianska-silska-tgsuglia"
+  },
+  {
+    "id": 296,
+    "otg_name": "УСТЬ-ЧОРНЯНСЬКА СЕЛИЩНА ТГ/СМТ.УСТЬ-ЧОРНА",
+    "slug": "ust-cornianska-selishhna-tgsmtust-corna"
+  },
+  {
+    "id": 297,
+    "otg_name": "БАРАНИНСЬКА СІЛЬСЬКА ТГ/С.БАРАНИНЦІ",
+    "slug": "baraninska-silska-tgsbaraninci"
+  },
+  {
+    "id": 298,
+    "otg_name": "ВЕЛИКОДОБРОНСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА ДОБРОНЬ",
+    "slug": "velikodobronska-silska-tgsvelika-dobron"
+  },
+  {
+    "id": 299,
+    "otg_name": "ОНОКІВСЬКА СІЛЬСЬКА ТГ/С.ОНОКІВЦІ",
+    "slug": "onokivska-silska-tgsonokivci"
+  },
+  {
+    "id": 300,
+    "otg_name": "СЕРЕДНЯНСЬКА СЕЛИЩНА ТГ/СМТ.СЕРЕДНЄ",
+    "slug": "serednianska-selishhna-tgsmtserednje"
+  },
+  {
+    "id": 301,
+    "otg_name": "СЮРТІВСЬКА СІЛЬСЬКА ТГ/С.СЮРТЕ",
+    "slug": "siurtivska-silska-tgssiurte"
+  },
+  {
+    "id": 302,
+    "otg_name": "ХОЛМКІВСЬКА СІЛЬСЬКА ТГ/С.ХОЛМОК",
+    "slug": "xolmkivska-silska-tgsxolmok"
+  },
+  {
+    "id": 303,
+    "otg_name": "ВИШКІВСЬКА СЕЛИЩНА ТГ/СМТ.ВИШКОВО",
+    "slug": "viskivska-selishhna-tgsmtviskovo"
+  },
+  {
+    "id": 304,
+    "otg_name": "ГОРІНЧІВСЬКА СІЛЬСЬКА ТГ/С.ГОРІНЧОВО",
+    "slug": "gorincivska-silska-tgsgorincovo"
+  },
+  {
+    "id": 305,
+    "otg_name": "ДРАГІВСЬКА СІЛЬСЬКА ТГ/С.ДРАГОВО",
+    "slug": "dragivska-silska-tgsdragovo"
+  },
+  {
+    "id": 306,
+    "otg_name": "БЕРЕГІВСЬКА МІСЬКА ТГ/М.БЕРЕГОВЕ",
+    "slug": "beregivska-miska-tgmberegove"
+  },
+  {
+    "id": 307,
+    "otg_name": "МУКАЧІВСЬКА МІСЬКА ТГ/М.МУКАЧЕВО",
+    "slug": "mukacivska-miska-tgmmukacevo"
+  },
+  {
+    "id": 308,
+    "otg_name": "УЖГОРОДСЬКА МІСЬКА ТГ/М.УЖГОРОД",
+    "slug": "uzgorodska-miska-tgmuzgorod"
+  },
+  {
+    "id": 309,
+    "otg_name": "ХУСТСЬКА МІСЬКА ТГ/М.ХУСТ",
+    "slug": "xustska-miska-tgmxust"
+  },
+  {
+    "id": 310,
+    "otg_name": "ЧОПСЬКА МІСЬКА ТГ/М.ЧОП",
+    "slug": "copska-miska-tgmcop"
+  },
+  {
+    "id": 311,
+    "otg_name": "АНДРІВСЬКА СІЛЬСЬКА ТГ/С.АНДРІВКА",
+    "slug": "andrivska-silska-tgsandrivka"
+  },
+  {
+    "id": 312,
+    "otg_name": "АНДРІЇВСЬКА СЕЛИЩНА ТГ/СМТ.АНДРІЇВКА",
+    "slug": "andriyivska-selishhna-tgsmtandriyivka"
+  },
+  {
+    "id": 313,
+    "otg_name": "БЕРЕСТІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕСТОВЕ",
+    "slug": "berestivska-silska-tgsberestove"
+  },
+  {
+    "id": 314,
+    "otg_name": "ОСИПЕНКІВСЬКА СІЛЬСЬКА ТГ/С.ОСИПЕНКО",
+    "slug": "osipenkivska-silska-tgsosipenko"
+  },
+  {
+    "id": 315,
+    "otg_name": "БІЛЬМАЦЬКА СЕЛИЩНА ТГ/СМТ.БІЛЬМАК",
+    "slug": "bilmacka-selishhna-tgsmtbilmak"
+  },
+  {
+    "id": 316,
+    "otg_name": "КОМИШ-ЗОРЯНСЬКА СЕЛИЩНА ТГ/СМТ.КОМИШ-ЗОРЯ",
+    "slug": "komis-zorianska-selishhna-tgsmtkomis-zoria"
+  },
+  {
+    "id": 317,
+    "otg_name": "СМИРНОВСЬКА СІЛЬСЬКА ТГ/С.СМИРНОВЕ",
+    "slug": "smirnovska-silska-tgssmirnove"
+  },
+  {
+    "id": 318,
+    "otg_name": "ВАСИЛІВСЬКА МІСЬКА ТГ/М.ВАСИЛІВКА",
+    "slug": "vasilivska-miska-tgmvasilivka"
+  },
+  {
+    "id": 319,
+    "otg_name": "ДНІПРОРУДНЕНСЬКА МІСЬКА ТГ/М.ДНІПРОРУДНЕ",
+    "slug": "dniprorudnenska-miska-tgmdniprorudne"
+  },
+  {
+    "id": 356,
+    "otg_name": "ОРІХІВСЬКА МІСЬКА ТГ/М.ОРІХІВ",
+    "slug": "orixivska-miska-tgmorixiv"
+  },
+  {
+    "id": 447,
+    "otg_name": "ГІРСЬКА СІЛЬСЬКА ТГ/С.ГОРА",
+    "slug": "girska-silska-tgsgora"
+  },
+  {
+    "id": 320,
+    "otg_name": "МАЛОБІЛОЗЕРСЬКА СІЛЬСЬКА ТГ/С.МАЛА БІЛОЗЕРКА",
+    "slug": "malobilozerska-silska-tgsmala-bilozerka"
+  },
+  {
+    "id": 321,
+    "otg_name": "СТЕПНОГІРСЬКА СЕЛИЩНА ТГ/СМТ.СТЕПНОГІРСЬК",
+    "slug": "stepnogirska-selishhna-tgsmtstepnogirsk"
+  },
+  {
+    "id": 322,
+    "otg_name": "ВЕЛИКОБІЛОЗЕРСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА БІЛОЗЕРКА",
+    "slug": "velikobilozerska-silska-tgsvelika-bilozerka"
+  },
+  {
+    "id": 323,
+    "otg_name": "ВЕСЕЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕСЕЛЕ",
+    "slug": "veselivska-selishhna-tgsmtvesele"
+  },
+  {
+    "id": 324,
+    "otg_name": "НОВОУСПЕНІВСЬКА СІЛЬСЬКА ТГ/С.НОВОУСПЕНІВКА",
+    "slug": "novouspenivska-silska-tgsnovouspenivka"
+  },
+  {
+    "id": 325,
+    "otg_name": "ЧКАЛОВСЬКА СІЛЬСЬКА ТГ/С.ЧКАЛОВЕ",
+    "slug": "ckalovska-silska-tgsckalove"
+  },
+  {
+    "id": 326,
+    "otg_name": "ВІЛЬНЯНСЬКА МІСЬКА ТГ/М.ВІЛЬНЯНСЬК",
+    "slug": "vilnianska-miska-tgmvilniansk"
+  },
+  {
+    "id": 327,
+    "otg_name": "МАТВІЇВСЬКА СІЛЬСЬКА ТГ/С.МАТВІЇВКА",
+    "slug": "matviyivska-silska-tgsmatviyivka"
+  },
+  {
+    "id": 328,
+    "otg_name": "МИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.МИХАЙЛІВКА",
+    "slug": "mixailivska-silska-tgsmixailivka"
+  },
+  {
+    "id": 329,
+    "otg_name": "МИХАЙЛО-ЛУКАШІВСЬКА СІЛЬСЬКА ТГ/С.МИХАЙЛО-ЛУКАШЕВЕ",
+    "slug": "mixailo-lukasivska-silska-tgsmixailo-lukaseve"
+  },
+  {
+    "id": 330,
+    "otg_name": "ПАВЛІВСЬКА СІЛЬСЬКА ТГ/С.ПАВЛІВСЬКЕ",
+    "slug": "pavlivska-silska-tgspavlivske"
+  },
+  {
+    "id": 331,
+    "otg_name": "ПЕТРО-МИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.ПЕТРО-МИХАЙЛІВКА",
+    "slug": "petro-mixailivska-silska-tgspetro-mixailivka"
+  },
+  {
+    "id": 332,
+    "otg_name": "ВОЗДВИЖІВСЬКА СІЛЬСЬКА ТГ/С.ВОЗДВИЖІВКА",
+    "slug": "vozdvizivska-silska-tgsvozdvizivka"
+  },
+  {
+    "id": 333,
+    "otg_name": "ГУЛЯЙПІЛЬСЬКА МІСЬКА ТГ/М.ГУЛЯЙПОЛЕ",
+    "slug": "guliaipilska-miska-tgmguliaipole"
+  },
+  {
+    "id": 334,
+    "otg_name": "МАЛИНІВСЬКА СЕЛИЩНА ТГ/C.МАЛИНІВКА",
+    "slug": "malinivska-selishhna-tgcmalinivka"
+  },
+  {
+    "id": 335,
+    "otg_name": "ДОЛИНСЬКА СІЛЬСЬКА ТГ/С.ДОЛИНСЬКЕ",
+    "slug": "dolinska-silska-tgsdolinske"
+  },
+  {
+    "id": 336,
+    "otg_name": "КУШУГУМСЬКА СЕЛИЩНА ТГ/СМТ.КУШУГУМ",
+    "slug": "kusugumska-selishhna-tgsmtkusugum"
+  },
+  {
+    "id": 337,
+    "otg_name": "НОВО-ОЛЕКСАНДРІВСЬКА СІЛЬСЬКА ТГ/С.НОВООЛЕКСАНДРІВКА",
+    "slug": "novo-oleksandrivska-silska-tgsnovooleksandrivka"
+  },
+  {
+    "id": 338,
+    "otg_name": "СТЕПНЕНСЬКА СІЛЬСЬКА ТГ/С.СТЕПНЕ",
+    "slug": "stepnenska-silska-tgsstepne"
+  },
+  {
+    "id": 339,
+    "otg_name": "ШИРОКІВСЬКА СІЛЬСЬКА ТГ/С.ШИРОКЕ",
+    "slug": "sirokivska-silska-tgssiroke"
+  },
+  {
+    "id": 340,
+    "otg_name": "БЛАГОВІЩЕНСЬКА СІЛЬСЬКА ТГ/С.БЛАГОВІЩЕНКА",
+    "slug": "blagovishhenska-silska-tgsblagovishhenka"
+  },
+  {
+    "id": 341,
+    "otg_name": "ВОДЯНСЬКА СІЛЬСЬКА ТГ/С.ВОДЯНЕ",
+    "slug": "vodianska-silska-tgsvodiane"
+  },
+  {
+    "id": 342,
+    "otg_name": "КАМ'ЯНСЬКО-ДНІПРОВСЬКА МІСЬКА ТГ/М.КАМ'ЯНКА-ДНІПРОВСЬКА",
+    "slug": "kamiansko-dniprovska-miska-tgmkamianka-dniprovska"
+  },
+  {
+    "id": 343,
+    "otg_name": "КОСТЯНТИНІВСЬКА СІЛЬСЬКА ТГ/С.КОСТЯНТИНІВКА",
+    "slug": "kostiantinivska-silska-tgskostiantinivka"
+  },
+  {
+    "id": 344,
+    "otg_name": "МИРНЕНСЬКА СЕЛИЩНА ТГ/СМТ.МИРНЕ",
+    "slug": "mirnenska-selishhna-tgsmtmirne"
+  },
+  {
+    "id": 345,
+    "otg_name": "НОВЕНСЬКА СІЛЬСЬКА ТГ/С.НОВЕ",
+    "slug": "novenska-silska-tgsnove"
+  },
+  {
+    "id": 346,
+    "otg_name": "НОВОБОГДАНІВСЬКА СІЛЬСЬКА ТГ/С.НОВОБОГДАНІВКА",
+    "slug": "novobogdanivska-silska-tgsnovobogdanivka"
+  },
+  {
+    "id": 347,
+    "otg_name": "СЕМЕНІВСЬКА СІЛЬСЬКА ТГ/С.СЕМЕНІВКА",
+    "slug": "semenivska-silska-tgssemenivka-1"
+  },
+  {
+    "id": 348,
+    "otg_name": "ТЕРПІННІВСЬКА СІЛЬСЬКА ТГ/С.ТЕРПІННЯ",
+    "slug": "terpinnivska-silska-tgsterpinnia"
+  },
+  {
+    "id": 349,
+    "otg_name": "МИХАЙЛІВСЬКА СЕЛИЩНА ТГ/СМТ.МИХАЙЛІВКА",
+    "slug": "mixailivska-selishhna-tgsmtmixailivka"
+  },
+  {
+    "id": 350,
+    "otg_name": "ПЛОДОРОДНЕНСЬКА СІЛЬСЬКА ТГ/С.ПЛОДОРОДНЕ",
+    "slug": "plodorodnenska-silska-tgsplodorodne"
+  },
+  {
+    "id": 351,
+    "otg_name": "РОЗДОЛЬСЬКА СІЛЬСЬКА ТГ/С.РОЗДОЛ",
+    "slug": "rozdolska-silska-tgsrozdol"
+  },
+  {
+    "id": 352,
+    "otg_name": "НОВОМИКОЛАЇВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОМИКОЛАЇВКА",
+    "slug": "novomikolayivska-selishhna-tgsmtnovomikolayivka"
+  },
+  {
+    "id": 353,
+    "otg_name": "ТЕРНУВАТСЬКА СЕЛИЩНА ТГ/СМТ.ТЕРНУВАТЕ",
+    "slug": "ternuvatska-selishhna-tgsmtternuvate"
+  },
+  {
+    "id": 354,
+    "otg_name": "КОМИШУВАСЬКА СЕЛИЩНА ТГ/СМТ.КОМИШУВАХА",
+    "slug": "komisuvaska-selishhna-tgsmtkomisuvaxa"
+  },
+  {
+    "id": 355,
+    "otg_name": "МАЛОТОКМАЧАНСЬКА СІЛЬСЬКА ТГ/С.МАЛА ТОКМАЧКА",
+    "slug": "malotokmacanska-silska-tgsmala-tokmacka"
+  },
+  {
+    "id": 357,
+    "otg_name": "ПРЕОБРАЖЕНСЬКА СІЛЬСЬКА ТГ/С.ПРЕОБРАЖЕНКА",
+    "slug": "preobrazenska-silska-tgspreobrazenka"
+  },
+  {
+    "id": 358,
+    "otg_name": "ТАВРІЙСЬКА СІЛЬСЬКА ТГ/С.ТАВРІЙСЬКЕ",
+    "slug": "tavriiska-silska-tgstavriiske"
+  },
+  {
+    "id": 359,
+    "otg_name": "ВОСКРЕСЕНСЬКА СЕЛИЩНА ТГ/C.ВОСКРЕСЕНКА",
+    "slug": "voskresenska-selishhna-tgcvoskresenka"
+  },
+  {
+    "id": 360,
+    "otg_name": "ПОЛОГІВСЬКА МІСЬКА ТГ/М.ПОЛОГИ",
+    "slug": "pologivska-miska-tgmpologi"
+  },
+  {
+    "id": 361,
+    "otg_name": "НОВОВАСИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОВАСИЛІВКА",
+    "slug": "novovasilivska-selishhna-tgsmtnovovasilivka"
+  },
+  {
+    "id": 362,
+    "otg_name": "ОЛЕКСАНДРІВСЬКА СІЛЬСЬКА ТГ/С.ОЛЕКСАНДРІВКА",
+    "slug": "oleksandrivska-silska-tgsoleksandrivka"
+  },
+  {
+    "id": 363,
+    "otg_name": "ПРИАЗОВСЬКА СЕЛИЩНА ТГ/СМТ.ПРИАЗОВСЬКЕ",
+    "slug": "priazovska-selishhna-tgsmtpriazovske"
+  },
+  {
+    "id": 364,
+    "otg_name": "КОЛАРІВСЬКА СІЛЬСЬКА ТГ/С.БОЛГАРКА",
+    "slug": "kolarivska-silska-tgsbolgarka"
+  },
+  {
+    "id": 365,
+    "otg_name": "ПРИМОРСЬКА МІСЬКА ТГ/М.ПРИМОРСЬК",
+    "slug": "primorska-miska-tgmprimorsk"
+  },
+  {
+    "id": 366,
+    "otg_name": "РОЗІВСЬКА СЕЛИЩНА ТГ/СМТ.РОЗІВКА",
+    "slug": "rozivska-selishhna-tgsmtrozivka"
+  },
+  {
+    "id": 367,
+    "otg_name": "МОЛОЧАНСЬКА МІСЬКА ТГ/М.МОЛОЧАНСЬК",
+    "slug": "molocanska-miska-tgmmolocansk"
+  },
+  {
+    "id": 368,
+    "otg_name": "ЧЕРНІГІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРНІГІВКА",
+    "slug": "cernigivska-selishhna-tgsmtcernigivka"
+  },
+  {
+    "id": 369,
+    "otg_name": "КИРИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.КИРИЛІВКА",
+    "slug": "kirilivska-selishhna-tgsmtkirilivka"
+  },
+  {
+    "id": 370,
+    "otg_name": "ЯКИМІВСЬКА СЕЛИЩНА ТГ/СМТ.ЯКИМІВКА",
+    "slug": "iakimivska-selishhna-tgsmtiakimivka"
+  },
+  {
+    "id": 371,
+    "otg_name": "БЕРДЯНСЬКА МІСЬКА ТГ/М.БЕРДЯНСЬК",
+    "slug": "berdianska-miska-tgmberdiansk"
+  },
+  {
+    "id": 372,
+    "otg_name": "ЕНЕРГОДАРСЬКА МІСЬКА ТГ/М.ЕНЕРГОДАР",
+    "slug": "energodarska-miska-tgmenergodar"
+  },
+  {
+    "id": 373,
+    "otg_name": "ЗАПОРІЗЬКА МІСЬКА ТГ/М.ЗАПОРІЖЖЯ",
+    "slug": "zaporizka-miska-tgmzaporizzia"
+  },
+  {
+    "id": 374,
+    "otg_name": "МЕЛІТОПОЛЬСЬКА МІСЬКА ТГ/М.МЕЛІТОПОЛЬ",
+    "slug": "melitopolska-miska-tgmmelitopol"
+  },
+  {
+    "id": 375,
+    "otg_name": "ТОКМАЦЬКА МІСЬКА ТГ/М.ТОКМАК",
+    "slug": "tokmacka-miska-tgmtokmak"
+  },
+  {
+    "id": 376,
+    "otg_name": "МАРТИНІВСЬКА СІЛЬСЬКА ТГ/С.МАРТИНІВКА",
+    "slug": "martinivska-silska-tgsmartinivka"
+  },
+  {
+    "id": 377,
+    "otg_name": "КОБЕЛЯЦЬКА МІСЬКА ТГ/М.КОБЕЛЯКИ",
+    "slug": "kobeliacka-miska-tgmkobeliaki"
+  },
+  {
+    "id": 378,
+    "otg_name": "БІЛИЦЬКА СЕЛИЩНА ТГ/СМТ.БІЛИКИ",
+    "slug": "bilicka-selishhna-tgsmtbiliki"
+  },
+  {
+    "id": 379,
+    "otg_name": "ФЕДОРІВСЬКА СІЛЬСЬКА ТГ/ С.ФЕДОРІВКА",
+    "slug": "fedorivska-silska-tg-sfedorivka"
+  },
+  {
+    "id": 380,
+    "otg_name": "БОГОРОДЧАНСЬКА СЕЛИЩНА ТГ/СМТ.БОГОРОДЧАНИ",
+    "slug": "bogorodcanska-selishhna-tgsmtbogorodcani"
+  },
+  {
+    "id": 381,
+    "otg_name": "ДЗВИНЯЦЬКА СІЛЬСЬКА ТГ/С.ДЗВИНЯЧ",
+    "slug": "dzviniacka-silska-tgsdzviniac"
+  },
+  {
+    "id": 382,
+    "otg_name": "СОЛОТВИНСЬКА СЕЛИЩНА ТГ/СМТ.СОЛОТВИН",
+    "slug": "solotvinska-selishhna-tgsmtsolotvin"
+  },
+  {
+    "id": 383,
+    "otg_name": "СТАРОБОГОРОДЧАН-СЬКА СІЛЬСЬКА ТГ/С.СТАРІ БОГОРОДЧАНИ",
+    "slug": "starobogorodcan-ska-silska-tgsstari-bogorodcani"
+  },
+  {
+    "id": 384,
+    "otg_name": "БІЛОБЕРІЗЬКА СІЛЬСЬКА ТГ/С.БІЛОБЕРІЗКА",
+    "slug": "biloberizka-silska-tgsbiloberizka"
+  },
+  {
+    "id": 385,
+    "otg_name": "ВЕРХОВИНСЬКА СЕЛИЩНА ТГ/СМТ.ВЕРХОВИНА",
+    "slug": "verxovinska-selishhna-tgsmtverxovina"
+  },
+  {
+    "id": 386,
+    "otg_name": "ЗЕЛЕНСЬКА СІЛЬСЬКА ТГ/С.ЗЕЛЕНЕ",
+    "slug": "zelenska-silska-tgszelene"
+  },
+  {
+    "id": 387,
+    "otg_name": "БІЛЬШІВЦІВСЬКА СЕЛИЩНА ТГ/СМТ.БІЛЬШІВЦІ",
+    "slug": "bilsivcivska-selishhna-tgsmtbilsivci"
+  },
+  {
+    "id": 388,
+    "otg_name": "ГАЛИЦЬКА МІСЬКА ТГ/М.ГАЛИЧ",
+    "slug": "galicka-miska-tgmgalic"
+  },
+  {
+    "id": 389,
+    "otg_name": "ДУБОВЕЦЬКА СІЛЬСЬКА ТГ/С.ДУБІВЦІ",
+    "slug": "dubovecka-silska-tgsdubivci"
+  },
+  {
+    "id": 390,
+    "otg_name": "ГОРОДЕНКІВСЬКА МІСЬКА ТГ/М.ГОРОДЕНКА",
+    "slug": "gorodenkivska-miska-tgmgorodenka"
+  },
+  {
+    "id": 391,
+    "otg_name": "ЧЕРНЕЛИЦЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРНЕЛИЦЯ",
+    "slug": "cernelicka-selishhna-tgsmtcernelicia"
+  },
+  {
+    "id": 392,
+    "otg_name": "ВИГОДСЬКА СЕЛИЩНА ТГ/СМТ.ВИГОДА",
+    "slug": "vigodska-selishhna-tgsmtvigoda"
+  },
+  {
+    "id": 393,
+    "otg_name": "ВИТВИЦЬКА СІЛЬСЬКА ТГ/С.ВИТВИЦЯ",
+    "slug": "vitvicka-silska-tgsvitvicia"
+  },
+  {
+    "id": 394,
+    "otg_name": "ДОЛИНСЬКА МІСЬКА ТГ/М.ДОЛИНА",
+    "slug": "dolinska-miska-tgmdolina"
+  },
+  {
+    "id": 395,
+    "otg_name": "ВОЙНИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ВОЙНИЛІВ",
+    "slug": "voinilivska-selishhna-tgsmtvoiniliv"
+  },
+  {
+    "id": 396,
+    "otg_name": "ВЕРХНЯНСЬКА СІЛЬСЬКА ТГ/С.ВЕРХНЯ",
+    "slug": "verxnianska-silska-tgsverxnia"
+  },
+  {
+    "id": 397,
+    "otg_name": "НОВИЦЬКА СІЛЬСЬКА ТГ/С.НОВИЦЯ",
+    "slug": "novicka-silska-tgsnovicia"
+  },
+  {
+    "id": 398,
+    "otg_name": "ГВІЗДЕЦЬКА СЕЛИЩНА ТГ/СМТ.ГВІЗДЕЦЬ",
+    "slug": "gvizdecka-selishhna-tgsmtgvizdec"
+  },
+  {
+    "id": 399,
+    "otg_name": "КОРШІВСЬКА СІЛЬСЬКА ТГ/С.КОРШІВ",
+    "slug": "korsivska-silska-tgskorsiv"
+  },
+  {
+    "id": 400,
+    "otg_name": "МАТЕЇВЕЦЬКА СІЛЬСЬКА ТГ/С.МАТЕЇВЦІ",
+    "slug": "mateyivecka-silska-tgsmateyivci"
+  },
+  {
+    "id": 401,
+    "otg_name": "НИЖНЬОВЕРБІЗЬКА СІЛЬСЬКА ТГ/С.НИЖНІЙ ВЕРБІЖ",
+    "slug": "niznoverbizka-silska-tgsniznii-verbiz"
+  },
+  {
+    "id": 402,
+    "otg_name": "ОТИНІЙСЬКА СЕЛИЩНА ТГ/СМТ.ОТИНІЯ",
+    "slug": "otiniiska-selishhna-tgsmtotiniia"
+  },
+  {
+    "id": 403,
+    "otg_name": "ПЕЧЕНІЖИНСЬКА СЕЛИЩНА ТГ/СМТ.ПЕЧЕНІЖИН",
+    "slug": "pecenizinska-selishhna-tgsmtpecenizin"
+  },
+  {
+    "id": 404,
+    "otg_name": "ПІДГАЙЧИКІВСЬКА СІЛЬСЬКА ТГ/С.ПІДГАЙЧИКИ",
+    "slug": "pidgaicikivska-silska-tgspidgaiciki"
+  },
+  {
+    "id": 405,
+    "otg_name": "П'ЯДИЦЬКА СІЛЬСЬКА ТГ/С.П'ЯДИКИ",
+    "slug": "piadicka-silska-tgspiadiki"
+  },
+  {
+    "id": 406,
+    "otg_name": "КОСІВСЬКА МІСЬКА ТГ/М.КОСІВ",
+    "slug": "kosivska-miska-tgmkosiv"
+  },
+  {
+    "id": 407,
+    "otg_name": "КОСМАЦЬКА СІЛЬСЬКА ТГ/С.КОСМАЧ",
+    "slug": "kosmacka-silska-tgskosmac"
+  },
+  {
+    "id": 408,
+    "otg_name": "КУТСЬКА СЕЛИЩНА ТГ/СМТ.КУТИ",
+    "slug": "kutska-selishhna-tgsmtkuti"
+  },
+  {
+    "id": 409,
+    "otg_name": "РОЖНІВСЬКА СІЛЬСЬКА ТГ/С.РОЖНІВ",
+    "slug": "roznivska-silska-tgsrozniv"
+  },
+  {
+    "id": 410,
+    "otg_name": "ЯБЛУНІВСЬКА СЕЛИЩНА ТГ/СМТ.ЯБЛУНІВ",
+    "slug": "iablunivska-selishhna-tgsmtiabluniv"
+  },
+  {
+    "id": 411,
+    "otg_name": "ДЕЛЯТИНСЬКА СЕЛИЩНА ТГ/СМТ.ДЕЛЯТИН",
+    "slug": "deliatinska-selishhna-tgsmtdeliatin"
+  },
+  {
+    "id": 412,
+    "otg_name": "ЛАНЧИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛАНЧИН",
+    "slug": "lancinska-selishhna-tgsmtlancin"
+  },
+  {
+    "id": 413,
+    "otg_name": "НАДВІРНЯНСЬКА МІСЬКА ТГ/М.НАДВІРНА",
+    "slug": "nadvirnianska-miska-tgmnadvirna"
+  },
+  {
+    "id": 414,
+    "otg_name": "ПАСІЧНЯНСЬКА СІЛЬСЬКА ТГ/С.ПАСІЧНА",
+    "slug": "pasicnianska-silska-tgspasicna"
+  },
+  {
+    "id": 415,
+    "otg_name": "ПЕРЕРІСЛЯНСЬКА СІЛЬСЬКА ТГ/С.ПЕРЕРІСЛЬ",
+    "slug": "pererislianska-silska-tgspererisl"
+  },
+  {
+    "id": 416,
+    "otg_name": "БУКАЧІВСЬКА СЕЛИЩНА ТГ/СМТ.БУКАЧІВЦІ",
+    "slug": "bukacivska-selishhna-tgsmtbukacivci"
+  },
+  {
+    "id": 417,
+    "otg_name": "РОГАТИНСЬКА МІСЬКА ТГ/М.РОГАТИН",
+    "slug": "rogatinska-miska-tgmrogatin"
+  },
+  {
+    "id": 418,
+    "otg_name": "БРОШНІВ-ОСАДСЬКА СЕЛИЩНА ТГ/СМТ.БРОШНІВ-ОСАДА",
+    "slug": "brosniv-osadska-selishhna-tgsmtbrosniv-osada"
+  },
+  {
+    "id": 419,
+    "otg_name": "ДУБІВСЬКА СІЛЬСЬКА ТГ/С.ДУБА",
+    "slug": "dubivska-silska-tgsduba"
+  },
+  {
+    "id": 420,
+    "otg_name": "ПЕРЕГІНСЬКА СЕЛИЩНА ТГ/СМТ.ПЕРЕГІНСЬКЕ",
+    "slug": "pereginska-selishhna-tgsmtpereginske"
+  },
+  {
+    "id": 747,
+    "otg_name": "КІЛІЙСЬКА МІСЬКА ТГ/М.КІЛІЯ",
+    "slug": "kiliiska-miska-tgmkiliia"
+  },
+  {
+    "id": 421,
+    "otg_name": "РОЖНЯТІВСЬКА СЕЛИЩНА ТГ/СМТ.РОЖНЯТІВ",
+    "slug": "rozniativska-selishhna-tgsmtrozniativ"
+  },
+  {
+    "id": 422,
+    "otg_name": "СПАСЬКА СІЛЬСЬКА ТГ/С.СПАС",
+    "slug": "spaska-silska-tgsspas"
+  },
+  {
+    "id": 423,
+    "otg_name": "ЗАБОЛОТІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗАБОЛОТІВ",
+    "slug": "zabolotivska-selishhna-tgsmtzabolotiv"
+  },
+  {
+    "id": 424,
+    "otg_name": "СНЯТИНСЬКА МІСЬКА ТГ/М.СНЯТИН",
+    "slug": "sniatinska-miska-tgmsniatin"
+  },
+  {
+    "id": 425,
+    "otg_name": "ЄЗУПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ЄЗУПІЛЬ",
+    "slug": "jezupilska-selishhna-tgsmtjezupil"
+  },
+  {
+    "id": 426,
+    "otg_name": "ЗАГВІЗДЯНСЬКА СІЛЬСЬКА ТГ/С.ЗАГВІЗДЯ",
+    "slug": "zagvizdianska-silska-tgszagvizdia"
+  },
+  {
+    "id": 427,
+    "otg_name": "ЛИСЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЛИСЕЦЬ",
+    "slug": "lisecka-selishhna-tgsmtlisec"
+  },
+  {
+    "id": 428,
+    "otg_name": "ТИСМЕНИЦЬКА МІСЬКА ТГ/М.ТИСМЕНИЦЯ",
+    "slug": "tismenicka-miska-tgmtismenicia"
+  },
+  {
+    "id": 429,
+    "otg_name": "УГРИНІВСЬКА СІЛЬСЬКА ТГ/С.УГРИНІВ",
+    "slug": "ugrinivska-silska-tgsugriniv"
+  },
+  {
+    "id": 430,
+    "otg_name": "ЯМНИЦЬКА СІЛЬСЬКА ТГ/С.ЯМНИЦЯ",
+    "slug": "iamnicka-silska-tgsiamnicia"
+  },
+  {
+    "id": 431,
+    "otg_name": "ОБЕРТИНСЬКА СЕЛИЩНА ТГ/СМТ.ОБЕРТИН",
+    "slug": "obertinska-selishhna-tgsmtobertin"
+  },
+  {
+    "id": 432,
+    "otg_name": "ОЛЕШАНСЬКА СІЛЬСЬКА ТГ/С.ОЛЕША",
+    "slug": "olesanska-silska-tgsolesa"
+  },
+  {
+    "id": 433,
+    "otg_name": "ТЛУМАЦЬКА МІСЬКА ТГ/М.ТЛУМАЧ",
+    "slug": "tlumacka-miska-tgmtlumac"
+  },
+  {
+    "id": 434,
+    "otg_name": "БОЛЕХІВСЬКА МІСЬКА ТГ/М.БОЛЕХІВ",
+    "slug": "bolexivska-miska-tgmbolexiv"
+  },
+  {
+    "id": 435,
+    "otg_name": "ІВАНО-ФРАНКІВСЬКА МІСЬКА ТГ/М.ІВАНО-ФРАНКІВСЬК",
+    "slug": "ivano-frankivska-miska-tgmivano-frankivsk"
+  },
+  {
+    "id": 436,
+    "otg_name": "КАЛУСЬКА МІСЬКА ТГ/М.КАЛУШ",
+    "slug": "kaluska-miska-tgmkalus"
+  },
+  {
+    "id": 437,
+    "otg_name": "КОЛОМИЙСЬКА МІСЬКА ТГ/М.КОЛОМИЯ",
+    "slug": "kolomiiska-miska-tgmkolomiia"
+  },
+  {
+    "id": 438,
+    "otg_name": "ВОРОХТЯНСЬКА СЕЛИЩНА ТГ/СМТ.ВОРОХТА",
+    "slug": "voroxtianska-selishhna-tgsmtvoroxta"
+  },
+  {
+    "id": 439,
+    "otg_name": "ПОЛЯНИЦЬКА СІЛЬСЬКА ТГ/С.ПОЛЯНИЦЯ",
+    "slug": "polianicka-silska-tgspolianicia"
+  },
+  {
+    "id": 440,
+    "otg_name": "ЯРЕМЧАНСЬКА МІСЬКА ТГ/М.ЯРЕМЧЕ",
+    "slug": "iaremcanska-miska-tgmiaremce"
+  },
+  {
+    "id": 441,
+    "otg_name": "ПІСКІВСЬКА СЕЛИЩНА ТГ/СМТ.ПІСКІВКА",
+    "slug": "piskivska-selishhna-tgsmtpiskivka"
+  },
+  {
+    "id": 442,
+    "otg_name": "КАЛИТЯНСЬКА СЕЛИЩНА ТГ/СМТ.КАЛИТА",
+    "slug": "kalitianska-selishhna-tgsmtkalita"
+  },
+  {
+    "id": 443,
+    "otg_name": "МАЛОВІЛЬШАНСЬКА СІЛЬСЬКА ТГ/С.МАЛА ВІЛЬШАНКА",
+    "slug": "malovilsanska-silska-tgsmala-vilsanka"
+  },
+  {
+    "id": 444,
+    "otg_name": "ФУРСІВСЬКА СІЛЬСЬКА ТГ/С.ФУРСИ",
+    "slug": "fursivska-silska-tgsfursi"
+  },
+  {
+    "id": 445,
+    "otg_name": "МЕДВИНСЬКА СІЛЬСЬКА ТГ/С.МЕДВИН",
+    "slug": "medvinska-silska-tgsmedvin"
+  },
+  {
+    "id": 446,
+    "otg_name": "ВОРОНЬКІВСЬКА СІЛЬСЬКА ТГ/С.ВОРОНЬКІВ",
+    "slug": "voronkivska-silska-tgsvoronkiv"
+  },
+  {
+    "id": 448,
+    "otg_name": "ЗОЛОЧІВСЬКА СІЛЬСЬКА ТГ/С.ГНІДИН",
+    "slug": "zolocivska-silska-tgsgnidin"
+  },
+  {
+    "id": 449,
+    "otg_name": "ПРИСТОЛИЧНА СІЛЬСЬКА ТГ/С.ЩАСЛИВЕ",
+    "slug": "pristolicna-silska-tgsshhaslive"
+  },
+  {
+    "id": 450,
+    "otg_name": "ВЕЛИКОДИМЕРСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА ДИМЕРКА",
+    "slug": "velikodimerska-selishhna-tgsmtvelika-dimerka"
+  },
+  {
+    "id": 451,
+    "otg_name": "ДІВИЧКІВСЬКА СІЛЬСЬКА ТГ/С.ДІВИЧКИ",
+    "slug": "divickivska-silska-tgsdivicki"
+  },
+  {
+    "id": 452,
+    "otg_name": "БАРИШІВСЬКА СЕЛИЩНА ТГ/СМТ.БАРИШІВКА",
+    "slug": "barisivska-selishhna-tgsmtbarisivka"
+  },
+  {
+    "id": 453,
+    "otg_name": "БОРОДЯНСЬКА СЕЛИЩНА ТГ/СМТ.БОРОДЯНКА",
+    "slug": "borodianska-selishhna-tgsmtborodianka"
+  },
+  {
+    "id": 454,
+    "otg_name": "НЕМІШАЇВСЬКА СЕЛИЩНА ТГ/СМТ.НЕМІШАЄВЕ",
+    "slug": "nemisayivska-selishhna-tgsmtnemisajeve"
+  },
+  {
+    "id": 455,
+    "otg_name": "КОВАЛІВСЬКА СІЛЬСЬКА ТГ/С.КОВАЛІВКА",
+    "slug": "kovalivska-silska-tgskovalivka"
+  },
+  {
+    "id": 456,
+    "otg_name": "ВИШГОРОДСЬКА МІСЬКА ТГ/М.ВИШГОРОД",
+    "slug": "visgorodska-miska-tgmvisgorod"
+  },
+  {
+    "id": 457,
+    "otg_name": "ДИМЕРСЬКА СЕЛИЩНА ТГ/СМТ.ДИМЕР",
+    "slug": "dimerska-selishhna-tgsmtdimer"
+  },
+  {
+    "id": 458,
+    "otg_name": "ПЕТРІВСЬКА СІЛЬСЬКА ТГ/С.НОВІ ПЕТРІВЦІ",
+    "slug": "petrivska-silska-tgsnovi-petrivci"
+  },
+  {
+    "id": 459,
+    "otg_name": "ПІРНІВСЬКА СІЛЬСЬКА ТГ/С.ПІРНОВЕ",
+    "slug": "pirnivska-silska-tgspirnove"
+  },
+  {
+    "id": 460,
+    "otg_name": "ВОЛОДАРСЬКА СЕЛИЩНА ТГ/СМТ.ВОЛОДАРКА",
+    "slug": "volodarska-selishhna-tgsmtvolodarka"
+  },
+  {
+    "id": 461,
+    "otg_name": "ЗГУРІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗГУРІВКА",
+    "slug": "zgurivska-selishhna-tgsmtzgurivka"
+  },
+  {
+    "id": 462,
+    "otg_name": "ІВАНКІВСЬКА СЕЛИЩНА ТГ/СМТ.ІВАНКІВ",
+    "slug": "ivankivska-selishhna-tgsmtivankiv"
+  },
+  {
+    "id": 463,
+    "otg_name": "КАГАРЛИЦЬКА МІСЬКА ТГ/М.КАГАРЛИК",
+    "slug": "kagarlicka-miska-tgmkagarlik"
+  },
+  {
+    "id": 464,
+    "otg_name": "БІЛОГОРОДСЬКА СІЛЬСЬКА ТГ/С.БІЛОГОРОДКА",
+    "slug": "bilogorodska-silska-tgsbilogorodka"
+  },
+  {
+    "id": 465,
+    "otg_name": "БОЯРСЬКА МІСЬКА ТГ/М.БОЯРКА",
+    "slug": "boiarska-miska-tgmboiarka"
+  },
+  {
+    "id": 466,
+    "otg_name": "ВИШНЕВА МІСЬКА ТГ/М.ВИШНЕВЕ",
+    "slug": "visneva-miska-tgmvisneve"
+  },
+  {
+    "id": 467,
+    "otg_name": "ГАТНЕНСЬКА СІЛЬСЬКА ТГ/С.ГАТНЕ",
+    "slug": "gatnenska-silska-tgsgatne"
+  },
+  {
+    "id": 468,
+    "otg_name": "ДМИТРІВСЬКА СІЛЬСЬКА ТГ/С.ДМИТРІВКА",
+    "slug": "dmitrivska-silska-tgsdmitrivka"
+  },
+  {
+    "id": 469,
+    "otg_name": "ФЕОДОСІЇВСЬКА СІЛЬСЬКА ТГ/С.ХОДОСІВКА",
+    "slug": "feodosiyivska-silska-tgsxodosivka"
+  },
+  {
+    "id": 470,
+    "otg_name": "ЧАБАНІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧАБАНИ",
+    "slug": "cabanivska-selishhna-tgsmtcabani"
+  },
+  {
+    "id": 471,
+    "otg_name": "БИШІВСЬКА СІЛЬСЬКА ТГ/С.БИШІВ",
+    "slug": "bisivska-silska-tgsbisiv"
+  },
+  {
+    "id": 472,
+    "otg_name": "МАКАРІВСЬКА СЕЛИЩНА ТГ/СМТ.МАКАРІВ",
+    "slug": "makarivska-selishhna-tgsmtmakariv"
+  },
+  {
+    "id": 473,
+    "otg_name": "МИРОНІВСЬКА МІСЬКА ТГ/М.МИРОНІВКА",
+    "slug": "mironivska-miska-tgmmironivka"
+  },
+  {
+    "id": 474,
+    "otg_name": "КОЗИНСЬКА СЕЛИЩНА ТГ/СМТ.КОЗИН",
+    "slug": "kozinska-selishhna-tgsmtkozin"
+  },
+  {
+    "id": 475,
+    "otg_name": "УКРАЇНСЬКА МІСЬКА ТГ/М.УКРАЇНКА",
+    "slug": "ukrayinska-miska-tgmukrayinka"
+  },
+  {
+    "id": 476,
+    "otg_name": "ТЕТІЇВСЬКА МІСЬКА ТГ/М.ТЕТІЇВ",
+    "slug": "tetiyivska-miska-tgmtetiyiv"
+  },
+  {
+    "id": 477,
+    "otg_name": "КОЖАНСЬКА СЕЛИЩНА ТГ/СМТ.КОЖАНКА",
+    "slug": "kozanska-selishhna-tgsmtkozanka"
+  },
+  {
+    "id": 478,
+    "otg_name": "УЗИНСЬКА МІСЬКА ТГ/М.УЗИН",
+    "slug": "uzinska-miska-tgmuzin"
+  },
+  {
+    "id": 479,
+    "otg_name": "СТУДЕНИКІВСЬКА СІЛЬСЬКА ТГ/С.СТУДЕНИКИ",
+    "slug": "studenikivska-silska-tgsstudeniki"
+  },
+  {
+    "id": 480,
+    "otg_name": "БЕРЕЗАНСЬКА МІСЬКА ТГ/М.БЕРЕЗАНЬ",
+    "slug": "berezanska-miska-tgmberezan"
+  },
+  {
+    "id": 481,
+    "otg_name": "БІЛОЦЕРКІВСЬКА МІСЬКА ТГ/М.БІЛА ЦЕРКВА",
+    "slug": "bilocerkivska-miska-tgmbila-cerkva"
+  },
+  {
+    "id": 482,
+    "otg_name": "БОРИСПІЛЬСЬКА МІСЬКА ТГ/М.БОРИСПІЛЬ",
+    "slug": "borispilska-miska-tgmborispil"
+  },
+  {
+    "id": 483,
+    "otg_name": "БРОВАРСЬКА МІСЬКА ТГ/М.БРОВАРИ",
+    "slug": "brovarska-miska-tgmbrovari"
+  },
+  {
+    "id": 484,
+    "otg_name": "БУЧАНСЬКА МІСЬКА ТГ/М.БУЧА",
+    "slug": "bucanska-miska-tgmbuca"
+  },
+  {
+    "id": 485,
+    "otg_name": "ВАСИЛЬКІВСЬКА МІСЬКА ТГ/М.ВАСИЛЬКІВ",
+    "slug": "vasilkivska-miska-tgmvasilkiv"
+  },
+  {
+    "id": 486,
+    "otg_name": "КОЦЮБИНСЬКА СЕЛИЩНА ТГ/СМТ.КОЦЮБИНСЬКЕ",
+    "slug": "kociubinska-selishhna-tgsmtkociubinske"
+  },
+  {
+    "id": 487,
+    "otg_name": "ІРПІНСЬКА МІСЬКА ТГ/М.ІРПІНЬ",
+    "slug": "irpinska-miska-tgmirpin"
+  },
+  {
+    "id": 488,
+    "otg_name": "ГОСТОМЕЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ГОСТОМЕЛЬ",
+    "slug": "gostomelska-selishhna-tgsmtgostomel"
+  },
+  {
+    "id": 489,
+    "otg_name": "РЖИЩІВСЬКА МІСЬКА ТГ/М.РЖИЩІВ",
+    "slug": "rzishhivska-miska-tgmrzishhiv"
+  },
+  {
+    "id": 490,
+    "otg_name": "ФАСТІВСЬКА МІСЬКА ТГ/М.ФАСТІВ",
+    "slug": "fastivska-miska-tgmfastiv"
+  },
+  {
+    "id": 491,
+    "otg_name": "СЛАВУТИЦЬКА МІСЬКА ТГ/М.СЛАВУТИЧ",
+    "slug": "slavuticka-miska-tgmslavutic"
+  },
+  {
+    "id": 492,
+    "otg_name": "РОКИТНЯНСЬКА СЕЛИЩНА ТГ/СМТ.РОКИТНЕ",
+    "slug": "rokitnianska-selishhna-tgsmtrokitne"
+  },
+  {
+    "id": 493,
+    "otg_name": "СКВИРСЬКА МІСЬКА ТГ/М.СКВИРА",
+    "slug": "skvirska-miska-tgmskvira"
+  },
+  {
+    "id": 494,
+    "otg_name": "СТАВИЩЕНСЬКА СЕЛИЩНА ТГ/СМТ.СТАВИЩЕ",
+    "slug": "stavishhenska-selishhna-tgsmtstavishhe"
+  },
+  {
+    "id": 495,
+    "otg_name": "ТАРАЩАНСЬКА МІСЬКА ТГ/М.ТАРАЩА",
+    "slug": "tarashhanska-miska-tgmtarashha"
+  },
+  {
+    "id": 496,
+    "otg_name": "ЦИБЛІВСЬКА СІЛЬСЬКА ТГ/С.ЦИБЛІ",
+    "slug": "ciblivska-silska-tgscibli"
+  },
+  {
+    "id": 497,
+    "otg_name": "ТАШАНСЬКА СІЛЬСЬКА ТГ/С.ТАШАНЬ",
+    "slug": "tasanska-silska-tgstasan"
+  },
+  {
+    "id": 498,
+    "otg_name": "КАЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.КАЛИНІВКА",
+    "slug": "kalinivska-selishhna-tgsmtkalinivka"
+  },
+  {
+    "id": 559,
+    "otg_name": "МІЛОВСЬКА СЕЛИЩНА ТГ/СМТ.МІЛОВЕ",
+    "slug": "milovska-selishhna-tgsmtmilove"
+  },
+  {
+    "id": 499,
+    "otg_name": "ГЛЕВАХІВСЬКА СЕЛИЩНА ТГ/СМТ.ГЛЕВАХА",
+    "slug": "glevaxivska-selishhna-tgsmtglevaxa"
+  },
+  {
+    "id": 574,
+    "otg_name": "ТРОЇЦЬКА СЕЛИЩНА ТГ/СМТ.ТРОЇЦЬКЕ",
+    "slug": "troyicka-selishhna-tgsmttroyicke"
+  },
+  {
+    "id": 500,
+    "otg_name": "ГРЕБІНКІВСЬКА СЕЛИЩНА ТГ/СМТ.ГРЕБІНКИ",
+    "slug": "grebinkivska-selishhna-tgsmtgrebinki"
+  },
+  {
+    "id": 501,
+    "otg_name": "ТОМАШІВСЬКА СІЛЬСЬКА ТГ/С.ТОМАШІВКА",
+    "slug": "tomasivska-silska-tgstomasivka"
+  },
+  {
+    "id": 502,
+    "otg_name": "БОГУСЛАВСЬКА МІСЬКА ТГ/М.БОГУСЛАВ",
+    "slug": "boguslavska-miska-tgmboguslav"
+  },
+  {
+    "id": 503,
+    "otg_name": "ЯГОТИНСЬКА МІСЬКА ТГ/М.ЯГОТИН",
+    "slug": "iagotinska-miska-tgmiagotin"
+  },
+  {
+    "id": 504,
+    "otg_name": "ЗАЗИМСЬКА СІЛЬСЬКА ТГ/С.ЗАЗИМ’Я",
+    "slug": "zazimska-silska-tgszazimia"
+  },
+  {
+    "id": 505,
+    "otg_name": "ПЕРЕЯСЛАВСЬКА МІСЬКА ТГ/М.ПЕРЕЯСЛАВ",
+    "slug": "pereiaslavska-miska-tgmpereiaslav"
+  },
+  {
+    "id": 506,
+    "otg_name": "БЛАГОВІЩЕНСЬКА МІСЬКА ТГ/М.БЛАГОВІЩЕНСЬКЕ",
+    "slug": "blagovishhenska-miska-tgmblagovishhenske"
+  },
+  {
+    "id": 507,
+    "otg_name": "БОБРИНЕЦЬКА МІСЬКА ТГ/М.БОБРИНЕЦЬ",
+    "slug": "bobrinecka-miska-tgmbobrinec"
+  },
+  {
+    "id": 508,
+    "otg_name": "КЕТРИСАНІВСЬКА СІЛЬСЬКА ТГ/С.КЕТРИСАНІВКА",
+    "slug": "ketrisanivska-silska-tgsketrisanivka"
+  },
+  {
+    "id": 509,
+    "otg_name": "ВІЛЬШАНСЬКА СЕЛИЩНА ТГ/СМТ.ВІЛЬШАНКА",
+    "slug": "vilsanska-selishhna-tgsmtvilsanka"
+  },
+  {
+    "id": 510,
+    "otg_name": "ГАЙВОРОНСЬКА МІСЬКА ТГ/М.ГАЙВОРОН",
+    "slug": "gaivoronska-miska-tgmgaivoron"
+  },
+  {
+    "id": 511,
+    "otg_name": "ЗАВАЛЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗАВАЛЛЯ",
+    "slug": "zavallivska-selishhna-tgsmtzavallia"
+  },
+  {
+    "id": 512,
+    "otg_name": "ГОЛОВАНІВСЬКА СЕЛИЩНА ТГ/СМТ.ГОЛОВАНІВСЬК",
+    "slug": "golovanivska-selishhna-tgsmtgolovanivsk"
+  },
+  {
+    "id": 513,
+    "otg_name": "ПЕРЕГОНІВСЬКА СІЛЬСЬКА ТГ/С.ПЕРЕГОНІВКА",
+    "slug": "peregonivska-silska-tgsperegonivka"
+  },
+  {
+    "id": 514,
+    "otg_name": "ПОБУЗЬКА СЕЛИЩНА ТГ/СМТ.ПОБУЗЬКЕ",
+    "slug": "pobuzka-selishhna-tgsmtpobuzke"
+  },
+  {
+    "id": 515,
+    "otg_name": "ДОБРОВЕЛИЧКІВСЬКА СЕЛИЩНА ТГ/СМТ.ДОБРОВЕЛИЧКІВКА",
+    "slug": "dobrovelickivska-selishhna-tgsmtdobrovelickivka"
+  },
+  {
+    "id": 516,
+    "otg_name": "ПІЩАНОБРІДСЬКА СІЛЬСЬКА ТГ/С.ПІЩАНИЙ БРІД",
+    "slug": "pishhanobridska-silska-tgspishhanii-brid"
+  },
+  {
+    "id": 517,
+    "otg_name": "ПОМІЧНЯНСЬКА МІСЬКА ТГ/М.ПОМІЧНА",
+    "slug": "pomicnianska-miska-tgmpomicna"
+  },
+  {
+    "id": 518,
+    "otg_name": "ТИШКІВСЬКА СІЛЬСЬКА ТГ/С.ТИШКІВКА",
+    "slug": "tiskivska-silska-tgstiskivka"
+  },
+  {
+    "id": 519,
+    "otg_name": "ГУРІВСЬКА СІЛЬСЬКА ТГ/С.ГУРІВКА",
+    "slug": "gurivska-silska-tgsgurivka"
+  },
+  {
+    "id": 520,
+    "otg_name": "ДМИТРІВСЬКА СІЛЬСЬКА ТГ/С.ДМИТРІВКА",
+    "slug": "dmitrivska-silska-tgsdmitrivka-1"
+  },
+  {
+    "id": 521,
+    "otg_name": "СУБОТЦІВСЬКА СІЛЬСЬКА ТГ/С.СУБОТЦІ",
+    "slug": "subotcivska-silska-tgssubotci"
+  },
+  {
+    "id": 522,
+    "otg_name": "КОМПАНІЇВСЬКА СЕЛИЩНА ТГ/СМТ.КОМПАНІЇВКА",
+    "slug": "kompaniyivska-selishhna-tgsmtkompaniyivka"
+  },
+  {
+    "id": 523,
+    "otg_name": "СОКОЛІВСЬКА СІЛЬСЬКА ТГ/С.СОКОЛІВСЬКЕ",
+    "slug": "sokolivska-silska-tgssokolivske"
+  },
+  {
+    "id": 524,
+    "otg_name": "ПЕРВОЗВАНІВСЬКА СІЛЬСЬКА ТГ/С.ПЕРВОЗВАНІВКА",
+    "slug": "pervozvanivska-silska-tgspervozvanivka"
+  },
+  {
+    "id": 525,
+    "otg_name": "ВЕЛИКОСЕВЕРИНІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА СЕВЕРИНКА",
+    "slug": "velikoseverinivska-silska-tgsvelika-severinka"
+  },
+  {
+    "id": 526,
+    "otg_name": "АДЖАМСЬКА СІЛЬСЬКА ТГ/С.АДЖАМКА",
+    "slug": "adzamska-silska-tgsadzamka"
+  },
+  {
+    "id": 527,
+    "otg_name": "КАТЕРИНІВСЬКА СІЛЬСЬКА ТГ/С.КАТЕРИНІВКА",
+    "slug": "katerinivska-silska-tgskaterinivka"
+  },
+  {
+    "id": 528,
+    "otg_name": "МАЛОВИСКІВСЬКА МІСЬКА ТГ/М.МАЛА ВИСКА",
+    "slug": "maloviskivska-miska-tgmmala-viska"
+  },
+  {
+    "id": 529,
+    "otg_name": "ЗЛИНСЬКА СІЛЬСЬКА ТГ/С.ЗЛИНКА",
+    "slug": "zlinska-silska-tgszlinka"
+  },
+  {
+    "id": 530,
+    "otg_name": "НОВГОРОДКІВСЬКА СЕЛИЩНА ТГ/СМТ.НОВГОРОДКА",
+    "slug": "novgorodkivska-selishhna-tgsmtnovgorodka"
+  },
+  {
+    "id": 531,
+    "otg_name": "НАДЛАЦЬКА СІЛЬСЬКА ТГ/С.НАДЛАК",
+    "slug": "nadlacka-silska-tgsnadlak"
+  },
+  {
+    "id": 532,
+    "otg_name": "НОВОАРХАНГЕЛЬСЬКА СЕЛИЩНА ТГ/СМТ.НОВОАРХАНГЕЛЬСЬК",
+    "slug": "novoarxangelska-selishhna-tgsmtnovoarxangelsk"
+  },
+  {
+    "id": 533,
+    "otg_name": "ПІДВИСОЦЬКА СІЛЬСЬКА ТГ/С.ПІДВИСОКЕ",
+    "slug": "pidvisocka-silska-tgspidvisoke"
+  },
+  {
+    "id": 534,
+    "otg_name": "НОВОМИРГОРОДСЬКА МІСЬКА ТГ/М.НОВОМИРГОРОД",
+    "slug": "novomirgorodska-miska-tgmnovomirgorod"
+  },
+  {
+    "id": 535,
+    "otg_name": "НОВОУКРАЇНСЬКА МІСЬКА ТГ/М.НОВОУКРАЇНКА",
+    "slug": "novoukrayinska-miska-tgmnovoukrayinka"
+  },
+  {
+    "id": 536,
+    "otg_name": "РІВНЯНСЬКА СІЛЬСЬКА ТГ/С.РІВНЕ",
+    "slug": "rivnianska-silska-tgsrivne"
+  },
+  {
+    "id": 537,
+    "otg_name": "ГАННІВСЬКА СІЛЬСЬКА ТГ/С.ГАННІВКА",
+    "slug": "gannivska-silska-tgsgannivka"
+  },
+  {
+    "id": 538,
+    "otg_name": "ГЛОДОСЬКА СІЛЬСЬКА ТГ/С.ГЛОДОСИ",
+    "slug": "glodoska-silska-tgsglodosi"
+  },
+  {
+    "id": 539,
+    "otg_name": "ОЛЕКСАНДРІВСЬКА СЕЛИЩНА ТГ/СМТ.ОЛЕКСАНДРІВКА",
+    "slug": "oleksandrivska-selishhna-tgsmtoleksandrivka"
+  },
+  {
+    "id": 540,
+    "otg_name": "НОВОПРАЗЬКА СЕЛИЩНА ТГ/СМТ.НОВА ПРАГА",
+    "slug": "novoprazka-selishhna-tgsmtnova-praga"
+  },
+  {
+    "id": 541,
+    "otg_name": "ПОПЕЛЬНАСТІВСЬКА СІЛЬСЬКА ТГ/С.ПОПЕЛЬНАСТЕ",
+    "slug": "popelnastivska-silska-tgspopelnaste"
+  },
+  {
+    "id": 542,
+    "otg_name": "ПРИЮТІВСЬКА СЕЛИЩНА ТГ/СМТ.ПРИЮТІВКА",
+    "slug": "priiutivska-selishhna-tgsmtpriiutivka"
+  },
+  {
+    "id": 543,
+    "otg_name": "ПАНТАЇВСЬКА СЕЛИЩНА ТГ/СМТ.ПАНТАЇВКА",
+    "slug": "pantayivska-selishhna-tgsmtpantayivka"
+  },
+  {
+    "id": 544,
+    "otg_name": "ОНУФРІЇВСЬКА СЕЛИЩНА ТГ/СМТ.ОНУФРІЇВКА",
+    "slug": "onufriyivska-selishhna-tgsmtonufriyivka"
+  },
+  {
+    "id": 545,
+    "otg_name": "ПЕТРІВСЬКА СЕЛИЩНА ТГ/СМТ.ПЕТРОВЕ",
+    "slug": "petrivska-selishhna-tgsmtpetrove"
+  },
+  {
+    "id": 546,
+    "otg_name": "ВЕЛИКОАНДРУСІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА АНДРУСІВКА",
+    "slug": "velikoandrusivska-silska-tgsvelika-andrusivka"
+  },
+  {
+    "id": 547,
+    "otg_name": "УСТИНІВСЬКА СЕЛИЩНА ТГ/СМТ.УСТИНІВКА",
+    "slug": "ustinivska-selishhna-tgsmtustinivka"
+  },
+  {
+    "id": 548,
+    "otg_name": "ЗНАМ'ЯНСЬКА МІСЬКА ТГ/М.ЗНАМ'ЯНКА",
+    "slug": "znamianska-miska-tgmznamianka"
+  },
+  {
+    "id": 549,
+    "otg_name": "КРОПИВНИЦЬКА МІСЬКА ТГ/М.КРОПИВНИЦЬКИЙ",
+    "slug": "kropivnicka-miska-tgmkropivnickii"
+  },
+  {
+    "id": 550,
+    "otg_name": "ОЛЕКСАНДРІЙСЬКА МІСЬКА ТГ/М.ОЛЕКСАНДРІЯ",
+    "slug": "oleksandriiska-miska-tgmoleksandriia"
+  },
+  {
+    "id": 551,
+    "otg_name": "СВІТЛОВОДСЬКА МІСЬКА ТГ/М.СВІТЛОВОДСЬК",
+    "slug": "svitlovodska-miska-tgmsvitlovodsk"
+  },
+  {
+    "id": 552,
+    "otg_name": "БІЛОВОДСЬКА СЕЛИЩНА ТГ/СМТ.БІЛОВОДСЬК",
+    "slug": "bilovodska-selishhna-tgsmtbilovodsk"
+  },
+  {
+    "id": 553,
+    "otg_name": "БІЛОКУРАКИНСЬКА СЕЛИЩНА ТГ/СМТ.БІЛОКУРАКИНЕ",
+    "slug": "bilokurakinska-selishhna-tgsmtbilokurakine"
+  },
+  {
+    "id": 554,
+    "otg_name": "ЛОЗНО-ОЛЕКСАНДРІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛОЗНО-ОЛЕКСАНДРІВКА",
+    "slug": "lozno-oleksandrivska-selishhna-tgsmtlozno-oleksandrivka"
+  },
+  {
+    "id": 555,
+    "otg_name": "КРАСНОРІЧЕНСЬКА СЕЛИЩНА ТГ/СМТ.КРАСНОРІЧЕНСЬКЕ",
+    "slug": "krasnoricenska-selishhna-tgsmtkrasnoricenske"
+  },
+  {
+    "id": 556,
+    "otg_name": "КРЕМІНСЬКА МІСЬКА ТГ/М.КРЕМІННА",
+    "slug": "kreminska-miska-tgmkreminna"
+  },
+  {
+    "id": 557,
+    "otg_name": "ЛУТУГИНСЬКА МІСЬКА ТГ/М.ЛУТУГИНЕ",
+    "slug": "lutuginska-miska-tgmlutugine"
+  },
+  {
+    "id": 558,
+    "otg_name": "МАРКІВСЬКА СЕЛИЩНА ТГ/СМТ.МАРКІВКА",
+    "slug": "markivska-selishhna-tgsmtmarkivka"
+  },
+  {
+    "id": 560,
+    "otg_name": "НОВОАЙДАРСЬКА СЕЛИЩНА ТГ/СМТ.НОВОАЙДАР",
+    "slug": "novoaidarska-selishhna-tgsmtnovoaidar"
+  },
+  {
+    "id": 561,
+    "otg_name": "БІЛОЛУЦЬКА СЕЛИЩНА ТГ/СМТ.БІЛОЛУЦЬК",
+    "slug": "bilolucka-selishhna-tgsmtbiloluck"
+  },
+  {
+    "id": 562,
+    "otg_name": "НОВОПСКОВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОПСКОВ",
+    "slug": "novopskovska-selishhna-tgsmtnovopskov"
+  },
+  {
+    "id": 563,
+    "otg_name": "ПОПАСНЯНСЬКА МІСЬКА ТГ/М.ПОПАСНА",
+    "slug": "popasnianska-miska-tgmpopasna"
+  },
+  {
+    "id": 564,
+    "otg_name": "КОЛОМИЙЧИСЬКА СІЛЬСЬКА ТГ/С.КОЛОМИЙЧИХА",
+    "slug": "kolomiiciska-silska-tgskolomiicixa"
+  },
+  {
+    "id": 565,
+    "otg_name": "НИЖНЬОДУВАНСЬКА СЕЛИЩНА ТГ/СМТ.НИЖНЯ ДУВАНКА",
+    "slug": "niznoduvanska-selishhna-tgsmtniznia-duvanka"
+  },
+  {
+    "id": 566,
+    "otg_name": "СВАТІВСЬКА МІСЬКА ТГ/М.СВАТОВЕ",
+    "slug": "svativska-miska-tgmsvatove"
+  },
+  {
+    "id": 567,
+    "otg_name": "ЗИМОГІР'ЇВСЬКА МІСЬКА ТГ/М.ЗИМОГІР'Я",
+    "slug": "zimogiryivska-miska-tgmzimogiria"
+  },
+  {
+    "id": 568,
+    "otg_name": "НИЖНЬОТЕПЛІВСЬКА СІЛЬСЬКА ТГ/С.НИЖНЬОТЕПЛЕ",
+    "slug": "niznoteplivska-silska-tgsniznoteple"
+  },
+  {
+    "id": 569,
+    "otg_name": "СТАНИЧНО-ЛУГАНСЬКА СЕЛИЩНА ТГ/СМТ.СТАНИЦЯ ЛУГАНСЬКА",
+    "slug": "stanicno-luganska-selishhna-tgsmtstanicia-luganska"
+  },
+  {
+    "id": 570,
+    "otg_name": "ШИРОКІВСЬКА СІЛЬСЬКА ТГ/С.ШИРОКИЙ",
+    "slug": "sirokivska-silska-tgssirokii"
+  },
+  {
+    "id": 571,
+    "otg_name": "СТАРОБІЛЬСЬКА МІСЬКА ТГ/М.СТАРОБІЛЬСЬК",
+    "slug": "starobilska-miska-tgmstarobilsk"
+  },
+  {
+    "id": 572,
+    "otg_name": "ЧМИРІВСЬКА СІЛЬСЬКА ТГ/С.ЧМИРІВКА",
+    "slug": "cmirivska-silska-tgscmirivka"
+  },
+  {
+    "id": 573,
+    "otg_name": "ШУЛЬГИНСЬКА СІЛЬСЬКА ТГ/С.ШУЛЬГИНКА",
+    "slug": "sulginska-silska-tgssulginka"
+  },
+  {
+    "id": 958,
+    "otg_name": "ДОНЕЦЬКА МІСЬКА ТГ/М.ДОНЕЦЬК",
+    "slug": "donecka-miska-tgmdoneck"
+  },
+  {
+    "id": 575,
+    "otg_name": "АЛЧЕВСЬКА МІСЬКА ТГ/М.АЛЧЕВСЬК",
+    "slug": "alcevska-miska-tgmalcevsk"
+  },
+  {
+    "id": 576,
+    "otg_name": "АНТРАЦИТІВСЬКА МІСЬКА ТГ/М.АНТРАЦИТ",
+    "slug": "antracitivska-miska-tgmantracit"
+  },
+  {
+    "id": 577,
+    "otg_name": "ДОВЖАНСЬКА МІСЬКА ТГ/М.ДОВЖАНСЬК",
+    "slug": "dovzanska-miska-tgmdovzansk"
+  },
+  {
+    "id": 578,
+    "otg_name": "КАДІЇВСЬКА МІСЬКА ТГ/М.КАДІЇВКА",
+    "slug": "kadiyivska-miska-tgmkadiyivka"
+  },
+  {
+    "id": 579,
+    "otg_name": "ЛИСИЧАНСЬКА МІСЬКА ТГ/М.ЛИСИЧАНСЬК",
+    "slug": "lisicanska-miska-tgmlisicansk"
+  },
+  {
+    "id": 580,
+    "otg_name": "ЛУГАНСЬКА МІСЬКА ТГ/М.ЛУГАНСЬК",
+    "slug": "luganska-miska-tgmlugansk"
+  },
+  {
+    "id": 581,
+    "otg_name": "РОВЕНЬКІВСЬКА МІСЬКА ТГ/М.РОВЕНЬКИ",
+    "slug": "rovenkivska-miska-tgmrovenki"
+  },
+  {
+    "id": 582,
+    "otg_name": "РУБІЖАНСЬКА МІСЬКА ТГ/М.РУБІЖНЕ",
+    "slug": "rubizanska-miska-tgmrubizne"
+  },
+  {
+    "id": 583,
+    "otg_name": "СЄВЄРОДОНЕЦЬКА МІСЬКА ТГ/М.СЄВЄРОДОНЕЦЬК",
+    "slug": "sjevjerodonecka-miska-tgmsjevjerodoneck"
+  },
+  {
+    "id": 584,
+    "otg_name": "МОЛОДО-ГВАРДІЙСЬКА МІСЬКА ТГ/М.МОЛОДОГВАРДІЙСЬК",
+    "slug": "molodo-gvardiiska-miska-tgmmolodogvardiisk"
+  },
+  {
+    "id": 585,
+    "otg_name": "СОРОКИНСЬКА МІСЬКА ТГ/М.СОРОКИНЕ",
+    "slug": "sorokinska-miska-tgmsorokine"
+  },
+  {
+    "id": 586,
+    "otg_name": "ХРУСТАЛЬНЕНСЬКА МІСЬКА ТГ/М.ХРУСТАЛЬНИЙ",
+    "slug": "xrustalnenska-miska-tgmxrustalnii"
+  },
+  {
+    "id": 587,
+    "otg_name": "БРОДІВСЬКА МІСЬКА ТГ/М.БРОДИ",
+    "slug": "brodivska-miska-tgmbrodi"
+  },
+  {
+    "id": 588,
+    "otg_name": "ЗАБОЛОТЦІВСЬКА СІЛЬСЬКА ТГ/С.ЗАБОЛОТЦІ",
+    "slug": "zabolotcivska-silska-tgszabolotci"
+  },
+  {
+    "id": 589,
+    "otg_name": "ПІДКАМІНСЬКА СЕЛИЩНА ТГ/СМТ.ПІДКАМІНЬ",
+    "slug": "pidkaminska-selishhna-tgsmtpidkamin"
+  },
+  {
+    "id": 590,
+    "otg_name": "БУСЬКА МІСЬКА ТГ/М.БУСЬК",
+    "slug": "buska-miska-tgmbusk"
+  },
+  {
+    "id": 591,
+    "otg_name": "КРАСНЕНСЬКА СЕЛИЩНА ТГ/СМТ.КРАСНЕ",
+    "slug": "krasnenska-selishhna-tgsmtkrasne"
+  },
+  {
+    "id": 592,
+    "otg_name": "С СЕЛИЩНА ТГ/СМТ.ВЕЛИКИЙ ЛЮБІНЬ",
+    "slug": "s-selishhna-tgsmtvelikii-liubin"
+  },
+  {
+    "id": 593,
+    "otg_name": "ГОРОДОЦЬКА МІСЬКА ТГ/М.ГОРОДОК",
+    "slug": "gorodocka-miska-tgmgorodok"
+  },
+  {
+    "id": 594,
+    "otg_name": "КОМАРНІВСЬКА МІСЬКА ТГ/М.КОМАРНО",
+    "slug": "komarnivska-miska-tgmkomarno"
+  },
+  {
+    "id": 595,
+    "otg_name": "МЕДЕНИЦЬКА СЕЛИЩНА ТГ/СМТ.МЕДЕНИЧІ",
+    "slug": "medenicka-selishhna-tgsmtmedenici"
+  },
+  {
+    "id": 596,
+    "otg_name": "ГНІЗДИЧІВСЬКА СЕЛИЩНА ТГ/СМТ.ГНІЗДИЧІВ",
+    "slug": "gnizdicivska-selishhna-tgsmtgnizdiciv"
+  },
+  {
+    "id": 597,
+    "otg_name": "ЖИДАЧІВСЬКА МІСЬКА ТГ/М.ЖИДАЧІВ",
+    "slug": "zidacivska-miska-tgmzidaciv"
+  },
+  {
+    "id": 598,
+    "otg_name": "ЖУРАВНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ЖУРАВНО",
+    "slug": "zuravnenska-selishhna-tgsmtzuravno"
+  },
+  {
+    "id": 599,
+    "otg_name": "ХОДОРІВСЬКА МІСЬКА ТГ/М.ХОДОРІВ",
+    "slug": "xodorivska-miska-tgmxodoriv"
+  },
+  {
+    "id": 600,
+    "otg_name": "ЖОВКІВСЬКА МІСЬКА ТГ/М.ЖОВКВА",
+    "slug": "zovkivska-miska-tgmzovkva"
+  },
+  {
+    "id": 601,
+    "otg_name": "КУЛИКІВСЬКА СЕЛИЩНА ТГ/СМТ.КУЛИКІВ",
+    "slug": "kulikivska-selishhna-tgsmtkulikiv"
+  },
+  {
+    "id": 602,
+    "otg_name": "РАВА-РУСЬКА МІСЬКА ТГ/М.РАВА-РУСЬКА",
+    "slug": "rava-ruska-miska-tgmrava-ruska"
+  },
+  {
+    "id": 603,
+    "otg_name": "ГЛИНЯНСЬКА МІСЬКА ТГ/М.ГЛИНЯНИ",
+    "slug": "glinianska-miska-tgmgliniani"
+  },
+  {
+    "id": 604,
+    "otg_name": "ЗОЛОЧІВСЬКА МІСЬКА ТГ/М.ЗОЛОЧІВ",
+    "slug": "zolocivska-miska-tgmzolociv"
+  },
+  {
+    "id": 605,
+    "otg_name": "ПОМОРЯНСЬКА СЕЛИЩНА ТГ/СМТ.ПОМОРЯНИ",
+    "slug": "pomorianska-selishhna-tgsmtpomoriani"
+  },
+  {
+    "id": 606,
+    "otg_name": "ДОБРОТВІРСЬКА СЕЛИЩНА ТГ/СМТ.ДОБРОТВІР",
+    "slug": "dobrotvirska-selishhna-tgsmtdobrotvir"
+  },
+  {
+    "id": 607,
+    "otg_name": "ЖОВТАНЕЦЬКА СІЛЬСЬКА ТГ/С.ЖОВТАНЦІ",
+    "slug": "zovtanecka-silska-tgszovtanci"
+  },
+  {
+    "id": 608,
+    "otg_name": "КАМ'ЯНКА-БУЗЬКА МІСЬКА ТГ/М.КАМ'ЯНКА-БУЗЬКА",
+    "slug": "kamianka-buzka-miska-tgmkamianka-buzka"
+  },
+  {
+    "id": 609,
+    "otg_name": "НОВОЯРИЧІВСЬКА СЕЛИЩНА ТГ/СМТ.НОВИЙ ЯРИЧІВ",
+    "slug": "novoiaricivska-selishhna-tgsmtnovii-iariciv"
+  },
+  {
+    "id": 610,
+    "otg_name": "МИКОЛАЇВСЬКА МІСЬКА ТГ/М.МИКОЛАЇВ",
+    "slug": "mikolayivska-miska-tgmmikolayiv"
+  },
+  {
+    "id": 611,
+    "otg_name": "РОЗВАДІВСЬКА СІЛЬСЬКА ТГ/С.РОЗВАДІВ",
+    "slug": "rozvadivska-silska-tgsrozvadiv"
+  },
+  {
+    "id": 612,
+    "otg_name": "МОСТИСЬКА МІСЬКА ТГ/М.МОСТИСЬКА",
+    "slug": "mostiska-miska-tgmmostiska"
+  },
+  {
+    "id": 613,
+    "otg_name": "СУДОВОВИШНЯНСЬКА МІСЬКА ТГ/М.СУДОВА ВИШНЯ",
+    "slug": "sudovovisnianska-miska-tgmsudova-visnia"
+  },
+  {
+    "id": 614,
+    "otg_name": "ШЕГИНІВСЬКА СІЛЬСЬКА ТГ/С.ШЕГИНІ",
+    "slug": "seginivska-silska-tgssegini"
+  },
+  {
+    "id": 615,
+    "otg_name": "БІБРСЬКА МІСЬКА ТГ/М.БІБРКА",
+    "slug": "bibrska-miska-tgmbibrka"
+  },
+  {
+    "id": 616,
+    "otg_name": "ПЕРЕМИШЛЯНСЬКА МІСЬКА ТГ/М.ПЕРЕМИШЛЯНИ",
+    "slug": "peremislianska-miska-tgmperemisliani"
+  },
+  {
+    "id": 617,
+    "otg_name": "ДАВИДІВСЬКА СІЛЬСЬКА ТГ/С.ДАВИДІВ",
+    "slug": "davidivska-silska-tgsdavidiv"
+  },
+  {
+    "id": 618,
+    "otg_name": "ЗИМНОВОДІВСЬКА СІЛЬСЬКА ТГ/С.ЗИМНА ВОДА",
+    "slug": "zimnovodivska-silska-tgszimna-voda"
+  },
+  {
+    "id": 619,
+    "otg_name": "МУРОВАНСЬКА СІЛЬСЬКА ТГ/С.МУРОВАНЕ",
+    "slug": "murovanska-silska-tgsmurovane"
+  },
+  {
+    "id": 620,
+    "otg_name": "ОБРОШИНСЬКА СІЛЬСЬКА ТГ/С.ОБРОШИНЕ",
+    "slug": "obrosinska-silska-tgsobrosine"
+  },
+  {
+    "id": 621,
+    "otg_name": "ПІДБЕРІЗЦІВСЬКА СІЛЬСЬКА ТГ/С.ПІДБЕРІЗЦІ",
+    "slug": "pidberizcivska-silska-tgspidberizci"
+  },
+  {
+    "id": 622,
+    "otg_name": "ПУСТОМИТІВСЬКА МІСЬКА ТГ/М.ПУСТОМИТИ",
+    "slug": "pustomitivska-miska-tgmpustomiti"
+  },
+  {
+    "id": 623,
+    "otg_name": "СОКІЛЬНИЦЬКА СІЛЬСЬКА ТГ/С.СОКІЛЬНИКИ",
+    "slug": "sokilnicka-silska-tgssokilniki"
+  },
+  {
+    "id": 624,
+    "otg_name": "СОЛОНКІВСЬКА СІЛЬСЬКА ТГ/С.СОЛОНКА",
+    "slug": "solonkivska-silska-tgssolonka"
+  },
+  {
+    "id": 625,
+    "otg_name": "ЩИРЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЩИРЕЦЬ",
+    "slug": "shhirecka-selishhna-tgsmtshhirec"
+  },
+  {
+    "id": 626,
+    "otg_name": "ЛОПАТИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛОПАТИН",
+    "slug": "lopatinska-selishhna-tgsmtlopatin"
+  },
+  {
+    "id": 627,
+    "otg_name": "РАДЕХІВСЬКА МІСЬКА ТГ/М.РАДЕХІВ",
+    "slug": "radexivska-miska-tgmradexiv"
+  },
+  {
+    "id": 628,
+    "otg_name": "БІСКОВИЦЬКА СІЛЬСЬКА ТГ/С.БІСКОВИЧІ",
+    "slug": "biskovicka-silska-tgsbiskovici"
+  },
+  {
+    "id": 629,
+    "otg_name": "НОВОКАЛИНІВСЬКА МІСЬКА ТГ/М.НОВИЙ КАЛИНІВ",
+    "slug": "novokalinivska-miska-tgmnovii-kaliniv"
+  },
+  {
+    "id": 630,
+    "otg_name": "РАЛІВСЬКА СІЛЬСЬКА ТГ/С.РАЛІВКА",
+    "slug": "ralivska-silska-tgsralivka"
+  },
+  {
+    "id": 631,
+    "otg_name": "РУДКІВСЬКА МІСЬКА ТГ/М.РУДКИ",
+    "slug": "rudkivska-miska-tgmrudki"
+  },
+  {
+    "id": 632,
+    "otg_name": "КОЗІВСЬКА СІЛЬСЬКА ТГ/С.КОЗЬОВА",
+    "slug": "kozivska-silska-tgskozova"
+  },
+  {
+    "id": 633,
+    "otg_name": "СКОЛІВСЬКА МІСЬКА ТГ/М.СКОЛЕ",
+    "slug": "skolivska-miska-tgmskole"
+  },
+  {
+    "id": 634,
+    "otg_name": "СЛАВСЬКА СЕЛИЩНА ТГ/СМТ.СЛАВСЬКЕ",
+    "slug": "slavska-selishhna-tgsmtslavske"
+  },
+  {
+    "id": 635,
+    "otg_name": "БЕЛЗЬКА МІСЬКА ТГ/М.БЕЛЗ",
+    "slug": "belzka-miska-tgmbelz"
+  },
+  {
+    "id": 636,
+    "otg_name": "ВЕЛИКОМОСТІВСЬКА МІСЬКА ТГ/М.ВЕЛИКІ МОСТИ",
+    "slug": "velikomostivska-miska-tgmveliki-mosti"
+  },
+  {
+    "id": 637,
+    "otg_name": "СОКАЛЬСЬКА МІСЬКА ТГ/М.СОКАЛЬ",
+    "slug": "sokalska-miska-tgmsokal"
+  },
+  {
+    "id": 638,
+    "otg_name": "ДОБРОМИЛЬСЬКА МІСЬКА ТГ/М.ДОБРОМИЛЬ",
+    "slug": "dobromilska-miska-tgmdobromil"
+  },
+  {
+    "id": 639,
+    "otg_name": "СТАРОСАМБІРСЬКА МІСЬКА ТГ/М.СТАРИЙ САМБІР",
+    "slug": "starosambirska-miska-tgmstarii-sambir"
+  },
+  {
+    "id": 640,
+    "otg_name": "СТРІЛКІВСЬКА СІЛЬСЬКА ТГ/С.СТРІЛКИ",
+    "slug": "strilkivska-silska-tgsstrilki"
+  },
+  {
+    "id": 641,
+    "otg_name": "ХИРІВСЬКА МІСЬКА ТГ/М.ХИРІВ",
+    "slug": "xirivska-miska-tgmxiriv"
+  },
+  {
+    "id": 642,
+    "otg_name": "ГРАБОВЕЦЬКО-ДУЛІБІВСЬКА СІЛЬСЬКА ТГ/С.ДУЛІБИ",
+    "slug": "grabovecko-dulibivska-silska-tgsdulibi"
+  },
+  {
+    "id": 643,
+    "otg_name": "БОРИНСЬКА СЕЛИЩНА ТГ/СМТ.БОРИНЯ",
+    "slug": "borinska-selishhna-tgsmtborinia"
+  },
+  {
+    "id": 644,
+    "otg_name": "ТУРКІВСЬКА МІСЬКА ТГ/М.ТУРКА",
+    "slug": "turkivska-miska-tgmturka"
+  },
+  {
+    "id": 645,
+    "otg_name": "ІВАНО-ФРАНКІВСЬКА СЕЛИЩНА ТГ/СМТ.ІВАНО-ФРАНКОВЕ",
+    "slug": "ivano-frankivska-selishhna-tgsmtivano-frankove"
+  },
+  {
+    "id": 646,
+    "otg_name": "НОВОЯВОРІВСЬКА МІСЬКА ТГ/М.НОВОЯВОРІВСЬК",
+    "slug": "novoiavorivska-miska-tgmnovoiavorivsk"
+  },
+  {
+    "id": 647,
+    "otg_name": "ЯВОРІВСЬКА МІСЬКА ТГ/М.ЯВОРІВ",
+    "slug": "iavorivska-miska-tgmiavoriv"
+  },
+  {
+    "id": 648,
+    "otg_name": "БОРИСЛАВСЬКА МІСЬКА ТГ/М.БОРИСЛАВ",
+    "slug": "borislavska-miska-tgmborislav"
+  },
+  {
+    "id": 649,
+    "otg_name": "СХІДНИЦЬКА СЕЛИЩНА ТГ/СМТ.СХІДНИЦЯ",
+    "slug": "sxidnicka-selishhna-tgsmtsxidnicia"
+  },
+  {
+    "id": 650,
+    "otg_name": "ДРОГОБИЦЬКА МІСЬКА ТГ/М.ДРОГОБИЧ",
+    "slug": "drogobicka-miska-tgmdrogobic"
+  },
+  {
+    "id": 651,
+    "otg_name": "ЛЬВІВСЬКА МІСЬКА ТГ/М.ЛЬВІВ",
+    "slug": "lvivska-miska-tgmlviv"
+  },
+  {
+    "id": 652,
+    "otg_name": "МОРШИНСЬКА МІСЬКА ТГ/М.МОРШИН",
+    "slug": "morsinska-miska-tgmmorsin"
+  },
+  {
+    "id": 653,
+    "otg_name": "НОВОРОЗДІЛЬСЬКА МІСЬКА ТГ/М.НОВИЙ РОЗДІЛ",
+    "slug": "novorozdilska-miska-tgmnovii-rozdil"
+  },
+  {
+    "id": 654,
+    "otg_name": "САМБІРСЬКА МІСЬКА ТГ/М.САМБІР",
+    "slug": "sambirska-miska-tgmsambir"
+  },
+  {
+    "id": 655,
+    "otg_name": "СТРИЙСЬКА МІСЬКА ТГ/М.СТРИЙ",
+    "slug": "striiska-miska-tgmstrii"
+  },
+  {
+    "id": 656,
+    "otg_name": "ТРУСКАВЕЦЬКА МІСЬКА ТГ/М.ТРУСКАВЕЦЬ",
+    "slug": "truskavecka-miska-tgmtruskavec"
+  },
+  {
+    "id": 657,
+    "otg_name": "ЧЕРВОНОГРАДСЬКА МІСЬКА ТГ/М.ЧЕРВОНОГРАД",
+    "slug": "cervonogradska-miska-tgmcervonograd"
+  },
+  {
+    "id": 658,
+    "otg_name": "БЛАГОДАТНЕНСЬКА СІЛЬСЬКА ТГ/С.БЛАГОДАТНЕ",
+    "slug": "blagodatnenska-silska-tgsblagodatne"
+  },
+  {
+    "id": 659,
+    "otg_name": "ІНГУЛЬСЬКА СІЛЬСЬКА ТГ/С.ІНГУЛКА",
+    "slug": "ingulska-silska-tgsingulka"
+  },
+  {
+    "id": 660,
+    "otg_name": "ПРИВІЛЬНЕНСЬКА СІЛЬСЬКА ТГ/С.ПРИВІЛЬНЕ",
+    "slug": "privilnenska-silska-tgsprivilne"
+  },
+  {
+    "id": 661,
+    "otg_name": "КОБЛІВСЬКА СІЛЬСЬКА ТГ/С.КОБЛЕВЕ",
+    "slug": "koblivska-silska-tgskobleve"
+  },
+  {
+    "id": 662,
+    "otg_name": "ВЕСЕЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕСЕЛИНОВЕ",
+    "slug": "veselinivska-selishhna-tgsmtveselinove"
+  },
+  {
+    "id": 663,
+    "otg_name": "ОЛЕКСАНДРІВСЬКА СЕЛИЩНА ТГ/СМТ.ОЛЕКСАНДРІВКА",
+    "slug": "oleksandrivska-selishhna-tgsmtoleksandrivka-1"
+  },
+  {
+    "id": 664,
+    "otg_name": "ДОРОШІВСЬКА СІЛЬСЬКА ТГ/С.ДОРОШІВКА",
+    "slug": "dorosivska-silska-tgsdorosivka"
+  },
+  {
+    "id": 665,
+    "otg_name": "БУЗЬКА СІЛЬСЬКА ТГ/С.БУЗЬКЕ",
+    "slug": "buzka-silska-tgsbuzke"
+  },
+  {
+    "id": 666,
+    "otg_name": "ПРИБУЖАНІВСЬКА СІЛЬСЬКА ТГ/С.ПРИБУЖАНИ",
+    "slug": "pribuzanivska-silska-tgspribuzani"
+  },
+  {
+    "id": 667,
+    "otg_name": "ВРАДІЇВСЬКА СЕЛИЩНА ТГ/СМТ.ВРАДІЇВКА",
+    "slug": "vradiyivska-selishhna-tgsmtvradiyivka"
+  },
+  {
+    "id": 668,
+    "otg_name": "ДОМАНІВСЬКА СЕЛИЩНА ТГ/СМТ.ДОМАНІВКА",
+    "slug": "domanivska-selishhna-tgsmtdomanivka"
+  },
+  {
+    "id": 669,
+    "otg_name": "МОСТІВСЬКА СІЛЬСЬКА ТГ/С.МОСТОВЕ",
+    "slug": "mostivska-silska-tgsmostove"
+  },
+  {
+    "id": 670,
+    "otg_name": "ВОСКРЕСЕНСЬКА СЕЛИЩНА ТГ/СМТ.ВОСКРЕСЕНСЬКЕ",
+    "slug": "voskresenska-selishhna-tgsmtvoskresenske"
+  },
+  {
+    "id": 671,
+    "otg_name": "ГАЛИЦИНІВСЬКА СІЛЬСЬКА ТГ/С.ГАЛИЦИНОВЕ",
+    "slug": "galicinivska-silska-tgsgalicinove"
+  },
+  {
+    "id": 672,
+    "otg_name": "ШЕВЧЕНКІВСЬКА СІЛЬСЬКА ТГ/С.ШЕВЧЕНКОВЕ",
+    "slug": "sevcenkivska-silska-tgssevcenkove"
+  },
+  {
+    "id": 673,
+    "otg_name": "ОЛЬШАНСЬКА СЕЛИЩНА ТГ/СМТ.ОЛЬШАНСЬКЕ",
+    "slug": "olsanska-selishhna-tgsmtolsanske"
+  },
+  {
+    "id": 674,
+    "otg_name": "ВЕСНЯНСЬКА СІЛЬСЬКА ТГ/С.ВЕСНЯНЕ",
+    "slug": "vesnianska-silska-tgsvesniane"
+  },
+  {
+    "id": 675,
+    "otg_name": "НЕЧАЯНСЬКА СЕЛИЩНА ТГ/C.НЕЧАЯНЕ",
+    "slug": "necaianska-selishhna-tgcnecaiane"
+  },
+  {
+    "id": 676,
+    "otg_name": "КУЦУРУБСЬКА СІЛЬСЬКА ТГ/С.КУЦУРУБ",
+    "slug": "kucurubska-silska-tgskucurub"
+  },
+  {
+    "id": 677,
+    "otg_name": "ЧОРНОМОРСЬКА СІЛЬСЬКА ТГ/С.ЧОРНОМОРКА",
+    "slug": "cornomorska-silska-tgscornomorka"
+  },
+  {
+    "id": 678,
+    "otg_name": "КАМ'ЯНОМОСТІВСЬКА СІЛЬСЬКА ТГ/С.КАМ'ЯНИЙ",
+    "slug": "kamianomostivska-silska-tgskamianii"
+  },
+  {
+    "id": 679,
+    "otg_name": "СИНЮХИНОБРІДСЬКА СІЛЬСЬКА ТГ/С.СИНЮХИН",
+    "slug": "siniuxinobridska-silska-tgssiniuxin"
+  },
+  {
+    "id": 680,
+    "otg_name": "БЕРЕЗНЕГУВАТСЬКА СЕЛИЩНА ТГ/СМТ.БЕРЕЗНЕГУВАТЕ",
+    "slug": "berezneguvatska-selishhna-tgsmtberezneguvate"
+  },
+  {
+    "id": 681,
+    "otg_name": "БРАТСЬКА СЕЛИЩНА ТГ/СМТ.БРАТСЬКЕ",
+    "slug": "bratska-selishhna-tgsmtbratske"
+  },
+  {
+    "id": 682,
+    "otg_name": "НОВОМАР'ЇВСЬКА СІЛЬСЬКА ТГ/С.НОВОМАР'ЇВКА",
+    "slug": "novomaryivska-silska-tgsnovomaryivka"
+  },
+  {
+    "id": 683,
+    "otg_name": "КОСТЯНТИНІВСЬКА СІЛЬСЬКА ТГ/С.КОСТЯНТИНІВКА",
+    "slug": "kostiantinivska-silska-tgskostiantinivka-1"
+  },
+  {
+    "id": 684,
+    "otg_name": "НОВООДЕСЬКА МІСЬКА ТГ/М.НОВА",
+    "slug": "novoodeska-miska-tgmnova"
+  },
+  {
+    "id": 685,
+    "otg_name": "ВІЛЬНОЗАПОРІЗЬКА СІЛЬСЬКА ТГ/С.ВІЛЬНЕ",
+    "slug": "vilnozaporizka-silska-tgsvilne"
+  },
+  {
+    "id": 686,
+    "otg_name": "НОВОБУЗЬКА МІСЬКА ТГ/М.НОВИЙ",
+    "slug": "novobuzka-miska-tgmnovii"
+  },
+  {
+    "id": 687,
+    "otg_name": "СОФІЇВСЬКА СІЛЬСЬКА ТГ/С.СОФІЇВКА",
+    "slug": "sofiyivska-silska-tgssofiyivka"
+  },
+  {
+    "id": 714,
+    "otg_name": "ПІЩАНСЬКА СІЛЬСЬКА ТГ/С.ПІЩАНА",
+    "slug": "pishhanska-silska-tgspishhana"
+  },
+  {
+    "id": 688,
+    "otg_name": "СУХОЄЛАНЕЦЬКА СІЛЬСЬКА ТГ/С.СУХИЙ",
+    "slug": "suxojelanecka-silska-tgssuxii"
+  },
+  {
+    "id": 689,
+    "otg_name": "МИГІЇВСЬКА СІЛЬСЬКА ТГ/С.МИГІЯ",
+    "slug": "migiyivska-silska-tgsmigiia"
+  },
+  {
+    "id": 690,
+    "otg_name": "ГОРОХІВСЬКА СІЛЬСЬКА ТГ/С.ГОРОХІВСЬКЕ",
+    "slug": "goroxivska-silska-tgsgoroxivske"
+  },
+  {
+    "id": 691,
+    "otg_name": "СНІГУРІВСЬКА МІСЬКА ТГ/М.СНІГУРІВКА",
+    "slug": "snigurivska-miska-tgmsnigurivka"
+  },
+  {
+    "id": 692,
+    "otg_name": "КАЗАНКІВСЬКА СЕЛИЩНА ТГ/СМТ.КАЗАНКА",
+    "slug": "kazankivska-selishhna-tgsmtkazanka"
+  },
+  {
+    "id": 693,
+    "otg_name": "АРБУЗИНСЬКА СЕЛИЩНА ТГ/СМТ.АРБУЗИНКА",
+    "slug": "arbuzinska-selishhna-tgsmtarbuzinka"
+  },
+  {
+    "id": 694,
+    "otg_name": "КРИВООЗЕРСЬКА СЕЛИЩНА ТГ/СМТ.КРИВЕ",
+    "slug": "krivoozerska-selishhna-tgsmtkrive"
+  },
+  {
+    "id": 695,
+    "otg_name": "БЕРЕЗАНСЬКА СЕЛИЩНА ТГ/СМТ.БЕРЕЗАНКА",
+    "slug": "berezanska-selishhna-tgsmtberezanka"
+  },
+  {
+    "id": 696,
+    "otg_name": "ВОЛОДИМИРІВСЬКА СІЛЬСЬКА ТГ/С.ВОЛОДИМИРІВКА",
+    "slug": "volodimirivska-silska-tgsvolodimirivka"
+  },
+  {
+    "id": 697,
+    "otg_name": "ПРИБУЗЬКА СІЛЬСЬКА ТГ/С.ПРИБУЖЖЯ",
+    "slug": "pribuzka-silska-tgspribuzzia"
+  },
+  {
+    "id": 698,
+    "otg_name": "РАДСАДІВСЬКА СІЛЬСЬКА ТГ/С.РАДІСНИЙ",
+    "slug": "radsadivska-silska-tgsradisnii"
+  },
+  {
+    "id": 699,
+    "otg_name": "ЄЛАНЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЄЛАНЕЦЬ",
+    "slug": "jelanecka-selishhna-tgsmtjelanec"
+  },
+  {
+    "id": 700,
+    "otg_name": "СТЕПІВСЬКА СІЛЬСЬКА ТГ/С.СТЕПОВЕ",
+    "slug": "stepivska-silska-tgsstepove"
+  },
+  {
+    "id": 701,
+    "otg_name": "ШИРОКІВСЬКА СІЛЬСЬКА ТГ/С.ШИРОКЕ",
+    "slug": "sirokivska-silska-tgssiroke-1"
+  },
+  {
+    "id": 702,
+    "otg_name": "ВОЗНЕСЕНСЬКА МІСЬКА ТГ/М.ВОЗНЕСЕНСЬК",
+    "slug": "voznesenska-miska-tgmvoznesensk"
+  },
+  {
+    "id": 703,
+    "otg_name": "МІШКОВО-ПОГОРІЛІВСЬКА СІЛЬСЬКА ТГ/С.МІШКОВО-ПОГОРІЛОВЕ",
+    "slug": "miskovo-pogorilivska-silska-tgsmiskovo-pogorilove"
+  },
+  {
+    "id": 704,
+    "otg_name": "ПЕРВОМАЙСЬКА СЕЛИЩНА ТГ/СМТ.ПЕРВОМАЙСЬКЕ",
+    "slug": "pervomaiska-selishhna-tgsmtpervomaiske"
+  },
+  {
+    "id": 705,
+    "otg_name": "ОЧАКІВСЬКА МІСЬКА ТГ/М.ОЧАКІВ",
+    "slug": "ocakivska-miska-tgmocakiv"
+  },
+  {
+    "id": 733,
+    "otg_name": "КУБЕЙСЬКА СІЛЬСЬКА ТГ/С.КУБЕЙ",
+    "slug": "kubeiska-silska-tgskubei"
+  },
+  {
+    "id": 706,
+    "otg_name": "ЮЖНОУКРАЇНСЬКА МІСЬКА ТГ/М.ЮЖНОУКРАЇНСЬК",
+    "slug": "iuznoukrayinska-miska-tgmiuznoukrayinsk"
+  },
+  {
+    "id": 707,
+    "otg_name": "ПЕРВОМАЙСЬКА МІСЬКА ТГ/М.ПЕРВОМАЙСЬК",
+    "slug": "pervomaiska-miska-tgmpervomaisk"
+  },
+  {
+    "id": 708,
+    "otg_name": "МИКОЛАЇВСЬКА МІСЬКА ТГ/М.МИКОЛАЇВ",
+    "slug": "mikolayivska-miska-tgmmikolayiv-1"
+  },
+  {
+    "id": 709,
+    "otg_name": "АНАНЬЇВСЬКА МІСЬКА ТГ/М.АНАНЬЇВ",
+    "slug": "ananyivska-miska-tgmananyiv"
+  },
+  {
+    "id": 710,
+    "otg_name": "ДОЛИНСЬКА СІЛЬСЬКА ТГ/С.ДОЛИНСЬКЕ",
+    "slug": "dolinska-silska-tgsdolinske-1"
+  },
+  {
+    "id": 711,
+    "otg_name": "АРЦИЗЬКА МІСЬКА ТГ/М.АРЦИЗ",
+    "slug": "arcizka-miska-tgmarciz"
+  },
+  {
+    "id": 712,
+    "otg_name": "ПАВЛІВСЬКА СІЛЬСЬКА ТГ/С.ПАВЛІВКА",
+    "slug": "pavlivska-silska-tgspavlivka-1"
+  },
+  {
+    "id": 713,
+    "otg_name": "ТЕПЛИЦЬКА СІЛЬСЬКА ТГ/С.ТЕПЛИЦЯ",
+    "slug": "teplicka-silska-tgsteplicia"
+  },
+  {
+    "id": 715,
+    "otg_name": "БЕРЕЗІВСЬКА МІСЬКА ТГ/М.БЕРЕЗІВКА",
+    "slug": "berezivska-miska-tgmberezivka"
+  },
+  {
+    "id": 716,
+    "otg_name": "НОВОКАЛЬЧЕВСЬКА СІЛЬСЬКА ТГ/С.НОВОКАЛЬЧЕВЕ",
+    "slug": "novokalcevska-silska-tgsnovokalceve"
+  },
+  {
+    "id": 717,
+    "otg_name": "РОЗКВІТІВСЬКА СІЛЬСЬКА ТГ/С.РОЗКВІТ",
+    "slug": "rozkvitivska-silska-tgsrozkvit"
+  },
+  {
+    "id": 718,
+    "otg_name": "МАРАЗЛІЇВСЬКА СІЛЬСЬКА ТГ/С.МАРАЗЛІЇВКА",
+    "slug": "marazliyivska-silska-tgsmarazliyivka"
+  },
+  {
+    "id": 719,
+    "otg_name": "МОЛОГІВСЬКА СІЛЬСЬКА ТГ/С.МОЛОГИ",
+    "slug": "mologivska-silska-tgsmologi"
+  },
+  {
+    "id": 720,
+    "otg_name": "СТАРОКОЗАЦЬКА СІЛЬСЬКА ТГ/С.СТАРОКОЗАЧЕ",
+    "slug": "starokozacka-silska-tgsstarokozace"
+  },
+  {
+    "id": 721,
+    "otg_name": "ШАБІВСЬКА СІЛЬСЬКА ТГ/С.ШАБО",
+    "slug": "sabivska-silska-tgssabo"
+  },
+  {
+    "id": 722,
+    "otg_name": "ВЕЛИКОДАЛЬНИЦЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКИЙ ДАЛЬНИК",
+    "slug": "velikodalnicka-silska-tgsvelikii-dalnik"
+  },
+  {
+    "id": 723,
+    "otg_name": "ВИГОДЯНСЬКА СІЛЬСЬКА ТГ/С.ВИГОДА",
+    "slug": "vigodianska-silska-tgsvigoda"
+  },
+  {
+    "id": 724,
+    "otg_name": "ДАЧНЕНСЬКА СІЛЬСЬКА ТГ/С.ДАЧНЕ",
+    "slug": "dacnenska-silska-tgsdacne"
+  },
+  {
+    "id": 725,
+    "otg_name": "МАЯКІВСЬКА СІЛЬСЬКА ТГ/С.МАЯКИ",
+    "slug": "maiakivska-silska-tgsmaiaki"
+  },
+  {
+    "id": 726,
+    "otg_name": "НЕРУБАЙСЬКА СІЛЬСЬКА ТГ/С.НЕРУБАЙСЬКЕ",
+    "slug": "nerubaiska-silska-tgsnerubaiske"
+  },
+  {
+    "id": 727,
+    "otg_name": "УСАТІВСЬКА СІЛЬСЬКА ТГ/С.УСАТОВЕ",
+    "slug": "usativska-silska-tgsusatove"
+  },
+  {
+    "id": 728,
+    "otg_name": "ЯСЬКІВСЬКА СІЛЬСЬКА ТГ/С.ЯСЬКИ",
+    "slug": "iaskivska-silska-tgsiaski"
+  },
+  {
+    "id": 729,
+    "otg_name": "БОЛГРАДСЬКА МІСЬКА ТГ/М.БОЛГРАД",
+    "slug": "bolgradska-miska-tgmbolgrad"
+  },
+  {
+    "id": 730,
+    "otg_name": "ВАСИЛІВСЬКА СІЛЬСЬКА ТГ/С.ВАСИЛІВКА",
+    "slug": "vasilivska-silska-tgsvasilivka"
+  },
+  {
+    "id": 731,
+    "otg_name": "ГОРОДНЕНСЬКА СІЛЬСЬКА ТГ/С.ГОРОДНЕ",
+    "slug": "gorodnenska-silska-tgsgorodne"
+  },
+  {
+    "id": 732,
+    "otg_name": "КРИНИЧНЕНСЬКА СІЛЬСЬКА ТГ/С.КРИНИЧНЕ",
+    "slug": "krinicnenska-silska-tgskrinicne"
+  },
+  {
+    "id": 734,
+    "otg_name": "ВЕЛИКОМИХАЙЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА МИХАЙЛІВКА",
+    "slug": "velikomixailivska-selishhna-tgsmtvelika-mixailivka"
+  },
+  {
+    "id": 735,
+    "otg_name": "ВЕЛИКОПЛОСКІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКОПЛОСКЕ",
+    "slug": "velikoploskivska-silska-tgsvelikoploske"
+  },
+  {
+    "id": 736,
+    "otg_name": "НОВОБОРИСІВСЬКА СІЛЬСЬКА ТГ/С.НОВОБОРИСІВКА",
+    "slug": "novoborisivska-silska-tgsnovoborisivka"
+  },
+  {
+    "id": 737,
+    "otg_name": "ЦЕБРИКІВСЬКА СЕЛИЩНА ТГ/СМТ.ЦЕБРИКОВЕ",
+    "slug": "cebrikivska-selishhna-tgsmtcebrikove"
+  },
+  {
+    "id": 738,
+    "otg_name": "ЗАТИШАНСЬКА СЕЛИЩНА ТГ/СМТ.ЗАТИШШЯ",
+    "slug": "zatisanska-selishhna-tgsmtzatissia"
+  },
+  {
+    "id": 739,
+    "otg_name": "ЗАХАРІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗАХАРІВКА",
+    "slug": "zaxarivska-selishhna-tgsmtzaxarivka"
+  },
+  {
+    "id": 740,
+    "otg_name": "ВЕЛИКОБУЯЛИЦЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКИЙ БУЯЛИК",
+    "slug": "velikobuialicka-silska-tgsvelikii-buialik"
+  },
+  {
+    "id": 741,
+    "otg_name": "ЗНАМ'ЯНСЬКА СІЛЬСЬКА ТГ/С.ЗНАМ'ЯНКА",
+    "slug": "znamianska-silska-tgsznamianka"
+  },
+  {
+    "id": 742,
+    "otg_name": "ІВАНІВСЬКА СЕЛИЩНА ТГ/СМТ.ІВАНІВКА",
+    "slug": "ivanivska-selishhna-tgsmtivanivka"
+  },
+  {
+    "id": 743,
+    "otg_name": "КОНОПЛЯНСЬКА СІЛЬСЬКА ТГ/С.КОНОПЛЯНЕ",
+    "slug": "konoplianska-silska-tgskonopliane"
+  },
+  {
+    "id": 744,
+    "otg_name": "САФ'ЯНІВСЬКА СІЛЬСЬКА ТГ/С.САФ'ЯНИ",
+    "slug": "safianivska-silska-tgssafiani"
+  },
+  {
+    "id": 745,
+    "otg_name": "СУВОРОВСЬКА СЕЛИЩНА ТГ/СМТ.СУВОРОВЕ",
+    "slug": "suvorovska-selishhna-tgsmtsuvorove"
+  },
+  {
+    "id": 746,
+    "otg_name": "ВИЛКІВСЬКА МІСЬКА ТГ/М.ВИЛКОВЕ",
+    "slug": "vilkivska-miska-tgmvilkove"
+  },
+  {
+    "id": 748,
+    "otg_name": "КОДИМСЬКА МІСЬКА ТГ/М.КОДИМА",
+    "slug": "kodimska-miska-tgmkodima"
+  },
+  {
+    "id": 749,
+    "otg_name": "СЛОБІДСЬКА СЕЛИЩНА ТГ/СМТ.СЛОБІДКА",
+    "slug": "slobidska-selishhna-tgsmtslobidka"
+  },
+  {
+    "id": 750,
+    "otg_name": "ВИЗИРСЬКА СІЛЬСЬКА ТГ/С.ВИЗИРКА",
+    "slug": "vizirska-silska-tgsvizirka"
+  },
+  {
+    "id": 751,
+    "otg_name": "ДОБРОСЛАВСЬКА СЕЛИЩНА ТГ/СМТ.ДОБРОСЛАВ",
+    "slug": "dobroslavska-selishhna-tgsmtdobroslav"
+  },
+  {
+    "id": 752,
+    "otg_name": "КРАСНОСІЛЬСЬКА СІЛЬСЬКА ТГ/С.КРАСНОСІЛКА",
+    "slug": "krasnosilska-silska-tgskrasnosilka"
+  },
+  {
+    "id": 753,
+    "otg_name": "КУРІСОВСЬКА СІЛЬСЬКА ТГ/С.КУРІСОВЕ",
+    "slug": "kurisovska-silska-tgskurisove"
+  },
+  {
+    "id": 754,
+    "otg_name": "ФОНТАНСЬКА СІЛЬСЬКА ТГ/С.ФОНТАНКА",
+    "slug": "fontanska-silska-tgsfontanka"
+  },
+  {
+    "id": 755,
+    "otg_name": "ЧОРНОМОРСЬКА СЕЛИЩНА ТГ/СМТ.ЧОРНОМОРСЬКЕ",
+    "slug": "cornomorska-selishhna-tgsmtcornomorske"
+  },
+  {
+    "id": 756,
+    "otg_name": "ЗЕЛЕНОГІРСЬКА СЕЛИЩНА ТГ/СМТ.ЗЕЛЕНОГІРСЬКЕ",
+    "slug": "zelenogirska-selishhna-tgsmtzelenogirske"
+  },
+  {
+    "id": 757,
+    "otg_name": "ЛЮБАШІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБАШІВКА",
+    "slug": "liubasivska-selishhna-tgsmtliubasivka"
+  },
+  {
+    "id": 758,
+    "otg_name": "АНДРІЄВО-ІВАНІВСЬКА СІЛЬСЬКА ТГ/С.АНДРІЄВО-ІВАНІВКА",
+    "slug": "andrijevo-ivanivska-silska-tgsandrijevo-ivanivka"
+  },
+  {
+    "id": 759,
+    "otg_name": "МИКОЛАЇВСЬКА СЕЛИЩНА ТГ/CМТМИКОЛАЇВКА",
+    "slug": "mikolayivska-selishhna-tgcmtmikolayivka"
+  },
+  {
+    "id": 760,
+    "otg_name": "СТРЮКІВСЬКА СІЛЬСЬКА ТГ/С.СТРЮКОВО",
+    "slug": "striukivska-silska-tgsstriukovo"
+  },
+  {
+    "id": 761,
+    "otg_name": "АВАНГАРДІВСЬКА СЕЛИЩНА ТГ/СМТ.АВАНГАРД",
+    "slug": "avangardivska-selishhna-tgsmtavangard"
+  },
+  {
+    "id": 762,
+    "otg_name": "ВЕЛИКОДОЛИНСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКОДОЛИНСЬКЕ",
+    "slug": "velikodolinska-selishhna-tgsmtvelikodolinske"
+  },
+  {
+    "id": 763,
+    "otg_name": "ДАЛЬНИЦЬКА СЕЛИЩНА ТГ/СДАЛЬНИК",
+    "slug": "dalnicka-selishhna-tgsdalnik"
+  },
+  {
+    "id": 764,
+    "otg_name": "КАРОЛІНО-БУГАЗЬКА СІЛЬСЬКА ТГ/С.КАРОЛІНО-БУГАЗ",
+    "slug": "karolino-bugazka-silska-tgskarolino-bugaz"
+  },
+  {
+    "id": 765,
+    "otg_name": "ОВІДІОПОЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ОВІДІОПОЛЬ",
+    "slug": "ovidiopolska-selishhna-tgsmtovidiopol"
+  },
+  {
+    "id": 766,
+    "otg_name": "ТАЇРОВСЬКА СЕЛИЩНА ТГ/СМТ.ТАЇРОВЕ",
+    "slug": "tayirovska-selishhna-tgsmttayirove"
+  },
+  {
+    "id": 767,
+    "otg_name": "ОКНЯНСЬКА СЕЛИЩНА ТГ/CМТОКНИ",
+    "slug": "oknianska-selishhna-tgcmtokni"
+  },
+  {
+    "id": 768,
+    "otg_name": "КУЯЛЬНИЦЬКА СІЛЬСЬКА ТГ/С.КУЯЛЬНИК",
+    "slug": "kuialnicka-silska-tgskuialnik"
+  },
+  {
+    "id": 769,
+    "otg_name": "РЕНІЙСЬКА МІСЬКА ТГ/М.РЕНІ",
+    "slug": "reniiska-miska-tgmreni"
+  },
+  {
+    "id": 770,
+    "otg_name": "ЛИМАНСЬКА СЕЛИЩНА ТГ/СМТ.ЛИМАНСЬКЕ",
+    "slug": "limanska-selishhna-tgsmtlimanske"
+  },
+  {
+    "id": 771,
+    "otg_name": "РОЗДІЛЬНЯНСЬКА МІСЬКА ТГ/М.РОЗДІЛЬНА",
+    "slug": "rozdilnianska-miska-tgmrozdilna"
+  },
+  {
+    "id": 772,
+    "otg_name": "СТЕПАНІВСЬКА СІЛЬСЬКА ТГ/С.СТЕПАНІВКА",
+    "slug": "stepanivska-silska-tgsstepanivka"
+  },
+  {
+    "id": 773,
+    "otg_name": "КУЛЕВЧАНСЬКА СІЛЬСЬКА ТГ/С.КУЛЕВЧА",
+    "slug": "kulevcanska-silska-tgskulevca"
+  },
+  {
+    "id": 774,
+    "otg_name": "ПЕТРОПАВЛІВСЬКА СІЛЬСЬКА ТГ/С.ПЕТРОПАВЛІВКА",
+    "slug": "petropavlivska-silska-tgspetropavlivka"
+  },
+  {
+    "id": 775,
+    "otg_name": "ПЛАХТІЇВСЬКА СІЛЬСЬКА ТГ/С.ПЛАХТІЇВКА",
+    "slug": "plaxtiyivska-silska-tgsplaxtiyivka"
+  },
+  {
+    "id": 776,
+    "otg_name": "УСПЕНІВСЬКА СІЛЬСЬКА ТГ/С.УСПЕНІВКА",
+    "slug": "uspenivska-silska-tgsuspenivka"
+  },
+  {
+    "id": 777,
+    "otg_name": "БОРОДІНСЬКА СЕЛИЩНА ТГ/СМТ.БОРОДІНО",
+    "slug": "borodinska-selishhna-tgsmtborodino"
+  },
+  {
+    "id": 778,
+    "otg_name": "ТАРУТИНСЬКА СЕЛИЩНА ТГ/СМТ.ТАРУТИНЕ",
+    "slug": "tarutinska-selishhna-tgsmttarutine"
+  },
+  {
+    "id": 779,
+    "otg_name": "ДИВІЗІЙСЬКА СІЛЬСЬКА ТГ/С.ДИВІЗІЯ",
+    "slug": "diviziiska-silska-tgsdiviziia"
+  },
+  {
+    "id": 780,
+    "otg_name": "ЛИМАНСЬКА СІЛЬСЬКА ТГ/С.ЛИМАН",
+    "slug": "limanska-silska-tgsliman"
+  },
+  {
+    "id": 781,
+    "otg_name": "ТАТАРБУНАРСЬКА МІСЬКА ТГ/М.ТАТАРБУНАРИ",
+    "slug": "tatarbunarska-miska-tgmtatarbunari"
+  },
+  {
+    "id": 782,
+    "otg_name": "ТУЗЛІВСЬКА СІЛЬСЬКА ТГ/С.ТУЗЛИ",
+    "slug": "tuzlivska-silska-tgstuzli"
+  },
+  {
+    "id": 783,
+    "otg_name": "ПЕТРОВІРІВСЬКА СІЛЬСЬКА ТГ/С.ПЕТРОВІРІВКА",
+    "slug": "petrovirivska-silska-tgspetrovirivka"
+  },
+  {
+    "id": 784,
+    "otg_name": "СТАРОМАЯКІВСЬКА СІЛЬСЬКА ТГ/С.СТАРІ МАЯКИ",
+    "slug": "staromaiakivska-silska-tgsstari-maiaki"
+  },
+  {
+    "id": 785,
+    "otg_name": "ЧОГОДАРІВСЬКА СІЛЬСЬКА ТГ/С.ЧОГОДАРІВКА",
+    "slug": "cogodarivska-silska-tgscogodarivka"
+  },
+  {
+    "id": 786,
+    "otg_name": "ШИРЯЇВСЬКА СЕЛИЩНА ТГ/СМТ.ШИРЯЄВЕ",
+    "slug": "siriayivska-selishhna-tgsmtsiriajeve"
+  },
+  {
+    "id": 787,
+    "otg_name": "БІЛГОРОД-ДНІСТРОВСЬКА МІСЬКА ТГ/М.БІЛГОРОД-ДНІСТРОВСЬКИЙ",
+    "slug": "bilgorod-dnistrovska-miska-tgmbilgorod-dnistrovskii"
+  },
+  {
+    "id": 788,
+    "otg_name": "ІЗМАЇЛЬСЬКА МІСЬКА ТГ/М.ІЗМАЇЛ",
+    "slug": "izmayilska-miska-tgmizmayil"
+  },
+  {
+    "id": 789,
+    "otg_name": "ОДЕСЬКА МІСЬКА ТГ/М.ОДЕСА",
+    "slug": "odeska-miska-tgmodesa"
+  },
+  {
+    "id": 790,
+    "otg_name": "ПОДІЛЬСЬКА МІСЬКА ТГ/М.ПОДІЛЬСЬК",
+    "slug": "podilska-miska-tgmpodilsk"
+  },
+  {
+    "id": 791,
+    "otg_name": "ТЕПЛОДАРСЬКА МІСЬКА ТГ/М.ТЕПЛОДАР",
+    "slug": "teplodarska-miska-tgmteplodar"
+  },
+  {
+    "id": 792,
+    "otg_name": "ЧОРНОМОРСЬКА МІСЬКА ТГ/М.ЧОРНОМОРСЬК",
+    "slug": "cornomorska-miska-tgmcornomorsk"
+  },
+  {
+    "id": 793,
+    "otg_name": "ЮЖНЕНСЬКА МІСЬКА ТГ/М.ЮЖНЕ",
+    "slug": "iuznenska-miska-tgmiuzne"
+  },
+  {
+    "id": 794,
+    "otg_name": "ВЕЛИКОБАГАЧАНСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА БАГАЧКА",
+    "slug": "velikobagacanska-selishhna-tgsmtvelika-bagacka"
+  },
+  {
+    "id": 795,
+    "otg_name": "БІЛОЦЕРКІВСЬКА СІЛЬСЬКА ТГ/С.БІЛОЦЕРКІВКА",
+    "slug": "bilocerkivska-silska-tgsbilocerkivka"
+  },
+  {
+    "id": 796,
+    "otg_name": "ГЛОБИНСЬКА МІСЬКА ТГ/М.ГЛОБИНЕ",
+    "slug": "globinska-miska-tgmglobine"
+  },
+  {
+    "id": 797,
+    "otg_name": "ГРАДИЗЬКА СЕЛИЩНА ТГ/СМТ.ГРАДИЗЬК",
+    "slug": "gradizka-selishhna-tgsmtgradizk"
+  },
+  {
+    "id": 798,
+    "otg_name": "ПІЩАНСЬКА СІЛЬСЬКА ТГ/С.ПІЩАНЕ",
+    "slug": "pishhanska-silska-tgspishhane"
+  },
+  {
+    "id": 799,
+    "otg_name": "ОМЕЛЬНИЦЬКА СІЛЬСЬКА ТГ/С.ОМЕЛЬНИК",
+    "slug": "omelnicka-silska-tgsomelnik"
+  },
+  {
+    "id": 800,
+    "otg_name": "ПРИШИБСЬКА СІЛЬСЬКА ТГ/С.ПРИШИБ",
+    "slug": "prisibska-silska-tgsprisib"
+  },
+  {
+    "id": 801,
+    "otg_name": "ВЕЛИКОСОРОЧИНСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ СОРОЧИНЦІ",
+    "slug": "velikosorocinska-silska-tgsveliki-sorocinci"
+  },
+  {
+    "id": 802,
+    "otg_name": "КОМИШНЯНСЬКА СЕЛИЩНА ТГ/СМТ.КОМИШНЯ",
+    "slug": "komisnianska-selishhna-tgsmtkomisnia"
+  },
+  {
+    "id": 803,
+    "otg_name": "ПИРЯТИНСЬКА МІСЬКА ТГ/М.ПИРЯТИН",
+    "slug": "piriatinska-miska-tgmpiriatin"
+  },
+  {
+    "id": 804,
+    "otg_name": "СЕМЕНІВСЬКА СЕЛИЩНА ТГ/СМТ.СЕМЕНІВКА",
+    "slug": "semenivska-selishhna-tgsmtsemenivka"
+  },
+  {
+    "id": 805,
+    "otg_name": "СКОРОХОДІВСЬКА СЕЛИЩНА ТГ/СМТ.СКОРОХОДОВЕ",
+    "slug": "skoroxodivska-selishhna-tgsmtskoroxodove"
+  },
+  {
+    "id": 806,
+    "otg_name": "ШИШАЦЬКА СЕЛИЩНА ТГ/СМТ.ШИШАКИ",
+    "slug": "sisacka-selishhna-tgsmtsisaki"
+  },
+  {
+    "id": 807,
+    "otg_name": "ДИКАНСЬКА СЕЛИЩНА ТГ/СМТ.ДИКАНЬКА",
+    "slug": "dikanska-selishhna-tgsmtdikanka"
+  },
+  {
+    "id": 808,
+    "otg_name": "ГРЕБІНКІВСЬКА МІСЬКА ТГ/М.ГРЕБІНКА",
+    "slug": "grebinkivska-miska-tgmgrebinka"
+  },
+  {
+    "id": 809,
+    "otg_name": "ЛАННІВСЬКА СІЛЬСЬКА ТГ/С.ЛАННА",
+    "slug": "lannivska-silska-tgslanna"
+  },
+  {
+    "id": 810,
+    "otg_name": "НОВОГАЛЕЩИНСЬКА СЕЛИЩНА ТГ/СМТ.НОВА ГАЛЕЩИНА",
+    "slug": "novogaleshhinska-selishhna-tgsmtnova-galeshhina"
+  },
+  {
+    "id": 811,
+    "otg_name": "КОТЕЛЕВСЬКА СЕЛИЩНА ТГ/СМТ.КОТЕЛЬВА",
+    "slug": "kotelevska-selishhna-tgsmtkotelva"
+  },
+  {
+    "id": 812,
+    "otg_name": "ВЕЛИКОРУБЛІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА РУБЛІВКА",
+    "slug": "velikorublivska-silska-tgsvelika-rublivka"
+  },
+  {
+    "id": 813,
+    "otg_name": "КАМ'ЯНОПОТОКІВСЬКА СІЛЬСЬКА ТГ/С.КАМ'ЯНІ ПОТОКИ",
+    "slug": "kamianopotokivska-silska-tgskamiani-potoki"
+  },
+  {
+    "id": 814,
+    "otg_name": "ЛОХВИЦЬКА МІСЬКА ТГ/М.ЛОХВИЦЯ",
+    "slug": "loxvicka-miska-tgmloxvicia"
+  },
+  {
+    "id": 815,
+    "otg_name": "ЗАВОДСЬКА МІСЬКА ТГ/М.ЗАВОДСЬКЕ",
+    "slug": "zavodska-miska-tgmzavodske"
+  },
+  {
+    "id": 816,
+    "otg_name": "СЕНЧАНСЬКА СІЛЬСЬКА ТГ/С.СЕНЧА",
+    "slug": "sencanska-silska-tgssenca"
+  },
+  {
+    "id": 817,
+    "otg_name": "МИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.МИХАЙЛІВКА",
+    "slug": "mixailivska-silska-tgsmixailivka-1"
+  },
+  {
+    "id": 818,
+    "otg_name": "ДРАБИНІВСЬКА СІЛЬСЬКА ТГ/С.ДРАБИНІВКА",
+    "slug": "drabinivska-silska-tgsdrabinivka"
+  },
+  {
+    "id": 819,
+    "otg_name": "НЕХВОРОЩАНСЬКА СІЛЬСЬКА ТГ/С.НЕХВОРОЩА",
+    "slug": "nexvoroshhanska-silska-tgsnexvoroshha"
+  },
+  {
+    "id": 820,
+    "otg_name": "ЛЮТЕНСЬКА СІЛЬСЬКА ТГ/С.ЛЮТЕНЬКА",
+    "slug": "liutenska-silska-tgsliutenka"
+  },
+  {
+    "id": 821,
+    "otg_name": "КРАСНОЛУЦЬКА СІЛЬСЬКА ТГ/С.КРАСНА ЛУКА",
+    "slug": "krasnolucka-silska-tgskrasna-luka"
+  },
+  {
+    "id": 822,
+    "otg_name": "ОПІШНЯНСЬКА СЕЛИЩНА ТГ/СМТ.ОПІШНЯ",
+    "slug": "opisnianska-selishhna-tgsmtopisnia"
+  },
+  {
+    "id": 823,
+    "otg_name": "КАРЛІВСЬКА МІСЬКА ТГ/М.КАРЛІВКА",
+    "slug": "karlivska-miska-tgmkarlivka"
+  },
+  {
+    "id": 824,
+    "otg_name": "ЧОРНУХИНСЬКА СЕЛИЩНА ТГ/СМТ.ЧОРНУХИ",
+    "slug": "cornuxinska-selishhna-tgsmtcornuxi"
+  },
+  {
+    "id": 825,
+    "otg_name": "ЧУТІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧУТОВЕ",
+    "slug": "cutivska-selishhna-tgsmtcutove"
+  },
+  {
+    "id": 826,
+    "otg_name": "МАЧУХІВСЬКА СІЛЬСЬКА ТГ/С.МАЧУХИ",
+    "slug": "macuxivska-silska-tgsmacuxi"
+  },
+  {
+    "id": 827,
+    "otg_name": "МАШІВСЬКА СЕЛИЩНА ТГ/СМТ.МАШІВКА",
+    "slug": "masivska-selishhna-tgsmtmasivka"
+  },
+  {
+    "id": 828,
+    "otg_name": "ОБОЛОНСЬКА СІЛЬСЬКА ТГ/С.ОБОЛОНЬ",
+    "slug": "obolonska-silska-tgsobolon"
+  },
+  {
+    "id": 829,
+    "otg_name": "ПЕТРІВСЬКО-РОМЕНСЬКА СІЛЬСЬКА ТГ/С.ПЕТРІВКА-РОМЕНСЬКА",
+    "slug": "petrivsko-romenska-silska-tgspetrivka-romenska"
+  },
+  {
+    "id": 830,
+    "otg_name": "ЩЕРБАНІВСЬКА СІЛЬСЬКА ТГ/С.ЩЕРБАНІ",
+    "slug": "shherbanivska-silska-tgsshherbani"
+  },
+  {
+    "id": 831,
+    "otg_name": "КОЛОМАЦЬКА СІЛЬСЬКА ТГ/С.КОЛОМАЦЬКЕ",
+    "slug": "kolomacka-silska-tgskolomacke"
+  },
+  {
+    "id": 832,
+    "otg_name": "ХОРОЛЬСЬКА МІСЬКА ТГ/М.ХОРОЛ",
+    "slug": "xorolska-miska-tgmxorol"
+  },
+  {
+    "id": 833,
+    "otg_name": "КРЕМЕНЧУЦЬКА МІСЬКА ТГ/М.КРЕМЕНЧУК",
+    "slug": "kremencucka-miska-tgmkremencuk"
+  },
+  {
+    "id": 834,
+    "otg_name": "ЛУБЕНСЬКА МІСЬКА ТГ/М.ЛУБНИ",
+    "slug": "lubenska-miska-tgmlubni"
+  },
+  {
+    "id": 835,
+    "otg_name": "МИРГОРОДСЬКА МІСЬКА ТГ/М.МИРГОРОД",
+    "slug": "mirgorodska-miska-tgmmirgorod"
+  },
+  {
+    "id": 836,
+    "otg_name": "ПОЛТАВСЬКА МІСЬКА ТГ/М.ПОЛТАВА",
+    "slug": "poltavska-miska-tgmpoltava"
+  },
+  {
+    "id": 837,
+    "otg_name": "ГОРІШНЬОПЛАВНІВСЬКА МІСЬКА ТГ/М.ГОРІШНІ ПЛАВНІ",
+    "slug": "gorisnoplavnivska-miska-tgmgorisni-plavni"
+  },
+  {
+    "id": 838,
+    "otg_name": "НОВОСЕЛІВСЬКА СІЛЬСЬКА ТГ/С.НОВОСЕЛІВКА",
+    "slug": "novoselivska-silska-tgsnovoselivka"
+  },
+  {
+    "id": 839,
+    "otg_name": "ГОГОЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ГОГОЛЕВЕ",
+    "slug": "gogolivska-selishhna-tgsmtgogoleve"
+  },
+  {
+    "id": 840,
+    "otg_name": "ВЕЛИКОБУДИЩАНСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ БУДИЩА",
+    "slug": "velikobudishhanska-silska-tgsveliki-budishha"
+  },
+  {
+    "id": 841,
+    "otg_name": "ЗІНЬКІВСЬКА МІСЬКА ТГ/М.ЗІНЬКІВ",
+    "slug": "zinkivska-miska-tgmzinkiv"
+  },
+  {
+    "id": 842,
+    "otg_name": "РОМОДАНІВСЬКА СЕЛИЩНА ТГ/СМТ.РОМОДАН",
+    "slug": "romodanivska-selishhna-tgsmtromodan"
+  },
+  {
+    "id": 843,
+    "otg_name": "НОВООРЖИЦЬКА СЕЛИЩНА ТГ/СМТ.НОВООРЖИЦЬКЕ",
+    "slug": "novoorzicka-selishhna-tgsmtnovoorzicke"
+  },
+  {
+    "id": 844,
+    "otg_name": "БЕРЕЗНІВСЬКА МІСЬКА ТГ/М.БЕРЕЗНЕ",
+    "slug": "bereznivska-miska-tgmberezne"
+  },
+  {
+    "id": 845,
+    "otg_name": "МАЛИНСЬКА СІЛЬСЬКА ТГ/С.МАЛИНСЬК",
+    "slug": "malinska-silska-tgsmalinsk"
+  },
+  {
+    "id": 846,
+    "otg_name": "СОСНІВСЬКА СЕЛИЩНА ТГ/СМТ.СОСНОВЕ",
+    "slug": "sosnivska-selishhna-tgsmtsosnove"
+  },
+  {
+    "id": 847,
+    "otg_name": "АНТОНІВСЬКА СІЛЬСЬКА ТГ/С.АНТОНІВКА",
+    "slug": "antonivska-silska-tgsantonivka"
+  },
+  {
+    "id": 848,
+    "otg_name": "ВОЛОДИМИРЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВОЛОДИМИРЕЦЬ",
+    "slug": "volodimirecka-selishhna-tgsmtvolodimirec"
+  },
+  {
+    "id": 849,
+    "otg_name": "КАНОНИЦЬКА СІЛЬСЬКА ТГ/С.КАНОНИЧІ",
+    "slug": "kanonicka-silska-tgskanonici"
+  },
+  {
+    "id": 850,
+    "otg_name": "ПОЛИЦЬКА СІЛЬСЬКА ТГ/С.ПОЛИЦІ",
+    "slug": "policka-silska-tgspolici"
+  },
+  {
+    "id": 851,
+    "otg_name": "РАФАЛІВСЬКА СЕЛИЩНА ТГ/СМТ.РАФАЛІВКА",
+    "slug": "rafalivska-selishhna-tgsmtrafalivka"
+  },
+  {
+    "id": 852,
+    "otg_name": "БАБИНСЬКА СІЛЬСЬКА ТГ/С.БАБИН",
+    "slug": "babinska-silska-tgsbabin"
+  },
+  {
+    "id": 853,
+    "otg_name": "БУГРИНСЬКА СІЛЬСЬКА ТГ/С.БУГРИН",
+    "slug": "bugrinska-silska-tgsbugrin"
+  },
+  {
+    "id": 854,
+    "otg_name": "ГОЩАНСЬКА СЕЛИЩНА ТГ/СМТ.ГОЩА",
+    "slug": "goshhanska-selishhna-tgsmtgoshha"
+  },
+  {
+    "id": 855,
+    "otg_name": "БОРЕМЕЛЬСЬКА СІЛЬСЬКА ТГ/С.БОРЕМЕЛЬ",
+    "slug": "boremelska-silska-tgsboremel"
+  },
+  {
+    "id": 856,
+    "otg_name": "ДЕМИДІВСЬКА СЕЛИЩНА ТГ/СМТ.ДЕМИДІВКА",
+    "slug": "demidivska-selishhna-tgsmtdemidivka"
+  },
+  {
+    "id": 857,
+    "otg_name": "ВАРКОВИЦЬКА СІЛЬСЬКА ТГ/С.ВАРКОВИЧІ",
+    "slug": "varkovicka-silska-tgsvarkovici"
+  },
+  {
+    "id": 858,
+    "otg_name": "ВЕРБСЬКА СІЛЬСЬКА ТГ/С.ВЕРБА",
+    "slug": "verbska-silska-tgsverba"
+  },
+  {
+    "id": 859,
+    "otg_name": "МИРОГОЩАНСЬКА СІЛЬСЬКА ТГ/С.МИРОГОЩА ДРУГА",
+    "slug": "mirogoshhanska-silska-tgsmirogoshha-druga"
+  },
+  {
+    "id": 860,
+    "otg_name": "ПОВЧАНСЬКА СІЛЬСЬКА ТГ/С.ПОВЧА",
+    "slug": "povcanska-silska-tgspovca"
+  },
+  {
+    "id": 861,
+    "otg_name": "ПРИВІЛЬНЕНСЬКА СІЛЬСЬКА ТГ/С.ПРИВІЛЬНЕ",
+    "slug": "privilnenska-silska-tgsprivilne-1"
+  },
+  {
+    "id": 862,
+    "otg_name": "СЕМИДУБСЬКА СІЛЬСЬКА ТГ/С.СЕМИДУБИ",
+    "slug": "semidubska-silska-tgssemidubi"
+  },
+  {
+    "id": 863,
+    "otg_name": "СМИЗЬКА СЕЛИЩНА ТГ/СМТ.СМИГА",
+    "slug": "smizka-selishhna-tgsmtsmiga"
+  },
+  {
+    "id": 864,
+    "otg_name": "ТАРАКАНІВСЬКА СІЛЬСЬКА ТГ/С.ТАРАКАНІВ",
+    "slug": "tarakanivska-silska-tgstarakaniv"
+  },
+  {
+    "id": 865,
+    "otg_name": "ВИСОЦЬКА СІЛЬСЬКА ТГ/С.ВИСОЦЬК",
+    "slug": "visocka-silska-tgsvisock"
+  },
+  {
+    "id": 866,
+    "otg_name": "ДУБРОВИЦЬКА МІСЬКА ТГ/М.ДУБРОВИЦЯ",
+    "slug": "dubrovicka-miska-tgmdubrovicia"
+  },
+  {
+    "id": 867,
+    "otg_name": "МИЛЯЦЬКА СІЛЬСЬКА ТГ/С.МИЛЯЧ",
+    "slug": "miliacka-silska-tgsmiliac"
+  },
+  {
+    "id": 868,
+    "otg_name": "ЗАРІЧНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ЗАРІЧНЕ",
+    "slug": "zaricnenska-selishhna-tgsmtzaricne"
+  },
+  {
+    "id": 869,
+    "otg_name": "ЛОКНИЦЬКА СІЛЬСЬКА ТГ/С.ЛОКНИЦЯ",
+    "slug": "loknicka-silska-tgsloknicia"
+  },
+  {
+    "id": 870,
+    "otg_name": "ЗДОВБИЦЬКА СІЛЬСЬКА ТГ/С.ЗДОВБИЦЯ",
+    "slug": "zdovbicka-silska-tgszdovbicia"
+  },
+  {
+    "id": 871,
+    "otg_name": "ЗДОЛБУНІВСЬКА МІСЬКА ТГ/М.ЗДОЛБУНІВ",
+    "slug": "zdolbunivska-miska-tgmzdolbuniv"
+  },
+  {
+    "id": 872,
+    "otg_name": "МІЗОЦЬКА СЕЛИЩНА ТГ/СМТ.МІЗОЧ",
+    "slug": "mizocka-selishhna-tgsmtmizoc"
+  },
+  {
+    "id": 873,
+    "otg_name": "КОРЕЦЬКА МІСЬКА ТГ/М.КОРЕЦЬ",
+    "slug": "korecka-miska-tgmkorec"
+  },
+  {
+    "id": 874,
+    "otg_name": "ГОЛОВИНСЬКА СІЛЬСЬКА ТГ/С.ГОЛОВИН",
+    "slug": "golovinska-silska-tgsgolovin"
+  },
+  {
+    "id": 875,
+    "otg_name": "ДЕРАЖНЕНСЬКА СІЛЬСЬКА ТГ/С.ДЕРАЖНЕ",
+    "slug": "deraznenska-silska-tgsderazne"
+  },
+  {
+    "id": 876,
+    "otg_name": "КОСТОПІЛЬСЬКА МІСЬКА ТГ/М.КОСТОПІЛЬ",
+    "slug": "kostopilska-miska-tgmkostopil"
+  },
+  {
+    "id": 877,
+    "otg_name": "МАЛОЛЮБАШАНСЬКА СІЛЬСЬКА ТГ/С.МАЛА ЛЮБАША",
+    "slug": "maloliubasanska-silska-tgsmala-liubasa"
+  },
+  {
+    "id": 878,
+    "otg_name": "БОКІЙМІВСЬКА СІЛЬСЬКА ТГ/С.БОКІЙМА",
+    "slug": "bokiimivska-silska-tgsbokiima"
+  },
+  {
+    "id": 879,
+    "otg_name": "МЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.МЛИНІВ",
+    "slug": "mlinivska-selishhna-tgsmtmliniv"
+  },
+  {
+    "id": 880,
+    "otg_name": "ОСТРОЖЕЦЬКА СІЛЬСЬКА ТГ/С.ОСТРОЖЕЦЬ",
+    "slug": "ostrozecka-silska-tgsostrozec"
+  },
+  {
+    "id": 881,
+    "otg_name": "ПІДЛОЗЦІВСЬКА СІЛЬСЬКА ТГ/С.ПІДЛОЗЦІ",
+    "slug": "pidlozcivska-silska-tgspidlozci"
+  },
+  {
+    "id": 882,
+    "otg_name": "ЯРОСЛАВИЦЬКА СІЛЬСЬКА ТГ/С.ЯРОСЛАВИЧІ",
+    "slug": "iaroslavicka-silska-tgsiaroslavici"
+  },
+  {
+    "id": 883,
+    "otg_name": "КОЗИНСЬКА СІЛЬСЬКА ТГ/С.КОЗИН",
+    "slug": "kozinska-silska-tgskozin"
+  },
+  {
+    "id": 884,
+    "otg_name": "КРУПЕЦЬКА СІЛЬСЬКА ТГ/С.КРУПЕЦЬ",
+    "slug": "krupecka-silska-tgskrupec"
+  },
+  {
+    "id": 885,
+    "otg_name": "РАДИВИЛІВСЬКА МІСЬКА ТГ/М.РАДИВИЛІВ",
+    "slug": "radivilivska-miska-tgmradiviliv"
+  },
+  {
+    "id": 886,
+    "otg_name": "БІЛОКРИНИЦЬКА СІЛЬСЬКА ТГ/С.БІЛА КРИНИЦЯ",
+    "slug": "bilokrinicka-silska-tgsbila-krinicia"
+  },
+  {
+    "id": 887,
+    "otg_name": "ВЕЛИКООМЕЛЯНСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКА ОМЕЛЯНА",
+    "slug": "velikoomelianska-silska-tgsvelika-omeliana"
+  },
+  {
+    "id": 888,
+    "otg_name": "ГОРОДОЦЬКА СІЛЬСЬКА ТГ/С.ГОРОДОК",
+    "slug": "gorodocka-silska-tgsgorodok"
+  },
+  {
+    "id": 889,
+    "otg_name": "ДЯДЬКОВИЦЬКА СІЛЬСЬКА ТГ/С.ДЯДЬКОВИЧІ",
+    "slug": "diadkovicka-silska-tgsdiadkovici"
+  },
+  {
+    "id": 890,
+    "otg_name": "ЗОРЯНСЬКА СІЛЬСЬКА ТГ/С.ЗОРЯ",
+    "slug": "zorianska-silska-tgszoria"
+  },
+  {
+    "id": 891,
+    "otg_name": "КЛЕВАНСЬКА СЕЛИЩНА ТГ/СМТ.КЛЕВАНЬ",
+    "slug": "klevanska-selishhna-tgsmtklevan"
+  },
+  {
+    "id": 892,
+    "otg_name": "КОРНИНСЬКА СІЛЬСЬКА ТГ/С.КОРНИН",
+    "slug": "korninska-silska-tgskornin"
+  },
+  {
+    "id": 893,
+    "otg_name": "ОЛЕКСАНДРІЙСЬКА СІЛЬСЬКА ТГ/С.ОЛЕКСАНДРІЯ",
+    "slug": "oleksandriiska-silska-tgsoleksandriia"
+  },
+  {
+    "id": 894,
+    "otg_name": "ШПАНІВСЬКА СІЛЬСЬКА ТГ/С.ШПАНІВ",
+    "slug": "spanivska-silska-tgsspaniv"
+  },
+  {
+    "id": 895,
+    "otg_name": "БЕРЕЗІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕЗОВЕ",
+    "slug": "berezivska-silska-tgsberezove"
+  },
+  {
+    "id": 896,
+    "otg_name": "РОКИТНІВСЬКА СЕЛИЩНА ТГ/СМТ.РОКИТНЕ",
+    "slug": "rokitnivska-selishhna-tgsmtrokitne"
+  },
+  {
+    "id": 897,
+    "otg_name": "СТАРОСІЛЬСЬКА СІЛЬСЬКА ТГ/С.СТАРЕ СЕЛО",
+    "slug": "starosilska-silska-tgsstare-selo"
+  },
+  {
+    "id": 898,
+    "otg_name": "ВИРІВСЬКА СІЛЬСЬКА ТГ/С.ВИРИ",
+    "slug": "virivska-silska-tgsviri"
+  },
+  {
+    "id": 899,
+    "otg_name": "КЛЕСІВСЬКА СЕЛИЩНА ТГ/СМТ.КЛЕСІВ",
+    "slug": "klesivska-selishhna-tgsmtklesiv"
+  },
+  {
+    "id": 900,
+    "otg_name": "НЕМОВИЦЬКА СІЛЬСЬКА ТГ/С.НЕМОВИЧІ",
+    "slug": "nemovicka-silska-tgsnemovici"
+  },
+  {
+    "id": 901,
+    "otg_name": "САРНЕНСЬКА МІСЬКА ТГ/М.САРНИ",
+    "slug": "sarnenska-miska-tgmsarni"
+  },
+  {
+    "id": 902,
+    "otg_name": "СТЕПАНСЬКА СЕЛИЩНА ТГ/СМТ.СТЕПАНЬ",
+    "slug": "stepanska-selishhna-tgsmtstepan"
+  },
+  {
+    "id": 903,
+    "otg_name": "ВАРАСЬКА МІСЬКА ТГ/М.ВАРАШ",
+    "slug": "varaska-miska-tgmvaras"
+  },
+  {
+    "id": 904,
+    "otg_name": "ДУБЕНСЬКА МІСЬКА ТГ/М.ДУБНО",
+    "slug": "dubenska-miska-tgmdubno"
+  },
+  {
+    "id": 905,
+    "otg_name": "ОСТРОЗЬКА МІСЬКА ТГ/М.ОСТРОГ",
+    "slug": "ostrozka-miska-tgmostrog"
+  },
+  {
+    "id": 906,
+    "otg_name": "РІВНЕНСЬКА МІСЬКА ТГ/М.РІВНЕ",
+    "slug": "rivnenska-miska-tgmrivne"
+  },
+  {
+    "id": 907,
+    "otg_name": "ГРУНСЬКА СІЛЬСЬКА ТГ/С.ГРУНЬ",
+    "slug": "grunska-silska-tgsgrun"
+  },
+  {
+    "id": 908,
+    "otg_name": "МИКОЛАЇВСЬКА СЕЛИЩНА ТГ/СМТ.МИКОЛАЇВКА",
+    "slug": "mikolayivska-selishhna-tgsmtmikolayivka"
+  },
+  {
+    "id": 909,
+    "otg_name": "ШАЛИГИНСЬКА СЕЛИЩНА ТГ/СМТ.ШАЛИГИНЕ",
+    "slug": "saliginska-selishhna-tgsmtsaligine"
+  },
+  {
+    "id": 910,
+    "otg_name": "БЕРЕЗІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕЗА",
+    "slug": "berezivska-silska-tgsbereza"
+  },
+  {
+    "id": 911,
+    "otg_name": "ЕСМАНЬСЬКА СЕЛИЩНА ТГ/СМТ.ЕСМАНЬ",
+    "slug": "esmanska-selishhna-tgsmtesman"
+  },
+  {
+    "id": 912,
+    "otg_name": "БОЧЕЧКІВСЬКА СІЛЬСЬКА ТГ/С.БОЧЕЧКИ",
+    "slug": "boceckivska-silska-tgsbocecki"
+  },
+  {
+    "id": 913,
+    "otg_name": "МИРОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.МИРОПІЛЛЯ",
+    "slug": "miropilska-silska-tgsmiropillia"
+  },
+  {
+    "id": 914,
+    "otg_name": "КРОЛЕВЕЦЬКА МІСЬКА ТГ/М.КРОЛЕВЕЦЬ",
+    "slug": "krolevecka-miska-tgmkrolevec"
+  },
+  {
+    "id": 915,
+    "otg_name": "НЕДРИГАЙЛІВСЬКА СЕЛИЩНА ТГ/СМТ.НЕДРИГАЙЛІВ",
+    "slug": "nedrigailivska-selishhna-tgsmtnedrigailiv"
+  },
+  {
+    "id": 916,
+    "otg_name": "ВІЛЬШАНСЬКА СІЛЬСЬКА ТГ/С.ВІЛЬШАНА",
+    "slug": "vilsanska-silska-tgsvilsana"
+  },
+  {
+    "id": 917,
+    "otg_name": "ЗНОБ-НОВГОРОДСЬКА СЕЛИЩНА ТГ/СМТ.ЗНОБ-НОВГОРОДСЬКЕ",
+    "slug": "znob-novgorodska-selishhna-tgsmtznob-novgorodske"
+  },
+  {
+    "id": 918,
+    "otg_name": "СЕРЕДИНО-БУДСЬКА МІСЬКА ТГ/М.СЕРЕДИНА-БУДА",
+    "slug": "seredino-budska-miska-tgmseredina-buda"
+  },
+  {
+    "id": 919,
+    "otg_name": "ХОТІНСЬКА СЕЛИЩНА ТГ/СМТ.ХОТІНЬ",
+    "slug": "xotinska-selishhna-tgsmtxotin"
+  },
+  {
+    "id": 920,
+    "otg_name": "МИКОЛАЇВСЬКА СІЛЬСЬКА ТГ/С.МИКОЛАЇВКА",
+    "slug": "mikolayivska-silska-tgsmikolayivka-2"
+  },
+  {
+    "id": 921,
+    "otg_name": "НИЖНЬОСИРОВАТСЬКА СІЛЬСЬКА ТГ/С.НИЖНЯ СИРОВАТКА",
+    "slug": "niznosirovatska-silska-tgsniznia-sirovatka"
+  },
+  {
+    "id": 922,
+    "otg_name": "БЕЗДРИЦЬКА СІЛЬСЬКА ТГ/С.БЕЗДРИК",
+    "slug": "bezdricka-silska-tgsbezdrik"
+  },
+  {
+    "id": 923,
+    "otg_name": "КОСТЯНТИНІВСЬКА МІСЬКА ТГ/М.КОСТЯНТИНІВКА",
+    "slug": "kostiantinivska-miska-tgmkostiantinivka"
+  },
+  {
+    "id": 924,
+    "otg_name": "АМВРОСІЇВСЬКА МІСЬКА ТГ/М.АМВРОСІЇВКА",
+    "slug": "amvrosiyivska-miska-tgmamvrosiyivka"
+  },
+  {
+    "id": 925,
+    "otg_name": "ЗВАНІВСЬКА СІЛЬСЬКА ТГ/С.ЗВАНІВКА",
+    "slug": "zvanivska-silska-tgszvanivka"
+  },
+  {
+    "id": 926,
+    "otg_name": "СІВЕРСЬКА МІСЬКА ТГ/М.СІВЕРСЬК",
+    "slug": "siverska-miska-tgmsiversk"
+  },
+  {
+    "id": 927,
+    "otg_name": "БОЙКІВСЬКА СЕЛИЩНА ТГ/СМТ.БОЙКІВСЬКЕ",
+    "slug": "boikivska-selishhna-tgsmtboikivske"
+  },
+  {
+    "id": 928,
+    "otg_name": "ВЕЛИКОНОВОСІЛКІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА НОВОСІЛКА",
+    "slug": "velikonovosilkivska-selishhna-tgsmtvelika-novosilka"
+  },
+  {
+    "id": 929,
+    "otg_name": "КОМАРСЬКА СІЛЬСЬКА ТГ/С.КОМАР",
+    "slug": "komarska-silska-tgskomar"
+  },
+  {
+    "id": 930,
+    "otg_name": "СТАРОМЛИНІВСЬКА СІЛЬСЬКА ТГ/С.СТАРОМЛИНІВКА",
+    "slug": "staromlinivska-silska-tgsstaromlinivka"
+  },
+  {
+    "id": 931,
+    "otg_name": "ВОЛНОВАСЬКА МІСЬКА ТГ/М.ВОЛНОВАХА",
+    "slug": "volnovaska-miska-tgmvolnovaxa"
+  },
+  {
+    "id": 932,
+    "otg_name": "ОЛЬГИНСЬКА СЕЛИЩНА ТГ/СМТ.ОЛЬГИНКА",
+    "slug": "olginska-selishhna-tgsmtolginka"
+  },
+  {
+    "id": 933,
+    "otg_name": "ХЛІБОДАРІВСЬКА СІЛЬСЬКА ТГ/С.ХЛІБОДАРІВКА",
+    "slug": "xlibodarivska-silska-tgsxlibodarivka"
+  },
+  {
+    "id": 934,
+    "otg_name": "БІЛОЗЕРСЬКА МІСЬКА ТГ/М.БІЛОЗЕРСЬКЕ",
+    "slug": "bilozerska-miska-tgmbilozerske"
+  },
+  {
+    "id": 935,
+    "otg_name": "КРИВОРІЗЬКА СІЛЬСЬКА ТГ/С.КРИВОРІЖЖЯ",
+    "slug": "krivorizka-silska-tgskrivorizzia"
+  },
+  {
+    "id": 936,
+    "otg_name": "ШАХІВСЬКА СІЛЬСЬКА ТГ/С.ШАХОВЕ",
+    "slug": "saxivska-silska-tgssaxove"
+  },
+  {
+    "id": 937,
+    "otg_name": "ІЛЛІНІВСЬКА СІЛЬСЬКА ТГ/С.ІЛЛІНІВКА",
+    "slug": "illinivska-silska-tgsillinivka"
+  },
+  {
+    "id": 938,
+    "otg_name": "МАНГУШСЬКА СЕЛИЩНА ТГ/СМТ.МАНГУШ",
+    "slug": "mangusska-selishhna-tgsmtmangus"
+  },
+  {
+    "id": 939,
+    "otg_name": "КУРАХІВСЬКА МІСЬКА ТГ/М.КУРАХОВЕ",
+    "slug": "kuraxivska-miska-tgmkuraxove"
+  },
+  {
+    "id": 940,
+    "otg_name": "МАР'ЇНСЬКА МІСЬКА ТГ/М.МАР'ЇНКА",
+    "slug": "maryinska-miska-tgmmaryinka"
+  },
+  {
+    "id": 941,
+    "otg_name": "КАЛЬЧИЦЬКА СІЛЬСЬКА ТГ/С.КАЛЬЧИК",
+    "slug": "kalcicka-silska-tgskalcik"
+  },
+  {
+    "id": 942,
+    "otg_name": "НІКОЛЬСЬКА СЕЛИЩНА ТГ/СМТ.НІКОЛЬСЬКЕ",
+    "slug": "nikolska-selishhna-tgsmtnikolske"
+  },
+  {
+    "id": 943,
+    "otg_name": "С МІСЬКА ТГ/М.НОВОАЗОВСЬК",
+    "slug": "s-miska-tgmnovoazovsk"
+  },
+  {
+    "id": 944,
+    "otg_name": "НОВОДОНЕЦЬКА СЕЛИЩНА ТГ/СМТ.НОВОДОНЕЦЬКЕ",
+    "slug": "novodonecka-selishhna-tgsmtnovodonecke"
+  },
+  {
+    "id": 945,
+    "otg_name": "ОЛЕКСАНДРІВСЬКА СЕЛИЩНА ТГ/СМТ.ОЛЕКСАНДРІВКА",
+    "slug": "oleksandrivska-selishhna-tgsmtoleksandrivka-2"
+  },
+  {
+    "id": 946,
+    "otg_name": "ГРОДІВСЬКА СЕЛИЩНА ТГ/СМТ.ГРОДІВКА",
+    "slug": "grodivska-selishhna-tgsmtgrodivka"
+  },
+  {
+    "id": 947,
+    "otg_name": "УДАЧНЕНСЬКА СЕЛИЩНА ТГ/СМТ.УДАЧНЕ",
+    "slug": "udacnenska-selishhna-tgsmtudacne"
+  },
+  {
+    "id": 948,
+    "otg_name": "АНДРІЇВСЬКА СІЛЬСЬКА ТГ/С.АНДРІЇВКА",
+    "slug": "andriyivska-silska-tgsandriyivka"
+  },
+  {
+    "id": 949,
+    "otg_name": "ЧЕРКАСЬКА СЕЛИЩНА ТГ/СМТ.ЧЕРКАСЬКЕ",
+    "slug": "cerkaska-selishhna-tgsmtcerkaske-1"
+  },
+  {
+    "id": 950,
+    "otg_name": "КАЛЬМІУСЬКА МІСЬКА ТГ/М.КАЛЬМІУСЬКЕ",
+    "slug": "kalmiuska-miska-tgmkalmiuske"
+  },
+  {
+    "id": 951,
+    "otg_name": "СТАРОБЕШІВСЬКА СЕЛИЩНА ТГ/СМТ.СТАРОБЕШЕВЕ",
+    "slug": "starobesivska-selishhna-tgsmtstarobeseve"
+  },
+  {
+    "id": 952,
+    "otg_name": "ОЧЕРЕТИНСЬКА СЕЛИЩНА ТГ/СМТ.ОЧЕРЕТИНЕ",
+    "slug": "oceretinska-selishhna-tgsmtoceretine"
+  },
+  {
+    "id": 953,
+    "otg_name": "АВДІЇВСЬКА МІСЬКА ТГ/М.АВДІЇВКА",
+    "slug": "avdiyivska-miska-tgmavdiyivka"
+  },
+  {
+    "id": 954,
+    "otg_name": "БАХМУТСЬКА МІСЬКА ТГ/М.БАХМУТ",
+    "slug": "baxmutska-miska-tgmbaxmut"
+  },
+  {
+    "id": 955,
+    "otg_name": "ВУГЛЕДАРСЬКА МІСЬКА ТГ/М.ВУГЛЕДАР",
+    "slug": "vugledarska-miska-tgmvugledar"
+  },
+  {
+    "id": 956,
+    "otg_name": "ГОРЛІВСЬКА МІСЬКА ТГ/М.ГОРЛІВКА",
+    "slug": "gorlivska-miska-tgmgorlivka"
+  },
+  {
+    "id": 957,
+    "otg_name": "ДОКУЧАЄВСЬКА МІСЬКА ТГ/М.ДОКУЧАЄВСЬК",
+    "slug": "dokucajevska-miska-tgmdokucajevsk"
+  },
+  {
+    "id": 959,
+    "otg_name": "ДЕБАЛЬЦІВСЬКА МІСЬКА ТГ/М.ДЕБАЛЬЦЕВЕ",
+    "slug": "debalcivska-miska-tgmdebalceve"
+  },
+  {
+    "id": 960,
+    "otg_name": "ДОБРОПІЛЬСЬКА МІСЬКА ТГ/М.ДОБРОПІЛЛЯ",
+    "slug": "dobropilska-miska-tgmdobropillia"
+  },
+  {
+    "id": 961,
+    "otg_name": "ДРУЖКІВСЬКА МІСЬКА ТГ/М.ДРУЖКІВКА",
+    "slug": "druzkivska-miska-tgmdruzkivka"
+  },
+  {
+    "id": 962,
+    "otg_name": "ЄНАКІЄВСЬКА МІСЬКА ТГ/М.ЄНАКІЄВЕ",
+    "slug": "jenakijevska-miska-tgmjenakijeve"
+  },
+  {
+    "id": 963,
+    "otg_name": "ЖДАНІВСЬКА МІСЬКА ТГ/М.ЖДАНІВКА",
+    "slug": "zdanivska-miska-tgmzdanivka"
+  },
+  {
+    "id": 977,
+    "otg_name": "ХАРЦИЗЬКА МІСЬКА ТГ/М.ХАРЦИЗЬК",
+    "slug": "xarcizka-miska-tgmxarcizk"
+  },
+  {
+    "id": 964,
+    "otg_name": "КРАМАТОРСЬКА МІСЬКА ТГ/М.КРАМАТОРСЬК",
+    "slug": "kramatorska-miska-tgmkramatorsk"
+  },
+  {
+    "id": 965,
+    "otg_name": "ЛИМАНСЬКА МІСЬКА ТГ/М.ЛИМАН",
+    "slug": "limanska-miska-tgmliman"
+  },
+  {
+    "id": 966,
+    "otg_name": "МАКІЇВСЬКА МІСЬКА ТГ/М.МАКІЇВКА",
+    "slug": "makiyivska-miska-tgmmakiyivka"
+  },
+  {
+    "id": 967,
+    "otg_name": "МАРІУПОЛЬСЬКА МІСЬКА ТГ/М.МАРІУПОЛЬ",
+    "slug": "mariupolska-miska-tgmmariupol"
+  },
+  {
+    "id": 968,
+    "otg_name": "МИРНОГРАДСЬКА МІСЬКА ТГ/М.МИРНОГРАД",
+    "slug": "mirnogradska-miska-tgmmirnograd"
+  },
+  {
+    "id": 969,
+    "otg_name": "НОВОГРОДІВСЬКА МІСЬКА ТГ/М.НОВОГРОДІВКА",
+    "slug": "novogrodivska-miska-tgmnovogrodivka"
+  },
+  {
+    "id": 970,
+    "otg_name": "ПОКРОВСЬКА МІСЬКА ТГ/М.ПОКРОВСЬК",
+    "slug": "pokrovska-miska-tgmpokrovsk"
+  },
+  {
+    "id": 971,
+    "otg_name": "СЕЛИДІВСЬКА МІСЬКА ТГ/М.СЕЛИДОВЕ",
+    "slug": "selidivska-miska-tgmselidove"
+  },
+  {
+    "id": 972,
+    "otg_name": "СЛОВ'ЯНСЬКА МІСЬКА ТГ/М.СЛОВ'ЯНСЬК",
+    "slug": "slovianska-miska-tgmsloviansk"
+  },
+  {
+    "id": 973,
+    "otg_name": "СВЯТОГІРСЬКА МІСЬКА ТГ/М.СВЯТОГІРСЬК",
+    "slug": "sviatogirska-miska-tgmsviatogirsk"
+  },
+  {
+    "id": 974,
+    "otg_name": "СНІЖНЯНСЬКА МІСЬКА ТГ/М.СНІЖНЕ",
+    "slug": "sniznianska-miska-tgmsnizne"
+  },
+  {
+    "id": 975,
+    "otg_name": "ТОРЕЦЬКА МІСЬКА ТГ/М.ТОРЕЦЬК",
+    "slug": "torecka-miska-tgmtoreck"
+  },
+  {
+    "id": 976,
+    "otg_name": "ІЛОВАЙСЬКА МІСЬКА ТГ/М.ІЛОВАЙСЬК",
+    "slug": "ilovaiska-miska-tgmilovaisk"
+  },
+  {
+    "id": 978,
+    "otg_name": "ХРЕСТІВСЬКА МІСЬКА ТГ/М.ХРЕСТІВКА",
+    "slug": "xrestivska-miska-tgmxrestivka"
+  },
+  {
+    "id": 979,
+    "otg_name": "ЧИСТЯКІВСЬКА МІСЬКА ТГ/М.ЧИСТЯКОВЕ",
+    "slug": "cistiakivska-miska-tgmcistiakove"
+  },
+  {
+    "id": 980,
+    "otg_name": "ШАХТАРСЬКА МІСЬКА ТГ/М.ШАХТАРСЬК",
+    "slug": "saxtarska-miska-tgmsaxtarsk"
+  },
+  {
+    "id": 981,
+    "otg_name": "ЯСИНУВАТСЬКА МІСЬКА ТГ/М.ЯСИНУВАТА",
+    "slug": "iasinuvatska-miska-tgmiasinuvata"
+  },
+  {
+    "id": 982,
+    "otg_name": "ДРУЖБІВСЬКА МІСЬКА ТГ/М.ДРУЖБА",
+    "slug": "druzbivska-miska-tgmdruzba"
+  },
+  {
+    "id": 983,
+    "otg_name": "СВЕСЬКА СЕЛИЩНА ТГ/СМТ.СВЕСА",
+    "slug": "sveska-selishhna-tgsmtsvesa"
+  },
+  {
+    "id": 984,
+    "otg_name": "ГЛУХІВСЬКА МІСЬКА ТГ/М.ГЛУХІВ",
+    "slug": "gluxivska-miska-tgmgluxiv"
+  },
+  {
+    "id": 985,
+    "otg_name": "ЯМПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ЯМПІЛЬ",
+    "slug": "iampilska-selishhna-tgsmtiampil"
+  },
+  {
+    "id": 986,
+    "otg_name": "ЧЕРНЕЧЧИНСЬКА СІЛЬСЬКА ТГ/С.ЧЕРНЕЧЧИНА",
+    "slug": "cerneccinska-silska-tgscerneccina-1"
+  },
+  {
+    "id": 987,
+    "otg_name": "КОМИШАНСЬКА СІЛЬСЬКА ТГ/С.КОМИШІ",
+    "slug": "komisanska-silska-tgskomisi"
+  },
+  {
+    "id": 988,
+    "otg_name": "БУРИНСЬКА МІСЬКА ТГ/М.БУРИНЬ",
+    "slug": "burinska-miska-tgmburin"
+  },
+  {
+    "id": 989,
+    "otg_name": "ПОПІВСЬКА СІЛЬСЬКА ТГ/С.ПОПІВКА",
+    "slug": "popivska-silska-tgspopivka"
+  },
+  {
+    "id": 990,
+    "otg_name": "ХМЕЛІВСЬКА СІЛЬСЬКА ТГ/С.ХМЕЛІВ",
+    "slug": "xmelivska-silska-tgsxmeliv"
+  },
+  {
+    "id": 991,
+    "otg_name": "ВЕРХНЬОСИРОВАТСЬКА СЕЛИЩНА ТГ/C. ВЕРХНЯ СИРОВАТКА",
+    "slug": "verxnosirovatska-selishhna-tgc-verxnia-sirovatka"
+  },
+  {
+    "id": 993,
+    "otg_name": "КОРОВИНСЬКА СІЛЬСЬКА ТГ/С.КОРОВИНЦІ",
+    "slug": "korovinska-silska-tgskorovinci"
+  },
+  {
+    "id": 994,
+    "otg_name": "НОВОСЛОБІДСЬКА СІЛЬСЬКА ТГ/С.НОВА СЛОБОДА",
+    "slug": "novoslobidska-silska-tgsnova-sloboda"
+  },
+  {
+    "id": 995,
+    "otg_name": "СТЕПАНІВСЬКА СЕЛИЩНА ТГ/СМТ.СТЕПАНІВКА",
+    "slug": "stepanivska-selishhna-tgsmtstepanivka"
+  },
+  {
+    "id": 996,
+    "otg_name": "ВОРОЖБЯНСЬКА МІСЬКА ТГ/М.ВОРОЖБА",
+    "slug": "vorozbianska-miska-tgmvorozba"
+  },
+  {
+    "id": 997,
+    "otg_name": "РІЧКІВСЬКА СІЛЬСЬКА ТГ/С.РІЧКИ",
+    "slug": "rickivska-silska-tgsricki"
+  },
+  {
+    "id": 998,
+    "otg_name": "СИНІВСЬКА СІЛЬСЬКА ТГ/С.СИНІВКА",
+    "slug": "sinivska-silska-tgssinivka"
+  },
+  {
+    "id": 999,
+    "otg_name": "ЧУПАХІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧУПАХІВКА",
+    "slug": "cupaxivska-selishhna-tgsmtcupaxivka"
+  },
+  {
+    "id": 1000,
+    "otg_name": "АНДРІЯШІВСЬКА СІЛЬСЬКА ТГ/С.АНДРІЯШІВКА",
+    "slug": "andriiasivska-silska-tgsandriiasivka"
+  },
+  {
+    "id": 1001,
+    "otg_name": "ШОСТКИНСЬКА МІСЬКА ТГ/М.ШОСТКА",
+    "slug": "sostkinska-miska-tgmsostka"
+  },
+  {
+    "id": 1002,
+    "otg_name": "ЛИПОВОДОЛИНСЬКА СЕЛИЩНА ТГ/СМТ.ЛИПОВА ДОЛИНА",
+    "slug": "lipovodolinska-selishhna-tgsmtlipova-dolina"
+  },
+  {
+    "id": 1003,
+    "otg_name": "СУМСЬКА МІСЬКА ТГ/М.СУМИ",
+    "slug": "sumska-miska-tgmsumi"
+  },
+  {
+    "id": 1004,
+    "otg_name": "КОНОТОПСЬКА МІСЬКА ТГ/М.КОНОТОП",
+    "slug": "konotopska-miska-tgmkonotop"
+  },
+  {
+    "id": 1005,
+    "otg_name": "ЛЕБЕДИНСЬКА МІСЬКА ТГ/М.ЛЕБЕДИН",
+    "slug": "lebedinska-miska-tgmlebedin"
+  },
+  {
+    "id": 1006,
+    "otg_name": "ОХТИРСЬКА МІСЬКА ТГ/М.ОХТИРКА",
+    "slug": "oxtirska-miska-tgmoxtirka"
+  },
+  {
+    "id": 1008,
+    "otg_name": "БОРЩІВСЬКА МІСЬКА ТГ/М.БОРЩІВ",
+    "slug": "borshhivska-miska-tgmborshhiv"
+  },
+  {
+    "id": 1009,
+    "otg_name": "МЕЛЬНИЦЕ-ПОДІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.МЕЛЬНИЦЯ-ПОДІЛЬСЬКА",
+    "slug": "melnice-podilska-selishhna-tgsmtmelnicia-podilska"
+  },
+  {
+    "id": 1010,
+    "otg_name": "СКАЛА-ПОДІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.СКАЛА-ПОДІЛЬСЬКА",
+    "slug": "skala-podilska-selishhna-tgsmtskala-podilska"
+  },
+  {
+    "id": 1011,
+    "otg_name": "ІВАНЕ-ПУСТЕНСЬКА СІЛЬСЬКА ТГ/С.ІВАНЕ-ПУСТЕ",
+    "slug": "ivane-pustenska-silska-tgsivane-puste"
+  },
+  {
+    "id": 1012,
+    "otg_name": "БІЛЬЧЕ-ЗОЛОТЕЦЬКА СІЛЬСЬКА ТГ/С.БІЛЬЧЕ-ЗОЛОТЕ",
+    "slug": "bilce-zolotecka-silska-tgsbilce-zolote"
+  },
+  {
+    "id": 1013,
+    "otg_name": "БУЧАЦЬКА МІСЬКА ТГ/М.БУЧАЧ",
+    "slug": "bucacka-miska-tgmbucac"
+  },
+  {
+    "id": 1014,
+    "otg_name": "ЗОЛОТОПОТІЦЬКА СЕЛИЩНА ТГ/СМТ.ЗОЛОТИЙ ПОТІК",
+    "slug": "zolotopoticka-selishhna-tgsmtzolotii-potik"
+  },
+  {
+    "id": 1015,
+    "otg_name": "ТРИБУХІВСЬКА СІЛЬСЬКА ТГ/С.ТРИБУХІВЦІ",
+    "slug": "tribuxivska-silska-tgstribuxivci"
+  },
+  {
+    "id": 1016,
+    "otg_name": "ГУСЯТИНСЬКА СЕЛИЩНА ТГ/СМТ.ГУСЯТИН",
+    "slug": "gusiatinska-selishhna-tgsmtgusiatin"
+  },
+  {
+    "id": 1017,
+    "otg_name": "ГРИМАЙЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ГРИМАЙЛІВ",
+    "slug": "grimailivska-selishhna-tgsmtgrimailiv"
+  },
+  {
+    "id": 1018,
+    "otg_name": "ВАСИЛЬКОВЕЦЬКА СІЛЬСЬКА ТГ/С.ВАСИЛЬКІВЦІ",
+    "slug": "vasilkovecka-silska-tgsvasilkivci"
+  },
+  {
+    "id": 1019,
+    "otg_name": "ВИШНІВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВИШНІВЕЦЬ",
+    "slug": "visnivecka-selishhna-tgsmtvisnivec"
+  },
+  {
+    "id": 1020,
+    "otg_name": "ЗАЛОЗЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЗАЛІЗЦІ",
+    "slug": "zalozecka-selishhna-tgsmtzalizci"
+  },
+  {
+    "id": 1021,
+    "otg_name": "ОЗЕРНЯНСЬКА СІЛЬСЬКА ТГ/С.ОЗЕРНА",
+    "slug": "ozernianska-silska-tgsozerna"
+  },
+  {
+    "id": 1022,
+    "otg_name": "КОЗІВСЬКА СЕЛИЩНА ТГ/СМТ.КОЗОВА",
+    "slug": "kozivska-selishhna-tgsmtkozova"
+  },
+  {
+    "id": 1023,
+    "otg_name": "КОЗЛІВСЬКА СЕЛИЩНА ТГ/СМТ.КОЗЛІВ",
+    "slug": "kozlivska-selishhna-tgsmtkozliv"
+  },
+  {
+    "id": 1024,
+    "otg_name": "ПОЧАЇВСЬКА МІСЬКА ТГ/М.ПОЧАЇВ",
+    "slug": "pocayivska-miska-tgmpocayiv"
+  },
+  {
+    "id": 1025,
+    "otg_name": "ЛОПУШНЕНСЬКА СІЛЬСЬКА ТГ/С.ЛОПУШНЕ",
+    "slug": "lopusnenska-silska-tgslopusne"
+  },
+  {
+    "id": 1026,
+    "otg_name": "БОРСУКІВСЬКА СІЛЬСЬКА ТГ/С.БОРСУКИ",
+    "slug": "borsukivska-silska-tgsborsuki"
+  },
+  {
+    "id": 1027,
+    "otg_name": "КОРОПЕЦЬКА СЕЛИЩНА ТГ/СМТ.КОРОПЕЦЬ",
+    "slug": "koropecka-selishhna-tgsmtkoropec"
+  },
+  {
+    "id": 1028,
+    "otg_name": "СКАЛАТСЬКА МІСЬКА ТГ/М.СКАЛАТ",
+    "slug": "skalatska-miska-tgmskalat"
+  },
+  {
+    "id": 1029,
+    "otg_name": "ПІДВОЛОЧИСЬКА СЕЛИЩНА ТГ/СМТ.ПІДВОЛОЧИСЬК",
+    "slug": "pidvolociska-selishhna-tgsmtpidvolocisk"
+  },
+  {
+    "id": 1030,
+    "otg_name": "СКОРИКІВСЬКА СІЛЬСЬКА ТГ/С.СКОРИКИ",
+    "slug": "skorikivska-silska-tgsskoriki"
+  },
+  {
+    "id": 1031,
+    "otg_name": "ТЕРЕБОВЛЯНСЬКА МІСЬКА ТГ/М.ТЕРЕБОВЛЯ",
+    "slug": "terebovlianska-miska-tgmterebovlia"
+  },
+  {
+    "id": 1032,
+    "otg_name": "МИКУЛИНЕЦЬКА СЕЛИЩНА ТГ/СМТ.МИКУЛИНЦІ",
+    "slug": "mikulinecka-selishhna-tgsmtmikulinci"
+  },
+  {
+    "id": 1033,
+    "otg_name": "ЗОЛОТНИКІВСЬКА СІЛЬСЬКА ТГ/С.ЗОЛОТНИКИ",
+    "slug": "zolotnikivska-silska-tgszolotniki"
+  },
+  {
+    "id": 1034,
+    "otg_name": "ІВАНІВСЬКА СІЛЬСЬКА ТГ/С.ІВАНІВКА",
+    "slug": "ivanivska-silska-tgsivanivka"
+  },
+  {
+    "id": 1035,
+    "otg_name": "ВЕЛИКОГАЇВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ ГАЇ",
+    "slug": "velikogayivska-silska-tgsveliki-gayi"
+  },
+  {
+    "id": 1036,
+    "otg_name": "ПІДГОРОДНЯНСЬКА СІЛЬСЬКА ТГ/С.ПІДГОРОДНЕ",
+    "slug": "pidgorodnianska-silska-tgspidgorodne"
+  },
+  {
+    "id": 1037,
+    "otg_name": "БАЙКОВЕЦЬКА СІЛЬСЬКА ТГ/С.БАЙКІВЦІ",
+    "slug": "baikovecka-silska-tgsbaikivci"
+  },
+  {
+    "id": 1038,
+    "otg_name": "ЗАВОДСЬКА СЕЛИЩНА ТГ/СМТ.ЗАВОДСЬКЕ",
+    "slug": "zavodska-selishhna-tgsmtzavodske"
+  },
+  {
+    "id": 1039,
+    "otg_name": "БІЛОБОЖНИЦЬКА СІЛЬСЬКА ТГ/С.БІЛОБОЖНИЦЯ",
+    "slug": "biloboznicka-silska-tgsbiloboznicia"
+  },
+  {
+    "id": 1040,
+    "otg_name": "КОЛИНДЯНСЬКА СІЛЬСЬКА ТГ/С.КОЛИНДЯНИ",
+    "slug": "kolindianska-silska-tgskolindiani"
+  },
+  {
+    "id": 1041,
+    "otg_name": "ШУМСЬКА МІСЬКА ТГ/М.ШУМСЬК",
+    "slug": "sumska-miska-tgmsumsk"
+  },
+  {
+    "id": 1042,
+    "otg_name": "НАГІРЯНСЬКА СІЛЬСЬКА ТГ/С.НАГІРЯНКА",
+    "slug": "nagirianska-silska-tgsnagirianka"
+  },
+  {
+    "id": 1043,
+    "otg_name": "ВЕЛИКОДЕДЕРКАЛЬСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ ДЕДЕРКАЛИ",
+    "slug": "velikodederkalska-silska-tgsveliki-dederkali"
+  },
+  {
+    "id": 1044,
+    "otg_name": "САРАНЧУКІВСЬКА СІЛЬСЬКА ТГ/С.САРАНЧУКИ",
+    "slug": "sarancukivska-silska-tgssarancuki"
+  },
+  {
+    "id": 1045,
+    "otg_name": "ХОРОСТКІВСЬКА МІСЬКА ТГ/М.ХОРОСТКІВ",
+    "slug": "xorostkivska-miska-tgmxorostkiv"
+  },
+  {
+    "id": 1046,
+    "otg_name": "ЗАЛІЩИЦЬКА МІСЬКА ТГ/М.ЗАЛІЩИКИ",
+    "slug": "zalishhicka-miska-tgmzalishhiki"
+  },
+  {
+    "id": 1047,
+    "otg_name": "ЗБОРІВСЬКА МІСЬКА ТГ/М.ЗБОРІВ",
+    "slug": "zborivska-miska-tgmzboriv"
+  },
+  {
+    "id": 1048,
+    "otg_name": "ЛАНОВЕЦЬКА МІСЬКА ТГ/М.ЛАНІВЦІ",
+    "slug": "lanovecka-miska-tgmlanivci"
+  },
+  {
+    "id": 1049,
+    "otg_name": "КОПИЧИНЕЦЬКА МІСЬКА ТГ/М.КОПИЧИНЦІ",
+    "slug": "kopicinecka-miska-tgmkopicinci"
+  },
+  {
+    "id": 1050,
+    "otg_name": "ПІДГАЄЦЬКА МІСЬКА ТГ/М.ПІДГАЙЦІ",
+    "slug": "pidgajecka-miska-tgmpidgaici"
+  },
+  {
+    "id": 1051,
+    "otg_name": "МОНАСТИРИСЬКА МІСЬКА ТГ/М.МОНАСТИРИСЬКА",
+    "slug": "monastiriska-miska-tgmmonastiriska"
+  },
+  {
+    "id": 1052,
+    "otg_name": "БІЛЕЦЬКА СІЛЬСЬКА ТГ/С.БІЛА",
+    "slug": "bilecka-silska-tgsbila"
+  },
+  {
+    "id": 1053,
+    "otg_name": "ТЕРНОПІЛЬСЬКА МІСЬКА ТГ/М.ТЕРНОПІЛЬ",
+    "slug": "ternopilska-miska-tgmternopil"
+  },
+  {
+    "id": 1054,
+    "otg_name": "КРЕМЕНЕЦЬКА МІСЬКА ТГ/М.КРЕМЕНЕЦЬ",
+    "slug": "kremenecka-miska-tgmkremenec"
+  },
+  {
+    "id": 1055,
+    "otg_name": "КУПЧИНЕЦЬКА СІЛЬСЬКА ТГ/С.КУПЧИНЦІ",
+    "slug": "kupcinecka-silska-tgskupcinci"
+  },
+  {
+    "id": 1056,
+    "otg_name": "ТОВСТЕНСЬКА СЕЛИЩНА ТГ/СМТ.ТОВСТЕ",
+    "slug": "tovstenska-selishhna-tgsmttovste"
+  },
+  {
+    "id": 1057,
+    "otg_name": "НАРАЇВСЬКА СІЛЬСЬКА ТГ/С.НАРАЇВ",
+    "slug": "narayivska-silska-tgsnarayiv"
+  },
+  {
+    "id": 1058,
+    "otg_name": "ВЕЛИКОБІРКІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКІ БІРКИ",
+    "slug": "velikobirkivska-selishhna-tgsmtveliki-birki"
+  },
+  {
+    "id": 1059,
+    "otg_name": "СТАРОСАЛТІВСЬКА СЕЛИЩНА ТГ/СМТ.СТАРИЙ САЛТІВ",
+    "slug": "starosaltivska-selishhna-tgsmtstarii-saltiv"
+  },
+  {
+    "id": 1060,
+    "otg_name": "ДВОРІЧАНСЬКА СЕЛИЩНА ТГ/СМТ.ДВОРІЧНА",
+    "slug": "dvoricanska-selishhna-tgsmtdvoricna"
+  },
+  {
+    "id": 1061,
+    "otg_name": "ДЕРГАЧІВСЬКА МІСЬКА ТГ/М.ДЕРГАЧІ",
+    "slug": "dergacivska-miska-tgmdergaci"
+  },
+  {
+    "id": 1062,
+    "otg_name": "СОЛОНИЦІВСЬКА СЕЛИЩНА ТГ/СМТ.СОЛОНИЦІВКА",
+    "slug": "solonicivska-selishhna-tgsmtsolonicivka"
+  },
+  {
+    "id": 1063,
+    "otg_name": "НОВОВОДОЛАЗЬКА СЕЛИЩНА ТГ/СМТ.НОВА ВОДОЛАГА",
+    "slug": "novovodolazka-selishhna-tgsmtnova-vodolaga"
+  },
+  {
+    "id": 1064,
+    "otg_name": "ПІВДЕННОМІСЬКА МІСЬКА ТГ/М.ПІВДЕННЕ",
+    "slug": "pivdennomiska-miska-tgmpivdenne"
+  },
+  {
+    "id": 1065,
+    "otg_name": "МЕРЕФ'ЯНСЬКА МІСЬКА ТГ/М.МЕРЕФА",
+    "slug": "merefianska-miska-tgmmerefa"
+  },
+  {
+    "id": 1066,
+    "otg_name": "РОГАНСЬКА СЕЛИЩНА ТГ/СМТ.РОГАНЬ",
+    "slug": "roganska-selishhna-tgsmtrogan"
+  },
+  {
+    "id": 1067,
+    "otg_name": "ЧКАЛОВСЬКА СЕЛИЩНА ТГ/СМТ.ЧКАЛОВСЬКЕ",
+    "slug": "ckalovska-selishhna-tgsmtckalovske"
+  },
+  {
+    "id": 1068,
+    "otg_name": "ШЕВЧЕНКІВСЬКА СЕЛИЩНА ТГ/СМТ.ШЕВЧЕНКОВЕ",
+    "slug": "sevcenkivska-selishhna-tgsmtsevcenkove"
+  },
+  {
+    "id": 1069,
+    "otg_name": "МАЛОДАНИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.МАЛА ДАНИЛІВКА",
+    "slug": "malodanilivska-selishhna-tgsmtmala-danilivka"
+  },
+  {
+    "id": 1070,
+    "otg_name": "ЗАЧЕПИЛІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗАЧЕПИЛІВКА",
+    "slug": "zacepilivska-selishhna-tgsmtzacepilivka"
+  },
+  {
+    "id": 1071,
+    "otg_name": "ЗМІЇВСЬКА МІСЬКА ТГ/М.ЗМІЇВ",
+    "slug": "zmiyivska-miska-tgmzmiyiv"
+  },
+  {
+    "id": 1072,
+    "otg_name": "ЗОЛОЧІВСЬКА СЕЛИЩНА ТГ/СМТ.ЗОЛОЧІВ",
+    "slug": "zolocivska-selishhna-tgsmtzolociv"
+  },
+  {
+    "id": 1073,
+    "otg_name": "ОСКІЛЬСЬКА СІЛЬСЬКА ТГ/С.ОСКІЛ",
+    "slug": "oskilska-silska-tgsoskil"
+  },
+  {
+    "id": 1074,
+    "otg_name": "КОЛОМАЦЬКА СЕЛИЩНА ТГ/СМТ.КОЛОМАК",
+    "slug": "kolomacka-selishhna-tgsmtkolomak"
+  },
+  {
+    "id": 1075,
+    "otg_name": "НАТАЛИНСЬКА СІЛЬСЬКА ТГ/С.НАТАЛИНЕ",
+    "slug": "natalinska-silska-tgsnataline"
+  },
+  {
+    "id": 1076,
+    "otg_name": "СЛОБОЖАНСЬКА СЕЛИЩНА ТГ/СМТ.СЛОБОЖАНСЬКЕ",
+    "slug": "slobozanska-selishhna-tgsmtslobozanske-1"
+  },
+  {
+    "id": 1077,
+    "otg_name": "КУНЬЄВСЬКА СІЛЬСЬКА ТГ/С.КУНЬЄ",
+    "slug": "kunjevska-silska-tgskunje"
+  },
+  {
+    "id": 1078,
+    "otg_name": "КЕГИЧІВСЬКА СЕЛИЩНА ТГ/СМТ.КЕГИЧІВКА",
+    "slug": "kegicivska-selishhna-tgsmtkegicivka"
+  },
+  {
+    "id": 1079,
+    "otg_name": "КРАСНОКУТСЬКА СЕЛИЩНА ТГ/СМТ.КРАСНОКУТСЬК",
+    "slug": "krasnokutska-selishhna-tgsmtkrasnokutsk"
+  },
+  {
+    "id": 1080,
+    "otg_name": "КРАСНОГРАДСЬКА МІСЬКА ТГ/М.КРАСНОГРАД",
+    "slug": "krasnogradska-miska-tgmkrasnograd"
+  },
+  {
+    "id": 1081,
+    "otg_name": "МАЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.МАЛИНІВКА",
+    "slug": "malinivska-selishhna-tgsmtmalinivka"
+  },
+  {
+    "id": 1082,
+    "otg_name": "НОВОПОКРОВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОПОКРОВКА",
+    "slug": "novopokrovska-selishhna-tgsmtnovopokrovka-1"
+  },
+  {
+    "id": 1083,
+    "otg_name": "ЛОЗІВСЬКА МІСЬКА ТГ/М.ЛОЗОВА",
+    "slug": "lozivska-miska-tgmlozova"
+  },
+  {
+    "id": 1084,
+    "otg_name": "КУРИЛІВСЬКА СІЛЬСЬКА ТГ/С.КУРИЛІВКА",
+    "slug": "kurilivska-silska-tgskurilivka"
+  },
+  {
+    "id": 1085,
+    "otg_name": "ВОВЧАНСЬКА МІСЬКА ТГ/М.ВОВЧАНСЬК",
+    "slug": "vovcanska-miska-tgmvovcansk"
+  },
+  {
+    "id": 1086,
+    "otg_name": "ВІЛЬХУВАТСЬКА СІЛЬСЬКА ТГ/С.ВІЛЬХУВАТКА",
+    "slug": "vilxuvatska-silska-tgsvilxuvatka"
+  },
+  {
+    "id": 1087,
+    "otg_name": "СТАРОВІРІВСЬКА СІЛЬСЬКА ТГ/С.СТАРОВІРІВКА",
+    "slug": "starovirivska-silska-tgsstarovirivka"
+  },
+  {
+    "id": 1088,
+    "otg_name": "БІЛЯЇВСЬКА СІЛЬСЬКА ТГ/С.БІЛЯЇВКА",
+    "slug": "biliayivska-silska-tgsbiliayivka"
+  },
+  {
+    "id": 1089,
+    "otg_name": "ПІСОЧИНСЬКА СЕЛИЩНА ТГ/СМТ.ПІСОЧИН",
+    "slug": "pisocinska-selishhna-tgsmtpisocin"
+  },
+  {
+    "id": 1090,
+    "otg_name": "ЦИРКУНІВСЬКА СІЛЬСЬКА ТГ/С.ЦИРКУНИ",
+    "slug": "cirkunivska-silska-tgscirkuni"
+  },
+  {
+    "id": 1091,
+    "otg_name": "ОЛЕКСІЇВСЬКА СІЛЬСЬКА ТГ/С.ОЛЕКСІЇВКА",
+    "slug": "oleksiyivska-silska-tgsoleksiyivka"
+  },
+  {
+    "id": 1092,
+    "otg_name": "ПЕЧЕНІЗЬКА СЕЛИЩНА ТГ/СМТ.ПЕЧЕНІГИ",
+    "slug": "pecenizka-selishhna-tgsmtpecenigi"
+  },
+  {
+    "id": 1093,
+    "otg_name": "САХНОВЩИНСЬКА СЕЛИЩНА ТГ/СМТ.САХНОВЩИНА",
+    "slug": "saxnovshhinska-selishhna-tgsmtsaxnovshhina"
+  },
+  {
+    "id": 1094,
+    "otg_name": "ВІЛЬХІВСЬКА СІЛЬСЬКА ТГ/С.ВІЛЬХІВКА",
+    "slug": "vilxivska-silska-tgsvilxivka"
+  },
+  {
+    "id": 1095,
+    "otg_name": "ВИСОЧАНСЬКА СЕЛИЩНА ТГ/СМТ.ВИСОКИЙ",
+    "slug": "visocanska-selishhna-tgsmtvisokii"
+  },
+  {
+    "id": 1096,
+    "otg_name": "ЛИПЕЦЬКА СІЛЬСЬКА ТГ/С.ЛИПЦІ",
+    "slug": "lipecka-silska-tgslipci"
+  },
+  {
+    "id": 1097,
+    "otg_name": "БЕЗЛЮДІВСЬКА СЕЛИЩНА ТГ/СМТ.БЕЗЛЮДІВКА",
+    "slug": "bezliudivska-selishhna-tgsmtbezliudivka"
+  },
+  {
+    "id": 1098,
+    "otg_name": "ХАРКІВСЬКА МІСЬКА ТГ/М.ХАРКІВ",
+    "slug": "xarkivska-miska-tgmxarkiv"
+  },
+  {
+    "id": 1099,
+    "otg_name": "ЛЮБОТИНСЬКА МІСЬКА ТГ/М.ЛЮБОТИН",
+    "slug": "liubotinska-miska-tgmliubotin"
+  },
+  {
+    "id": 1100,
+    "otg_name": "ПЕРВОМАЙСЬКА МІСЬКА ТГ/М.ПЕРВОМАЙСЬКИЙ",
+    "slug": "pervomaiska-miska-tgmpervomaiskii"
+  },
+  {
+    "id": 1101,
+    "otg_name": "КУП'ЯНСЬКА МІСЬКА ТГ/М.КУП'ЯНСЬК",
+    "slug": "kupianska-miska-tgmkupiansk"
+  },
+  {
+    "id": 1102,
+    "otg_name": "ІЗЮМСЬКА МІСЬКА ТГ/М.ІЗЮМ",
+    "slug": "iziumska-miska-tgmizium"
+  },
+  {
+    "id": 1103,
+    "otg_name": "ЧУГУЇВСЬКА МІСЬКА ТГ/М.ЧУГУЇВ",
+    "slug": "cuguyivska-miska-tgmcuguyiv"
+  },
+  {
+    "id": 1104,
+    "otg_name": "БАЛАКЛІЙСЬКА МІСЬКА ТГ/М.БАЛАКЛІЯ",
+    "slug": "balakliiska-miska-tgmbalakliia"
+  },
+  {
+    "id": 1105,
+    "otg_name": "ДОНЕЦЬКА СЕЛИЩНА ТГ/СМТ.ДОНЕЦЬ",
+    "slug": "donecka-selishhna-tgsmtdonec"
+  },
+  {
+    "id": 1106,
+    "otg_name": "САВИНСЬКА СЕЛИЩНА ТГ/СМТ.САВИНЦІ",
+    "slug": "savinska-selishhna-tgsmtsavinci"
+  },
+  {
+    "id": 1107,
+    "otg_name": "БАРВІНКІВСЬКА МІСЬКА ТГ/М.БАРВІНКОВЕ",
+    "slug": "barvinkivska-miska-tgmbarvinkove"
+  },
+  {
+    "id": 1108,
+    "otg_name": "БЛИЗНЮКІВСЬКА СЕЛИЩНА ТГ/СМТ.БЛИЗНЮКИ",
+    "slug": "blizniukivska-selishhna-tgsmtblizniuki"
+  },
+  {
+    "id": 1109,
+    "otg_name": "БОГОДУХІВСЬКА МІСЬКА ТГ/М.БОГОДУХІВ",
+    "slug": "bogoduxivska-miska-tgmbogoduxiv"
+  },
+  {
+    "id": 1110,
+    "otg_name": "ВАЛКІВСЬКА МІСЬКА ТГ/М.ВАЛКИ",
+    "slug": "valkivska-miska-tgmvalki"
+  },
+  {
+    "id": 1111,
+    "otg_name": "БОРІВСЬКА СЕЛИЩНА ТГ/СМТ.БОРОВА",
+    "slug": "borivska-selishhna-tgsmtborova"
+  },
+  {
+    "id": 1112,
+    "otg_name": "КІНДРАШІВСЬКА СІЛЬСЬКА ТГ/С.КІНДРАШІВКА",
+    "slug": "kindrasivska-silska-tgskindrasivka"
+  },
+  {
+    "id": 1113,
+    "otg_name": "МУЗИКІВСЬКА СІЛЬСЬКА ТГ/С.МУЗИКІВКА",
+    "slug": "muzikivska-silska-tgsmuzikivka"
+  },
+  {
+    "id": 1114,
+    "otg_name": "КОЧУБЕЇВСЬКА СІЛЬСЬКА ТГ/С.КОЧУБЕЇВКА",
+    "slug": "kocubeyivska-silska-tgskocubeyivka"
+  },
+  {
+    "id": 1115,
+    "otg_name": "ГОРНОСТАЇВСЬКА СЕЛИЩНА ТГ/СМТ.ГОРНОСТАЇВКА",
+    "slug": "gornostayivska-selishhna-tgsmtgornostayivka"
+  },
+  {
+    "id": 1116,
+    "otg_name": "КАЛАНЧАЦЬКА СЕЛИЩНА ТГ/СМТ.КАЛАНЧАК",
+    "slug": "kalancacka-selishhna-tgsmtkalancak"
+  },
+  {
+    "id": 1117,
+    "otg_name": "МИРНЕНСЬКА СЕЛИЩНА ТГ/СМТ.МИРНЕ",
+    "slug": "mirnenska-selishhna-tgsmtmirne-1"
+  },
+  {
+    "id": 1118,
+    "otg_name": "ЗЕЛЕНОПІДСЬКА СІЛЬСЬКА ТГ/С.ЗЕЛЕНИЙ ПІД",
+    "slug": "zelenopidska-silska-tgszelenii-pid"
+  },
+  {
+    "id": 1119,
+    "otg_name": "ТАВРИЧАНСЬКА СІЛЬСЬКА ТГ/С.ТАВРИЧАНКА",
+    "slug": "tavricanska-silska-tgstavricanka"
+  },
+  {
+    "id": 1120,
+    "otg_name": "ВИНОГРАДІВСЬКА СІЛЬСЬКА ТГ/С.ВИНОГРАДОВЕ",
+    "slug": "vinogradivska-silska-tgsvinogradove"
+  },
+  {
+    "id": 1121,
+    "otg_name": "ВЕЛИКОКОПАНІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКІ КОПАНІ",
+    "slug": "velikokopanivska-silska-tgsveliki-kopani"
+  },
+  {
+    "id": 1122,
+    "otg_name": "ОЛЕШКІВСЬКА МІСЬКА ТГ/М.ОЛЕШКИ",
+    "slug": "oleskivska-miska-tgmoleski"
+  },
+  {
+    "id": 1123,
+    "otg_name": "БІЛОЗЕРСЬКА СЕЛИЩНА ТГ/СМТ.БІЛОЗЕРКА",
+    "slug": "bilozerska-selishhna-tgsmtbilozerka"
+  },
+  {
+    "id": 1124,
+    "otg_name": "ДАР'ЇВСЬКА СЕЛИЩНА ТГ/C. ДАР'ЇВКА",
+    "slug": "daryivska-selishhna-tgc-daryivka"
+  },
+  {
+    "id": 1125,
+    "otg_name": "СТАНІСЛАВСЬКА СІЛЬСЬКА ТГ/С.СТАНІСЛАВ",
+    "slug": "stanislavska-silska-tgsstanislav"
+  },
+  {
+    "id": 1126,
+    "otg_name": "ЧОРНОБАЇВСЬКА СІЛЬСЬКА ТГ/С.ЧОРНОБАЇВКА",
+    "slug": "cornobayivska-silska-tgscornobayivka"
+  },
+  {
+    "id": 1127,
+    "otg_name": "ВЕЛИКОЛЕПЕТИСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА ЛЕПЕТИХА",
+    "slug": "velikolepetiska-selishhna-tgsmtvelika-lepetixa"
+  },
+  {
+    "id": 1128,
+    "otg_name": "РУБАНІВСЬКА СІЛЬСЬКА ТГ/С.РУБАНІВКА",
+    "slug": "rubanivska-silska-tgsrubanivka"
+  },
+  {
+    "id": 1129,
+    "otg_name": "ВЕЛИКООЛЕКСАНДРІВСЬКА СЕЛИЩНА ТГ/СМТ.ВЕЛИКА ОЛЕКСАНДРІВКА",
+    "slug": "velikooleksandrivska-selishhna-tgsmtvelika-oleksandrivka"
+  },
+  {
+    "id": 1130,
+    "otg_name": "КАЛИНІВСЬКА СЕЛИЩНА ТГ/СМТ.КАЛИНІВСЬКЕ",
+    "slug": "kalinivska-selishhna-tgsmtkalinivske"
+  },
+  {
+    "id": 1131,
+    "otg_name": "БОРОЗЕНСЬКА СІЛЬСЬКА ТГ/С.БОРОЗЕНСЬКЕ",
+    "slug": "borozenska-silska-tgsborozenske"
+  },
+  {
+    "id": 1132,
+    "otg_name": "ВИСОКОПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ВИСОКОПІЛЛЯ",
+    "slug": "visokopilska-selishhna-tgsmtvisokopillia"
+  },
+  {
+    "id": 1133,
+    "otg_name": "ВЕРХНЬОРОГАЧИЦЬКА СЕЛИЩНА ТГ/СМТ.ВЕРХНІЙ РОГАЧИК",
+    "slug": "verxnorogacicka-selishhna-tgsmtverxnii-rogacik"
+  },
+  {
+    "id": 1134,
+    "otg_name": "БЕХТЕРСЬКА СІЛЬСЬКА ТГ/С.БЕХТЕРИ",
+    "slug": "bexterska-silska-tgsbexteri"
+  },
+  {
+    "id": 1135,
+    "otg_name": "ГЕНІЧЕСЬКА МІСЬКА ТГ/М.ГЕНІЧЕСЬК",
+    "slug": "geniceska-miska-tgmgenicesk"
+  },
+  {
+    "id": 1136,
+    "otg_name": "ЧУЛАКІВСЬКА СІЛЬСЬКА ТГ/С.ЧУЛАКІВКА",
+    "slug": "culakivska-silska-tgsculakivka"
+  },
+  {
+    "id": 1137,
+    "otg_name": "НОВОВОРОНЦОВСЬКА СЕЛИЩНА ТГ/СМТ.НОВОВОРОНЦОВКА",
+    "slug": "novovoroncovska-selishhna-tgsmtnovovoroncovka"
+  },
+  {
+    "id": 1138,
+    "otg_name": "НОВОТРОЇЦЬКА СЕЛИЩНА ТГ/СМТ.НОВОТРОЇЦЬКЕ",
+    "slug": "novotroyicka-selishhna-tgsmtnovotroyicke"
+  },
+  {
+    "id": 1139,
+    "otg_name": "НОВООЛЕКСАНДРІВСЬКА СІЛЬСЬКА ТГ/С.НОВООЛЕКСАНДРІВКА",
+    "slug": "novooleksandrivska-silska-tgsnovooleksandrivka-1"
+  },
+  {
+    "id": 1140,
+    "otg_name": "НИЖНЬОСІРОГОЗЬКА СЕЛИЩНА ТГ/СМТ.НИЖНІ СІРОГОЗИ",
+    "slug": "niznosirogozka-selishhna-tgsmtnizni-sirogozi"
+  },
+  {
+    "id": 1141,
+    "otg_name": "КОСТЯНТИНІВСЬКА СІЛЬСЬКА ТГ/С.КОСТЯНТИНІВКА",
+    "slug": "kostiantinivska-silska-tgskostiantinivka-2"
+  },
+  {
+    "id": 1142,
+    "otg_name": "ЛЮБИМІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБИМІВКА",
+    "slug": "liubimivska-selishhna-tgsmtliubimivka"
+  },
+  {
+    "id": 1143,
+    "otg_name": "ТАВРІЙСЬКА СЕЛИЩНА ТГ/М.ТАВРІЙСЬК",
+    "slug": "tavriiska-selishhna-tgmtavriisk"
+  },
+  {
+    "id": 1144,
+    "otg_name": "ІВАНІВСЬКА СЕЛИЩНА ТГ/СМТ.ІВАНІВКА",
+    "slug": "ivanivska-selishhna-tgsmtivanivka-1"
+  },
+  {
+    "id": 1145,
+    "otg_name": "ЮВІЛЕЙНА СІЛЬСЬКА ТГ/С.ЮВІЛЕЙНЕ",
+    "slug": "iuvileina-silska-tgsiuvileine"
+  },
+  {
+    "id": 1146,
+    "otg_name": "ЛАЗУРНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ЛАЗУРНЕ",
+    "slug": "lazurnenska-selishhna-tgsmtlazurne"
+  },
+  {
+    "id": 1147,
+    "otg_name": "НОВОМИКОЛАЇВСЬКА СІЛЬСЬКА ТГ/С.НОВОМИКОЛАЇВКА",
+    "slug": "novomikolayivska-silska-tgsnovomikolayivka"
+  },
+  {
+    "id": 1148,
+    "otg_name": "СКАДОВСЬКА МІСЬКА ТГ/М.СКАДОВСЬК",
+    "slug": "skadovska-miska-tgmskadovsk"
+  },
+  {
+    "id": 1149,
+    "otg_name": "АСКАНІЯ-НОВА СЕЛИЩНА ТГ/СМТ.АСКАНІЯ-НОВА",
+    "slug": "askaniia-nova-selishhna-tgsmtaskaniia-nova"
+  },
+  {
+    "id": 1150,
+    "otg_name": "ПРИСИВАСЬКА СІЛЬСЬКА ТГ/С.ГРИГОРІВКА",
+    "slug": "prisivaska-silska-tgsgrigorivka"
+  },
+  {
+    "id": 1151,
+    "otg_name": "ХРЕСТІВСЬКА СІЛЬСЬКА ТГ/С.ХРЕСТІВКА",
+    "slug": "xrestivska-silska-tgsxrestivka"
+  },
+  {
+    "id": 1152,
+    "otg_name": "ЧАПЛИНСЬКА СЕЛИЩНА ТГ/СМТ.ЧАПЛИНКА",
+    "slug": "caplinska-selishhna-tgsmtcaplinka"
+  },
+  {
+    "id": 1153,
+    "otg_name": "КАХОВСЬКА МІСЬКА ТГ/М.КАХОВКА",
+    "slug": "kaxovska-miska-tgmkaxovka"
+  },
+  {
+    "id": 1154,
+    "otg_name": "НОВОКАХОВСЬКА МІСЬКА ТГ/М.НОВА КАХОВКА",
+    "slug": "novokaxovska-miska-tgmnova-kaxovka"
+  },
+  {
+    "id": 1155,
+    "otg_name": "ХЕРСОНСЬКА МІСЬКА ТГ/М.ХЕРСОН",
+    "slug": "xersonska-miska-tgmxerson"
+  },
+  {
+    "id": 1156,
+    "otg_name": "БЕРИСЛАВСЬКА МІСЬКА ТГ/М.БЕРИСЛАВ",
+    "slug": "berislavska-miska-tgmberislav"
+  },
+  {
+    "id": 1157,
+    "otg_name": "МИЛІВСЬКА СІЛЬСЬКА ТГ/С.МИЛОВЕ",
+    "slug": "milivska-silska-tgsmilove"
+  },
+  {
+    "id": 1158,
+    "otg_name": "ДОЛМАТІВСЬКА СІЛЬСЬКА ТГ/С.ДОЛМАТІВКА",
+    "slug": "dolmativska-silska-tgsdolmativka"
+  },
+  {
+    "id": 1159,
+    "otg_name": "НОВОРАЙСЬКА СІЛЬСЬКА ТГ/С.НОВОРАЙСЬК",
+    "slug": "novoraiska-silska-tgsnovoraisk"
+  },
+  {
+    "id": 1160,
+    "otg_name": "ТЯГИНСЬКА СІЛЬСЬКА ТГ/С.ТЯГИНКА",
+    "slug": "tiaginska-silska-tgstiaginka"
+  },
+  {
+    "id": 1161,
+    "otg_name": "БІЛОГІРСЬКА СЕЛИЩНА ТГ/СМТ.БІЛОГІР’Я",
+    "slug": "bilogirska-selishhna-tgsmtbilogiria"
+  },
+  {
+    "id": 1162,
+    "otg_name": "ЯМПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ЯМПІЛЬ",
+    "slug": "iampilska-selishhna-tgsmtiampil-1"
+  },
+  {
+    "id": 1163,
+    "otg_name": "ВІНЬКОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВІНЬКІВЦІ",
+    "slug": "vinkovecka-selishhna-tgsmtvinkivci"
+  },
+  {
+    "id": 1164,
+    "otg_name": "ЗІНЬКІВСЬКА СІЛЬСЬКА ТГ/С.ЗІНЬКІВ",
+    "slug": "zinkivska-silska-tgszinkiv"
+  },
+  {
+    "id": 1165,
+    "otg_name": "ВIЙТОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВІЙТІВЦІ",
+    "slug": "viitovecka-selishhna-tgsmtviitivci"
+  },
+  {
+    "id": 1166,
+    "otg_name": "ВОЛОЧИСЬКА МІСЬКА ТГ/М.ВОЛОЧИСЬК",
+    "slug": "volociska-miska-tgmvolocisk"
+  },
+  {
+    "id": 1167,
+    "otg_name": "НАРКЕВИЦЬКА СЕЛИЩНА ТГ/СМТ.НАРКЕВИЧІ",
+    "slug": "narkevicka-selishhna-tgsmtnarkevici"
+  },
+  {
+    "id": 1168,
+    "otg_name": "ГОРОДОЦЬКА МІСЬКА ТГ/М.ГОРОДОК",
+    "slug": "gorodocka-miska-tgmgorodok-1"
+  },
+  {
+    "id": 1169,
+    "otg_name": "САТАНІВСЬКА СЕЛИЩНА ТГ/СМТ.САТАНІВ",
+    "slug": "satanivska-selishhna-tgsmtsataniv"
+  },
+  {
+    "id": 1170,
+    "otg_name": "ВОВКОВИНЕЦЬКА СЕЛИЩНА ТГ/СМТ.ВОВКОВИНЦІ",
+    "slug": "vovkovinecka-selishhna-tgsmtvovkovinci"
+  },
+  {
+    "id": 1171,
+    "otg_name": "ДЕРАЖНЯНСЬКА МІСЬКА ТГ/М.ДЕРАЖНЯ",
+    "slug": "deraznianska-miska-tgmderaznia"
+  },
+  {
+    "id": 1172,
+    "otg_name": "ДУНАЄВЕЦЬКА МІСЬКА ТГ/М.ДУНАЇВЦІ",
+    "slug": "dunajevecka-miska-tgmdunayivci"
+  },
+  {
+    "id": 1173,
+    "otg_name": "МАКІВСЬКА СІЛЬСЬКА ТГ/С.МАКІВ",
+    "slug": "makivska-silska-tgsmakiv"
+  },
+  {
+    "id": 1174,
+    "otg_name": "НОВОДУНАЄВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ДУНАЇВЦІ",
+    "slug": "novodunajevecka-selishhna-tgsmtdunayivci"
+  },
+  {
+    "id": 1175,
+    "otg_name": "СМОТРИЦЬКА СЕЛИЩНА ТГ/СМТ.СМОТРИЧ",
+    "slug": "smotricka-selishhna-tgsmtsmotric"
+  },
+  {
+    "id": 1176,
+    "otg_name": "ІЗЯСЛАВСЬКА МІСЬКА ТГ/М.ІЗЯСЛАВ",
+    "slug": "iziaslavska-miska-tgmiziaslav"
+  },
+  {
+    "id": 1177,
+    "otg_name": "ПЛУЖНЕНСЬКА СІЛЬСЬКА ТГ/С.ПЛУЖНЕ",
+    "slug": "pluznenska-silska-tgspluzne"
+  },
+  {
+    "id": 1178,
+    "otg_name": "САХНОВЕЦЬКА СІЛЬСЬКА ТГ/С.САХНІВЦІ",
+    "slug": "saxnovecka-silska-tgssaxnivci"
+  },
+  {
+    "id": 1179,
+    "otg_name": "ГУМЕНЕЦЬКА СІЛЬСЬКА ТГ/С.ГУМЕНЦІ",
+    "slug": "gumenecka-silska-tgsgumenci"
+  },
+  {
+    "id": 1180,
+    "otg_name": "ЖВАНЕЦЬКА СІЛЬСЬКА ТГ/С.ЖВАНЕЦЬ",
+    "slug": "zvanecka-silska-tgszvanec"
+  },
+  {
+    "id": 1181,
+    "otg_name": "КИТАЙГОРОДСЬКА СІЛЬСЬКА ТГ/С.КИТАЙГОРОД",
+    "slug": "kitaigorodska-silska-tgskitaigorod-1"
+  },
+  {
+    "id": 1182,
+    "otg_name": "ОРИНИНСЬКА СІЛЬСЬКА ТГ/С.ОРИНИН",
+    "slug": "orininska-silska-tgsorinin"
+  },
+  {
+    "id": 1183,
+    "otg_name": "СЛОБІДСЬКО-КУЛЬЧІЄВЕЦЬКА СІЛЬСЬКА ТГ/С.СЛОБІДКА-КУЛЬЧІЄВЕЦЬКА",
+    "slug": "slobidsko-kulcijevecka-silska-tgsslobidka-kulcijevecka"
+  },
+  {
+    "id": 1209,
+    "otg_name": "ГРИЦІВСЬКА СЕЛИЩНА ТГ/СМТ.ГРИЦІВ",
+    "slug": "gricivska-selishhna-tgsmtgriciv"
+  },
+  {
+    "id": 1184,
+    "otg_name": "СТАРОУШИЦЬКА СЕЛИЩНА ТГ/СМТ.СТАРА УШИЦЯ",
+    "slug": "starousicka-selishhna-tgsmtstara-usicia"
+  },
+  {
+    "id": 1185,
+    "otg_name": "АНТОНІНСЬКА СЕЛИЩНА ТГ/СМТ.АНТОНІНИ",
+    "slug": "antoninska-selishhna-tgsmtantonini"
+  },
+  {
+    "id": 1186,
+    "otg_name": "ЗАСЛУЧНЕНСЬКА СІЛЬСЬКА ТГ/С.ЗАСЛУЧНЕ",
+    "slug": "zaslucnenska-silska-tgszaslucne"
+  },
+  {
+    "id": 1187,
+    "otg_name": "КРАСИЛІВСЬКА МІСЬКА ТГ/М.КРАСИЛІВ",
+    "slug": "krasilivska-miska-tgmkrasiliv"
+  },
+  {
+    "id": 1188,
+    "otg_name": "ЩИБОРІВСЬКА СІЛЬСЬКА ТГ/С.ЩИБОРІВКА",
+    "slug": "shhiborivska-silska-tgsshhiborivka"
+  },
+  {
+    "id": 1189,
+    "otg_name": "ЛЕТИЧІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛЕТИЧІВ",
+    "slug": "leticivska-selishhna-tgsmtleticiv"
+  },
+  {
+    "id": 1190,
+    "otg_name": "МЕДЖИБІЗЬКА СЕЛИЩНА ТГ/СМТ.МЕДЖИБІЖ",
+    "slug": "medzibizka-selishhna-tgsmtmedzibiz"
+  },
+  {
+    "id": 1191,
+    "otg_name": "НОВОУШИЦЬКА СЕЛИЩНА ТГ/СМТ.НОВА УШИЦЯ",
+    "slug": "novousicka-selishhna-tgsmtnova-usicia"
+  },
+  {
+    "id": 1192,
+    "otg_name": "ПОЛОНСЬКА МІСЬКА ТГ/М.ПОЛОННЕ",
+    "slug": "polonska-miska-tgmpolonne"
+  },
+  {
+    "id": 1193,
+    "otg_name": "ПОНІНКІВСЬКА СЕЛИЩНА ТГ/СМТ.ПОНІНКА",
+    "slug": "poninkivska-selishhna-tgsmtponinka"
+  },
+  {
+    "id": 1194,
+    "otg_name": "БЕРЕЗДІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕЗДІВ",
+    "slug": "berezdivska-silska-tgsberezdiv"
+  },
+  {
+    "id": 1195,
+    "otg_name": "ГАННОПІЛЬСЬКА СІЛЬСЬКА ТГ/С.ГАННОПІЛЬ",
+    "slug": "gannopilska-silska-tgsgannopil"
+  },
+  {
+    "id": 1196,
+    "otg_name": "КРУПЕЦЬКА СІЛЬСЬКА ТГ/С.КРУПЕЦЬ",
+    "slug": "krupecka-silska-tgskrupec-1"
+  },
+  {
+    "id": 1197,
+    "otg_name": "УЛАШАНІВСЬКА СІЛЬСЬКА ТГ/С.УЛАШАНІВКА",
+    "slug": "ulasanivska-silska-tgsulasanivka"
+  },
+  {
+    "id": 1198,
+    "otg_name": "МИРОЛЮБНЕНСЬКА СІЛЬСЬКА ТГ/С.МИРОЛЮБНЕ",
+    "slug": "miroliubnenska-silska-tgsmiroliubne"
+  },
+  {
+    "id": 1199,
+    "otg_name": "СТАРООСТРО-ПІЛЬСЬКА СІЛЬСЬКА ТГ/С.СТАРИЙ ОСТРОПІЛЬ",
+    "slug": "staroostro-pilska-silska-tgsstarii-ostropil"
+  },
+  {
+    "id": 1200,
+    "otg_name": "СТАРОСИНЯВСЬКА СЕЛИЩНА ТГ/СМТ.СТАРА СИНЯВА",
+    "slug": "starosiniavska-selishhna-tgsmtstara-siniava"
+  },
+  {
+    "id": 1201,
+    "otg_name": "ТЕОФІПОЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ТЕОФІПОЛЬ",
+    "slug": "teofipolska-selishhna-tgsmtteofipol"
+  },
+  {
+    "id": 1202,
+    "otg_name": "ГВАРДІЙСЬКА СІЛЬСЬКА ТГ/С.ГВАРДІЙСЬКЕ",
+    "slug": "gvardiiska-silska-tgsgvardiiske"
+  },
+  {
+    "id": 1203,
+    "otg_name": "ЛІСОВОГРИНІВЕЦЬКА СІЛЬСЬКА ТГ/С.ЛІСОВІ ГРИНІВЦІ",
+    "slug": "lisovogrinivecka-silska-tgslisovi-grinivci"
+  },
+  {
+    "id": 1204,
+    "otg_name": "РОЗСОШАНСЬКА СІЛЬСЬКА ТГ/С.РОЗСОША",
+    "slug": "rozsosanska-silska-tgsrozsosa"
+  },
+  {
+    "id": 1205,
+    "otg_name": "ЧОРНООСТРІВСЬКА СЕЛИЩНА ТГ/СМТ.ЧОРНИЙ ОСТРІВ",
+    "slug": "cornoostrivska-selishhna-tgsmtcornii-ostriv"
+  },
+  {
+    "id": 1206,
+    "otg_name": "ГУКІВСЬКА СІЛЬСЬКА ТГ/С.ГУКІВ",
+    "slug": "gukivska-silska-tgsgukiv"
+  },
+  {
+    "id": 1207,
+    "otg_name": "ЗАКУПНЕНСЬКА СЕЛИЩНА ТГ/СМТ.ЗАКУПНЕ",
+    "slug": "zakupnenska-selishhna-tgsmtzakupne"
+  },
+  {
+    "id": 1208,
+    "otg_name": "ЧЕМЕРОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЧЕМЕРІВЦІ",
+    "slug": "cemerovecka-selishhna-tgsmtcemerivci"
+  },
+  {
+    "id": 1210,
+    "otg_name": "ЛЕНКОВЕЦЬКА СІЛЬСЬКА ТГ/С.ЛЕНКІВЦІ",
+    "slug": "lenkovecka-silska-tgslenkivci"
+  },
+  {
+    "id": 1211,
+    "otg_name": "МИХАЙЛЮЦЬКА СІЛЬСЬКА ТГ/С.МИХАЙЛЮЧКА",
+    "slug": "mixailiucka-silska-tgsmixailiucka"
+  },
+  {
+    "id": 1212,
+    "otg_name": "СУДИЛКІВСЬКА СІЛЬСЬКА ТГ/С.СУДИЛКІВ",
+    "slug": "sudilkivska-silska-tgssudilkiv"
+  },
+  {
+    "id": 1213,
+    "otg_name": "СОЛОБКОВЕЦЬКА СІЛЬСЬКА ТГ/С.СОЛОБКІВЦІ",
+    "slug": "solobkovecka-silska-tgssolobkivci"
+  },
+  {
+    "id": 1214,
+    "otg_name": "ЯРМОЛИНЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЯРМОЛИНЦІ",
+    "slug": "iarmolinecka-selishhna-tgsmtiarmolinci"
+  },
+  {
+    "id": 1215,
+    "otg_name": "КАМ'ЯНЕЦЬ-ПОДІЛЬСЬКА МІСЬКА ТГ/М.КАМ'ЯНЕЦЬ-ПОДІЛЬСЬКИЙ",
+    "slug": "kamianec-podilska-miska-tgmkamianec-podilskii"
+  },
+  {
+    "id": 1216,
+    "otg_name": "НЕТІШИНСЬКА МІСЬКА ТГ/М.НЕТІШИН",
+    "slug": "netisinska-miska-tgmnetisin"
+  },
+  {
+    "id": 1217,
+    "otg_name": "СЛАВУТСЬКА МІСЬКА ТГ/М.СЛАВУТА",
+    "slug": "slavutska-miska-tgmslavuta"
+  },
+  {
+    "id": 1218,
+    "otg_name": "СТАРОКОСТЯНТИНІВСЬКА МІСЬКА ТГ/М.СТАРОКОСТЯНТИНІВ",
+    "slug": "starokostiantinivska-miska-tgmstarokostiantiniv"
+  },
+  {
+    "id": 1219,
+    "otg_name": "ХМЕЛЬНИЦЬКА МІСЬКА ТГ/М.ХМЕЛЬНИЦЬКИЙ",
+    "slug": "xmelnicka-miska-tgmxmelnickii"
+  },
+  {
+    "id": 1220,
+    "otg_name": "ШЕПЕТІВСЬКА МІСЬКА ТГ/М.ШЕПЕТІВКА",
+    "slug": "sepetivska-miska-tgmsepetivka"
+  },
+  {
+    "id": 1221,
+    "otg_name": "ГЕЛЬМЯЗІВСЬКА СІЛЬСЬКА ТГ/С.ГЕЛЬМЯЗІВ",
+    "slug": "gelmiazivska-silska-tgsgelmiaziv"
+  },
+  {
+    "id": 1285,
+    "otg_name": "ВИЖНИЦЬКА МІСЬКА ТГ/М.ВИЖНИЦЯ",
+    "slug": "viznicka-miska-tgmviznicia"
+  },
+  {
+    "id": 1222,
+    "otg_name": "ЗОРІВСЬКА СІЛЬСЬКА ТГ/С.ЗОРІВКА",
+    "slug": "zorivska-silska-tgszorivka"
+  },
+  {
+    "id": 1223,
+    "otg_name": "ВІЛЬШАНСЬКА СЕЛИЩНА ТГ/СМТ.ВІЛЬШАНА",
+    "slug": "vilsanska-selishhna-tgsmtvilsana"
+  },
+  {
+    "id": 1224,
+    "otg_name": "ГОРОДИЩЕНСЬКА МІСЬКА ТГ/М.ГОРОДИЩЕ",
+    "slug": "gorodishhenska-miska-tgmgorodishhe"
+  },
+  {
+    "id": 1225,
+    "otg_name": "МЛІЇВСЬКА СІЛЬСЬКА ТГ/С.МЛІЇВ",
+    "slug": "mliyivska-silska-tgsmliyiv"
+  },
+  {
+    "id": 1226,
+    "otg_name": "ВЕЛИКОХУТІРСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКИЙ ХУТІР",
+    "slug": "velikoxutirska-silska-tgsvelikii-xutir"
+  },
+  {
+    "id": 1227,
+    "otg_name": "ДРАБІВСЬКА СЕЛИЩНА ТГ/СМТ.ДРАБІВ",
+    "slug": "drabivska-selishhna-tgsmtdrabiv"
+  },
+  {
+    "id": 1228,
+    "otg_name": "БАШТЕЧКІВСЬКА СІЛЬСЬКА ТГ/С.БАШТЕЧКИ",
+    "slug": "basteckivska-silska-tgsbastecki"
+  },
+  {
+    "id": 1229,
+    "otg_name": "ЖАШКІВСЬКА МІСЬКА ТГ/М.ЖАШКІВ",
+    "slug": "zaskivska-miska-tgmzaskiv"
+  },
+  {
+    "id": 1230,
+    "otg_name": "ВОДЯНИЦЬКА СІЛЬСЬКА ТГ/С.ВОДЯНИКИ",
+    "slug": "vodianicka-silska-tgsvodianiki"
+  },
+  {
+    "id": 1231,
+    "otg_name": "ЗВЕНИГОРОДСЬКА МІСЬКА ТГ/М.ЗВЕНИГОРОДКА",
+    "slug": "zvenigorodska-miska-tgmzvenigorodka"
+  },
+  {
+    "id": 1232,
+    "otg_name": "ШЕВЧЕНКІВСЬКА СІЛЬСЬКА ТГ/С.ШЕВЧЕНКОВЕ",
+    "slug": "sevcenkivska-silska-tgssevcenkove-1"
+  },
+  {
+    "id": 1233,
+    "otg_name": "ВОЗНЕСЕНСЬКА СІЛЬСЬКА ТГ/С.ВОЗНЕСЕНСЬКЕ",
+    "slug": "voznesenska-silska-tgsvoznesenske"
+  },
+  {
+    "id": 1234,
+    "otg_name": "ПІЩАНСЬКА СІЛЬСЬКА ТГ/С.ПІЩАНЕ",
+    "slug": "pishhanska-silska-tgspishhane-1"
+  },
+  {
+    "id": 1235,
+    "otg_name": "КАМ'ЯНСЬКА МІСЬКА ТГ/М.КАМ'ЯНКА",
+    "slug": "kamianska-miska-tgmkamianka"
+  },
+  {
+    "id": 1236,
+    "otg_name": "МИХАЙЛІВСЬКА СІЛЬСЬКА ТГ/С.МИХАЙЛІВКА",
+    "slug": "mixailivska-silska-tgsmixailivka-2"
+  },
+  {
+    "id": 1237,
+    "otg_name": "БОБРИЦЬКА СІЛЬСЬКА ТГ/С.БОБРИЦЯ",
+    "slug": "bobricka-silska-tgsbobricia"
+  },
+  {
+    "id": 1238,
+    "otg_name": "ЛІПЛЯВСЬКА СІЛЬСЬКА ТГ/С.ЛІПЛЯВЕ",
+    "slug": "lipliavska-silska-tgslipliave"
+  },
+  {
+    "id": 1239,
+    "otg_name": "СТЕПАНЕЦЬКА СІЛЬСЬКА ТГ/С.СТЕПАНЦІ",
+    "slug": "stepanecka-silska-tgsstepanci"
+  },
+  {
+    "id": 1240,
+    "otg_name": "ЄРКІВСЬКА СЕЛИЩНА ТГ/СМТ.ЄРКИ",
+    "slug": "jerkivska-selishhna-tgsmtjerki"
+  },
+  {
+    "id": 1241,
+    "otg_name": "КАТЕРИНОПІЛЬСЬКА СЕЛИЩНА ТГ/СМТ.КАТЕРИНОПІЛЬ",
+    "slug": "katerinopilska-selishhna-tgsmtkaterinopil"
+  },
+  {
+    "id": 1242,
+    "otg_name": "МОКРОКАЛИГІРСЬКА СІЛЬСЬКА ТГ/С.МОКРА КАЛИГІРКА",
+    "slug": "mokrokaligirska-silska-tgsmokra-kaligirka"
+  },
+  {
+    "id": 1243,
+    "otg_name": "КОРСУНЬ-ШЕВЧЕНКІВСЬКА МІСЬКА ТГ/М.КОРСУНЬ-ШЕВЧЕНКІВСЬКИЙ",
+    "slug": "korsun-sevcenkivska-miska-tgmkorsun-sevcenkivskii"
+  },
+  {
+    "id": 1244,
+    "otg_name": "СЕЛИЩЕНСЬКА СІЛЬСЬКА ТГ/С.СЕЛИЩЕ",
+    "slug": "selishhenska-silska-tgsselishhe"
+  },
+  {
+    "id": 1245,
+    "otg_name": "СТЕБЛІВСЬКА СЕЛИЩНА ТГ/СМТ.СТЕБЛІВ",
+    "slug": "steblivska-selishhna-tgsmtstebliv"
+  },
+  {
+    "id": 1246,
+    "otg_name": "БУЖАНСЬКА СІЛЬСЬКА ТГ/С.БУЖАНКА",
+    "slug": "buzanska-silska-tgsbuzanka"
+  },
+  {
+    "id": 1247,
+    "otg_name": "ВИНОГРАДСЬКА СІЛЬСЬКА ТГ/С.ВИНОГРАД",
+    "slug": "vinogradska-silska-tgsvinograd"
+  },
+  {
+    "id": 1248,
+    "otg_name": "ЛИСЯНСЬКА СЕЛИЩНА ТГ/СМТ.ЛИСЯНКА",
+    "slug": "lisianska-selishhna-tgsmtlisianka"
+  },
+  {
+    "id": 1249,
+    "otg_name": "БУЦЬКА СЕЛИЩНА ТГ/СМТ.БУКИ",
+    "slug": "bucka-selishhna-tgsmtbuki"
+  },
+  {
+    "id": 1250,
+    "otg_name": "ІВАНЬКІВСЬКА СІЛЬСЬКА ТГ/С.ІВАНЬКИ",
+    "slug": "ivankivska-silska-tgsivanki"
+  },
+  {
+    "id": 1251,
+    "otg_name": "МАНЬКІВСЬКА СЕЛИЩНА ТГ/СМТ.МАНЬКІВКА",
+    "slug": "mankivska-selishhna-tgsmtmankivka"
+  },
+  {
+    "id": 1252,
+    "otg_name": "МОНАСТИРИЩЕНСЬКА МІСЬКА ТГ/М.МОНАСТИРИЩЕ",
+    "slug": "monastirishhenska-miska-tgmmonastirishhe"
+  },
+  {
+    "id": 1253,
+    "otg_name": "БАЛАКЛЕЇВСЬКА СІЛЬСЬКА ТГ/С.БАЛАКЛЕЯ",
+    "slug": "balakleyivska-silska-tgsbalakleia"
+  },
+  {
+    "id": 1254,
+    "otg_name": "БЕРЕЗНЯКІВСЬКА СІЛЬСЬКА ТГ/С.БЕРЕЗНЯКИ",
+    "slug": "berezniakivska-silska-tgsberezniaki"
+  },
+  {
+    "id": 1255,
+    "otg_name": "РОТМІСТРІВСЬКА СІЛЬСЬКА ТГ/С.РОТМІСТРІВКА",
+    "slug": "rotmistrivska-silska-tgsrotmistrivka"
+  },
+  {
+    "id": 1256,
+    "otg_name": "ТЕРНІВСЬКА СІЛЬСЬКА ТГ/С.ТЕРНІВКА",
+    "slug": "ternivska-silska-tgsternivka"
+  },
+  {
+    "id": 1257,
+    "otg_name": "ТАЛЬНІВСЬКА МІСЬКА ТГ/М.ТАЛЬНЕ",
+    "slug": "talnivska-miska-tgmtalne"
+  },
+  {
+    "id": 1258,
+    "otg_name": "БАБАНСЬКА СЕЛИЩНА ТГ/СМТ.БАБАНКА",
+    "slug": "babanska-selishhna-tgsmtbabanka"
+  },
+  {
+    "id": 1259,
+    "otg_name": "ДМИТРУШКІВСЬКА СІЛЬСЬКА ТГ/С.ДМИТРУШКИ",
+    "slug": "dmitruskivska-silska-tgsdmitruski"
+  },
+  {
+    "id": 1260,
+    "otg_name": "ЛАДИЖИНСЬКА СІЛЬСЬКА ТГ/С.ЛАДИЖИНКА",
+    "slug": "ladizinska-silska-tgsladizinka"
+  },
+  {
+    "id": 1261,
+    "otg_name": "ПАЛАНСЬКА СІЛЬСЬКА ТГ/С.ПАЛАНКА",
+    "slug": "palanska-silska-tgspalanka"
+  },
+  {
+    "id": 1262,
+    "otg_name": "БІЛОЗІРСЬКА СІЛЬСЬКА ТГ/С.БІЛОЗІР’Я",
+    "slug": "bilozirska-silska-tgsbiloziria"
+  },
+  {
+    "id": 1263,
+    "otg_name": "БУДИЩЕНСЬКА СІЛЬСЬКА ТГ/С.БУДИЩЕ",
+    "slug": "budishhenska-silska-tgsbudishhe"
+  },
+  {
+    "id": 1264,
+    "otg_name": "ЛЕСЬКІВСЬКА СІЛЬСЬКА ТГ/С.ЛЕСЬКИ",
+    "slug": "leskivska-silska-tgsleski"
+  },
+  {
+    "id": 1265,
+    "otg_name": "МОШНІВСЬКА СІЛЬСЬКА ТГ/С.МОШНИ",
+    "slug": "mosnivska-silska-tgsmosni"
+  },
+  {
+    "id": 1266,
+    "otg_name": "РУСЬКОПОЛЯНСЬКА СІЛЬСЬКА ТГ/С.РУСЬКА ПОЛЯНА",
+    "slug": "ruskopolianska-silska-tgsruska-poliana"
+  },
+  {
+    "id": 1267,
+    "otg_name": "САГУНІВСЬКА СІЛЬСЬКА ТГ/С.САГУНІВКА",
+    "slug": "sagunivska-silska-tgssagunivka"
+  },
+  {
+    "id": 1268,
+    "otg_name": "СТЕПАНКІВСЬКА СІЛЬСЬКА ТГ/С.СТЕПАНКИ",
+    "slug": "stepankivska-silska-tgsstepanki"
+  },
+  {
+    "id": 1269,
+    "otg_name": "ЧЕРВОНОСЛОБІДСЬКА СІЛЬСЬКА ТГ/С.ЧЕРВОНА СЛОБОДА",
+    "slug": "cervonoslobidska-silska-tgscervona-sloboda"
+  },
+  {
+    "id": 1270,
+    "otg_name": "МЕДВЕДІВСЬКА СІЛЬСЬКА ТГ/С.МЕДВЕДІВКА",
+    "slug": "medvedivska-silska-tgsmedvedivka"
+  },
+  {
+    "id": 1271,
+    "otg_name": "ЧИГИРИНСЬКА МІСЬКА ТГ/М.ЧИГИРИН",
+    "slug": "cigirinska-miska-tgmcigirin"
+  },
+  {
+    "id": 1272,
+    "otg_name": "ІРКЛІЇВСЬКА СІЛЬСЬКА ТГ/С.ІРКЛІЇВ",
+    "slug": "irkliyivska-silska-tgsirkliyiv"
+  },
+  {
+    "id": 1273,
+    "otg_name": "ЧОРНОБАЇВСЬКА СЕЛИЩНА ТГ/СМТ.ЧОРНОБАЙ",
+    "slug": "cornobayivska-selishhna-tgsmtcornobai"
+  },
+  {
+    "id": 1274,
+    "otg_name": "ЛИП'ЯНСЬКА СІЛЬСЬКА ТГ/С.ЛИП'ЯНКА",
+    "slug": "lipianska-silska-tgslipianka"
+  },
+  {
+    "id": 1275,
+    "otg_name": "МАТУСІВСЬКА СІЛЬСЬКА ТГ/С.МАТУСІВ",
+    "slug": "matusivska-silska-tgsmatusiv"
+  },
+  {
+    "id": 1276,
+    "otg_name": "ШПОЛЯНСЬКА МІСЬКА ТГ/М.ШПОЛА",
+    "slug": "spolianska-miska-tgmspola"
+  },
+  {
+    "id": 1277,
+    "otg_name": "ВАТУТІНСЬКА МІСЬКА ТГ/М.ВАТУТІНЕ",
+    "slug": "vatutinska-miska-tgmvatutine"
+  },
+  {
+    "id": 1278,
+    "otg_name": "ЗОЛОТОНІСЬКА МІСЬКА ТГ/М.ЗОЛОТОНОША",
+    "slug": "zolotoniska-miska-tgmzolotonosa"
+  },
+  {
+    "id": 1279,
+    "otg_name": "КАНІВСЬКА МІСЬКА ТГ/М.КАНІВ",
+    "slug": "kanivska-miska-tgmkaniv"
+  },
+  {
+    "id": 1280,
+    "otg_name": "СМІЛЯНСЬКА МІСЬКА ТГ/М.СМІЛА",
+    "slug": "smilianska-miska-tgmsmila"
+  },
+  {
+    "id": 1281,
+    "otg_name": "УМАНСЬКА МІСЬКА ТГ/М.УМАНЬ",
+    "slug": "umanska-miska-tgmuman"
+  },
+  {
+    "id": 1282,
+    "otg_name": "ЧЕРКАСЬКА МІСЬКА ТГ/М.ЧЕРКАСИ",
+    "slug": "cerkaska-miska-tgmcerkasi"
+  },
+  {
+    "id": 1283,
+    "otg_name": "БАНИЛІВСЬКА СІЛЬСЬКА ТГ/С.БАНИЛІВ",
+    "slug": "banilivska-silska-tgsbaniliv"
+  },
+  {
+    "id": 1284,
+    "otg_name": "БЕРЕГОМЕТСЬКА СЕЛИЩНА ТГ/СМТ.БЕРЕГОМЕТ",
+    "slug": "beregometska-selishhna-tgsmtberegomet"
+  },
+  {
+    "id": 1286,
+    "otg_name": "ВАШКІВЕЦЬКА МІСЬКА ТГ/М.ВАШКІВЦІ",
+    "slug": "vaskivecka-miska-tgmvaskivci"
+  },
+  {
+    "id": 1287,
+    "otg_name": "ГЛИБОЦЬКА СЕЛИЩНА ТГ/СМТ.ГЛИБОКА",
+    "slug": "glibocka-selishhna-tgsmtgliboka"
+  },
+  {
+    "id": 1288,
+    "otg_name": "ВОЛОКІВСЬКА СІЛЬСЬКА ТГ/С.ВОЛОКА",
+    "slug": "volokivska-silska-tgsvoloka"
+  },
+  {
+    "id": 1289,
+    "otg_name": "КАМ'ЯНЕЦЬКА СІЛЬСЬКА ТГ/С.КАМ'ЯНКА",
+    "slug": "kamianecka-silska-tgskamianka"
+  },
+  {
+    "id": 1290,
+    "otg_name": "ТЕРЕБЛЕЧЕНСЬКА СІЛЬСЬКА ТГ/С.ТЕРЕБЛЕЧЕ",
+    "slug": "tereblecenska-silska-tgstereblece"
+  },
+  {
+    "id": 1291,
+    "otg_name": "МАМАЛИГІВСЬКА СІЛЬСЬКА ТГ/С.МАМАЛИГА",
+    "slug": "mamaligivska-silska-tgsmamaliga"
+  },
+  {
+    "id": 1292,
+    "otg_name": "КОНЯТИНСЬКА СІЛЬСЬКА ТГ/С.КОНЯТИН",
+    "slug": "koniatinska-silska-tgskoniatin"
+  },
+  {
+    "id": 1293,
+    "otg_name": "УСТЬ-ПУТИЛЬСЬКА СІЛЬСЬКА ТГ/С.УСТЬ-ПУТИЛА",
+    "slug": "ust-putilska-silska-tgsust-putila"
+  },
+  {
+    "id": 1294,
+    "otg_name": "СЕЛЯТИНСЬКА СІЛЬСЬКА ТГ/С.СЕЛЯТИН",
+    "slug": "seliatinska-silska-tgsseliatin"
+  },
+  {
+    "id": 1295,
+    "otg_name": "СОКИРЯНСЬКА МІСЬКА ТГ/М.СОКИРЯНИ",
+    "slug": "sokirianska-miska-tgmsokiriani"
+  },
+  {
+    "id": 1296,
+    "otg_name": "ВАШКОВЕЦЬКА СІЛЬСЬКА ТГ/С.ВАШКІВЦІ",
+    "slug": "vaskovecka-silska-tgsvaskivci"
+  },
+  {
+    "id": 1297,
+    "otg_name": "ПУТИЛЬСЬКА СЕЛИЩНА ТГ/СМТ.ПУТИЛА",
+    "slug": "putilska-selishhna-tgsmtputila"
+  },
+  {
+    "id": 1298,
+    "otg_name": "СТОРОЖИНЕЦЬКА МІСЬКА ТГ/М.СТОРОЖИНЕЦЬ",
+    "slug": "storozinecka-miska-tgmstorozinec"
+  },
+  {
+    "id": 1299,
+    "otg_name": "КРАСНОЇЛЬСЬКА СЕЛИЩНА ТГ/СМТ.КРАСНОЇЛЬСЬК",
+    "slug": "krasnoyilska-selishhna-tgsmtkrasnoyilsk"
+  },
+  {
+    "id": 1300,
+    "otg_name": "ПЕТРОВЕЦЬКА СІЛЬСЬКА ТГ/С.ВЕРХНІ ПЕТРІВЦІ",
+    "slug": "petrovecka-silska-tgsverxni-petrivci"
+  },
+  {
+    "id": 1301,
+    "otg_name": "ВЕЛИКО-КУЧУРІВСЬКА СІЛЬСЬКА ТГ/С.ВЕЛИКИЙ КУЧУРІВ",
+    "slug": "veliko-kucurivska-silska-tgsvelikii-kucuriv"
+  },
+  {
+    "id": 1302,
+    "otg_name": "КАМ'ЯНСЬКА СІЛЬСЬКА ТГ/С.КАМ'ЯНА",
+    "slug": "kamianska-silska-tgskamiana"
+  },
+  {
+    "id": 1303,
+    "otg_name": "ЧУДЕЙСЬКА СІЛЬСЬКА ТГ/С.ЧУДЕЙ",
+    "slug": "cudeiska-silska-tgscudei"
+  },
+  {
+    "id": 1304,
+    "otg_name": "РУКШИНСЬКА СІЛЬСЬКА ТГ/С.РУКШИН",
+    "slug": "ruksinska-silska-tgsruksin"
+  },
+  {
+    "id": 1305,
+    "otg_name": "НЕДОБОЇВСЬКА СІЛЬСЬКА ТГ/С.НЕДОБОЇВЦІ",
+    "slug": "nedoboyivska-silska-tgsnedoboyivci"
+  },
+  {
+    "id": 1306,
+    "otg_name": "КЛІШКОВЕЦЬКА СІЛЬСЬКА ТГ/С.КЛIШКIВЦI",
+    "slug": "kliskovecka-silska-tgskliskivci"
+  },
+  {
+    "id": 1307,
+    "otg_name": "ОСТРИЦЬКА СІЛЬСЬКА ТГ/С.ОСТРИЦЯ",
+    "slug": "ostricka-silska-tgsostricia"
+  },
+  {
+    "id": 1308,
+    "otg_name": "КІЦМАНСЬКА МІСЬКА ТГ/М.КІЦМАНЬ",
+    "slug": "kicmanska-miska-tgmkicman"
+  },
+  {
+    "id": 1309,
+    "otg_name": "МАМАЇВСЬКА СІЛЬСЬКА ТГ/С.МАМАЇВЦІ",
+    "slug": "mamayivska-silska-tgsmamayivci"
+  },
+  {
+    "id": 1310,
+    "otg_name": "МАГАЛЬСЬКА СІЛЬСЬКА ТГ/С.МАГАЛА",
+    "slug": "magalska-silska-tgsmagala"
+  },
+  {
+    "id": 1311,
+    "otg_name": "ЧАГОРСЬКА СІЛЬСЬКА ТГ/С.ЧАГОР",
+    "slug": "cagorska-silska-tgscagor"
+  },
+  {
+    "id": 1312,
+    "otg_name": "ВЕРЕНЧАНСЬКА СІЛЬСЬКА ТГ/С.ВЕРЕНЧАНКА",
+    "slug": "verencanska-silska-tgsverencanka"
+  },
+  {
+    "id": 1313,
+    "otg_name": "НЕПОЛОКОВЕЦЬКА СЕЛИЩНА ТГ/СМТ.НЕПОЛОКІВЦІ",
+    "slug": "nepolokovecka-selishhna-tgsmtnepolokivci"
+  },
+  {
+    "id": 1314,
+    "otg_name": "БОЯНСЬКА СІЛЬСЬКА ТГ/С.БОЯНИ",
+    "slug": "boianska-silska-tgsboiani"
+  },
+  {
+    "id": 1315,
+    "otg_name": "СТАВЧАНСЬКА СІЛЬСЬКА ТГ/С.СТАВЧАНИ",
+    "slug": "stavcanska-silska-tgsstavcani"
+  },
+  {
+    "id": 1316,
+    "otg_name": "ХОТИНСЬКА МІСЬКА ТГ/М.ХОТИН",
+    "slug": "xotinska-miska-tgmxotin"
+  },
+  {
+    "id": 1317,
+    "otg_name": "НОВОДНІСТРОВСЬКА МІСЬКА ТГ/М.НОВОДНІСТРОВСЬК",
+    "slug": "novodnistrovska-miska-tgmnovodnistrovsk"
+  },
+  {
+    "id": 1318,
+    "otg_name": "ЧЕРНІВЕЦЬКА МІСЬКА ТГ/М.ЧЕРНІВЦІ",
+    "slug": "cernivecka-miska-tgmcernivci"
+  },
+  {
+    "id": 1319,
+    "otg_name": "ВІКНЯНСЬКА СЕЛИЩНА ТГ/ С.ВІКНО",
+    "slug": "viknianska-selishhna-tg-svikno"
+  },
+  {
+    "id": 1320,
+    "otg_name": "КОСТРИЖІВСЬКА СЕЛИЩНА ТГ/СМТ.КОСТРИЖІВКА",
+    "slug": "kostrizivska-selishhna-tgsmtkostrizivka"
+  },
+  {
+    "id": 1321,
+    "otg_name": "ГОРІШНЬОШЕРОВЕЦЬКА СІЛЬСЬКА ТГ/С.ГОРІШНІ ШЕРІВЦІ",
+    "slug": "gorisnoserovecka-silska-tgsgorisni-serivci"
+  },
+  {
+    "id": 1322,
+    "otg_name": "НОВОСЕЛИЦЬКА МІСЬКА ТГ/М.НОВОСЕЛИЦЯ",
+    "slug": "novoselicka-miska-tgmnovoselicia"
+  },
+  {
+    "id": 1323,
+    "otg_name": "ЮРКОВЕЦЬКА СІЛЬСЬКА ТГ/С.ЮРКІВЦІ",
+    "slug": "iurkovecka-silska-tgsiurkivci"
+  },
+  {
+    "id": 1324,
+    "otg_name": "ТОПОРІВСЬКА СІЛЬСЬКА ТГ/С.ТОПОРІВЦІ",
+    "slug": "toporivska-silska-tgstoporivci"
+  },
+  {
+    "id": 1325,
+    "otg_name": "ГЕРЦАЇВСЬКА МІСЬКА ТГ/М.ГЕРЦА",
+    "slug": "gercayivska-miska-tgmgerca"
+  },
+  {
+    "id": 1326,
+    "otg_name": "БРУСНИЦЬКА СІЛЬСЬКА ТГ/С.БРУСНИЦЯ",
+    "slug": "brusnicka-silska-tgsbrusnicia"
+  },
+  {
+    "id": 1327,
+    "otg_name": "ЛІВИНЕЦЬКА СІЛЬСЬКА ТГ/С.ЛІВИНЦІ",
+    "slug": "livinecka-silska-tgslivinci"
+  },
+  {
+    "id": 1328,
+    "otg_name": "КЕЛЬМЕНЕЦЬКА СЕЛИЩНА ТГ/СМТ. КЕЛЬМЕНЦІ",
+    "slug": "kelmenecka-selishhna-tgsmt-kelmenci"
+  },
+  {
+    "id": 1329,
+    "otg_name": "ЗАСТАВНІВСЬКА МІСЬКА ТГ/М.ЗАСТАВНА",
+    "slug": "zastavnivska-miska-tgmzastavna"
+  },
+  {
+    "id": 1330,
+    "otg_name": "КАРАПЧІВСЬКА СІЛЬСЬКА ТГ/С.ЙОРДАНЕШТИ",
+    "slug": "karapcivska-silska-tgsiordanesti"
+  },
+  {
+    "id": 1331,
+    "otg_name": "ВАНЧИКОВЕЦЬКА СІЛЬСЬКА ТГ/С.ВАНЧИКІВЦІ",
+    "slug": "vancikovecka-silska-tgsvancikivci"
+  },
+  {
+    "id": 1332,
+    "otg_name": "КАДУБОВЕЦЬКА СІЛЬСЬКА ТГ/С.КАДУБІВЦІ",
+    "slug": "kadubovecka-silska-tgskadubivci"
+  },
+  {
+    "id": 1333,
+    "otg_name": "СУЧЕВЕНСЬКА СІЛЬСЬКА ТГ/С.СУЧЕВЕНИ",
+    "slug": "sucevenska-silska-tgssuceveni"
+  },
+  {
+    "id": 1334,
+    "otg_name": "ТАРАШАНСЬКА СІЛЬСЬКА ТГ/С.ТАРАШАНИ",
+    "slug": "tarasanska-silska-tgstarasani"
+  },
+  {
+    "id": 1335,
+    "otg_name": "БАТУРИНСЬКА МІСЬКА ТГ/М.БАТУРИН",
+    "slug": "baturinska-miska-tgmbaturin"
+  },
+  {
+    "id": 1336,
+    "otg_name": "БАХМАЦЬКА МІСЬКА ТГ/М.БАХМАЧ",
+    "slug": "baxmacka-miska-tgmbaxmac"
+  },
+  {
+    "id": 1337,
+    "otg_name": "ДМИТРІВСЬКА СЕЛИЩНА ТГ/СМТ.ДМИТРІВКА",
+    "slug": "dmitrivska-selishhna-tgsmtdmitrivka"
+  },
+  {
+    "id": 1338,
+    "otg_name": "КОМАРІВСЬКА СЕЛИЩНА ТГ/С.КОМАРІВКА",
+    "slug": "komarivska-selishhna-tgskomarivka"
+  },
+  {
+    "id": 1339,
+    "otg_name": "ПАРАФІЇВСЬКА СЕЛИЩНА ТГ/СМТ.ПАРАФІЇВКА",
+    "slug": "parafiyivska-selishhna-tgsmtparafiyivka"
+  },
+  {
+    "id": 1340,
+    "otg_name": "ДЕСНЯНСЬКА СЕЛИЩНА ТГ/СМТ.ДЕСНА",
+    "slug": "desnianska-selishhna-tgsmtdesna"
+  },
+  {
+    "id": 1341,
+    "otg_name": "КІПТІВСЬКА СЕЛИЩНА ТГ/С.КІПТІ",
+    "slug": "kiptivska-selishhna-tgskipti"
+  },
+  {
+    "id": 1342,
+    "otg_name": "КОРОПСЬКА СЕЛИЩНА ТГ/СМТ.КОРОП",
+    "slug": "koropska-selishhna-tgsmtkorop"
+  },
+  {
+    "id": 1343,
+    "otg_name": "КОРЮКІВСЬКА СЕЛИЩНА ТГ/М.КОРЮКІВКА",
+    "slug": "koriukivska-selishhna-tgmkoriukivka"
+  },
+  {
+    "id": 1344,
+    "otg_name": "МЕНСЬКА СЕЛИЩНА ТГ/М.МЕНА",
+    "slug": "menska-selishhna-tgmmena"
+  },
+  {
+    "id": 1345,
+    "otg_name": "ЛОСИНІВСЬКА СЕЛИЩНА ТГ/СМТ.ЛОСИНІВКА",
+    "slug": "losinivska-selishhna-tgsmtlosinivka"
+  },
+  {
+    "id": 1346,
+    "otg_name": "ВЕРТІЇВСЬКА СЕЛИЩНА ТГ/С.ВЕРТІЇВКА",
+    "slug": "vertiyivska-selishhna-tgsvertiyivka"
+  },
+  {
+    "id": 1347,
+    "otg_name": "КРУТІВСЬКА СЕЛИЩНА ТГ/С.КРУТИ",
+    "slug": "krutivska-selishhna-tgskruti"
+  },
+  {
+    "id": 1348,
+    "otg_name": "НОСІВСЬКА СЕЛИЩНА ТГ/М.НОСІВКА",
+    "slug": "nosivska-selishhna-tgmnosivka"
+  },
+  {
+    "id": 1349,
+    "otg_name": "МАКІЇВСЬКА СЕЛИЩНА ТГ/С.МАКІЇВКА",
+    "slug": "makiyivska-selishhna-tgsmakiyivka"
+  },
+  {
+    "id": 1350,
+    "otg_name": "МРИНСЬКА СЕЛИЩНА ТГ/С.МРИН",
+    "slug": "mrinska-selishhna-tgsmrin"
+  },
+  {
+    "id": 1351,
+    "otg_name": "ЛАДАНСЬКА СЕЛИЩНА ТГ/СМТ.ЛАДАН",
+    "slug": "ladanska-selishhna-tgsmtladan"
+  },
+  {
+    "id": 1352,
+    "otg_name": "ГОНЧАРІВСЬКА СЕЛИЩНА ТГ/СМТ.ГОНЧАРІВСЬКЕ",
+    "slug": "goncarivska-selishhna-tgsmtgoncarivske"
+  },
+  {
+    "id": 1353,
+    "otg_name": "МИХАЙЛО-КОЦЮБИНСЬКА СЕЛИЩНА ТГ/СМТ.МИХАЙЛО-КОЦЮБИНСЬКЕ",
+    "slug": "mixailo-kociubinska-selishhna-tgsmtmixailo-kociubinske"
+  },
+  {
+    "id": 1354,
+    "otg_name": "СНОВСЬКА СЕЛИЩНА ТГ/М.СНОВСЬК",
+    "slug": "snovska-selishhna-tgmsnovsk"
+  },
+  {
+    "id": 1355,
+    "otg_name": "БОБРОВИЦЬКА МІСЬКА ТГ/М.БОБРОВИЦЯ",
+    "slug": "bobrovicka-miska-tgmbobrovicia"
+  },
+  {
+    "id": 1356,
+    "otg_name": "ПЛИСКІВСЬКА СЕЛИЩНА ТГ/С.ПЛИСКИ",
+    "slug": "pliskivska-selishhna-tgspliski"
+  },
+  {
+    "id": 1357,
+    "otg_name": "ТУПИЧІВСЬКА СЕЛИЩНА ТГ/С.ТУПИЧІВ",
+    "slug": "tupicivska-selishhna-tgstupiciv"
+  },
+  {
+    "id": 1358,
+    "otg_name": "ІЧНЯНСЬКА СЕЛИЩНА ТГ/М.ІЧНЯ",
+    "slug": "icnianska-selishhna-tgmicnia"
+  },
+  {
+    "id": 1359,
+    "otg_name": "ХОЛМИНСЬКА СЕЛИЩНА ТГ/СМТ.ХОЛМИ",
+    "slug": "xolminska-selishhna-tgsmtxolmi"
+  },
+  {
+    "id": 1360,
+    "otg_name": "КУЛИКІВСЬКА СЕЛИЩНА ТГ/СМТ.КУЛИКІВКА",
+    "slug": "kulikivska-selishhna-tgsmtkulikivka"
+  },
+  {
+    "id": 1361,
+    "otg_name": "БЕРЕЗНЯНСЬКА СЕЛИЩНА ТГ/СМТ.БЕРЕЗНА",
+    "slug": "bereznianska-selishhna-tgsmtberezna"
+  },
+  {
+    "id": 1362,
+    "otg_name": "СЕДНІВСЬКА СЕЛИЩНА ТГ/СМТ.СЕДНІВ",
+    "slug": "sednivska-selishhna-tgsmtsedniv"
+  },
+  {
+    "id": 1363,
+    "otg_name": "МАЛОДІВИЦЬКА СЕЛИЩНА ТГ/СМТ.МАЛА ДІВИЦЯ",
+    "slug": "malodivicka-selishhna-tgsmtmala-divicia"
+  },
+  {
+    "id": 1364,
+    "otg_name": "ЛЮБЕЦЬКА СЕЛИЩНА ТГ/СМТ.ЛЮБЕЧ",
+    "slug": "liubecka-selishhna-tgsmtliubec"
+  },
+  {
+    "id": 1365,
+    "otg_name": "РІПКИНСЬКА СЕЛИЩНА ТГ/СМТ.РІПКИ",
+    "slug": "ripkinska-selishhna-tgsmtripki"
+  },
+  {
+    "id": 1366,
+    "otg_name": "СЕМЕНІВСЬКА СЕЛИЩНА ТГ/М.СЕМЕНІВКА",
+    "slug": "semenivska-selishhna-tgmsemenivka"
+  },
+  {
+    "id": 1367,
+    "otg_name": "СОСНИЦЬКА СЕЛИЩНА ТГ/СМТ.СОСНИЦЯ",
+    "slug": "sosnicka-selishhna-tgsmtsosnicia"
+  },
+  {
+    "id": 1368,
+    "otg_name": "СРІБНЯНСЬКА СЕЛИЩНА ТГ/СМТ.СРІБНЕ",
+    "slug": "sribnianska-selishhna-tgsmtsribne"
+  },
+  {
+    "id": 1369,
+    "otg_name": "БОРЗНЯНСЬКА МІСЬКА ТГ/М.БОРЗНА",
+    "slug": "borznianska-miska-tgmborzna"
+  },
+  {
+    "id": 1370,
+    "otg_name": "КИЇНСЬКА СЕЛИЩНА ТГ/С.КИЇНКА",
+    "slug": "kiyinska-selishhna-tgskiyinka"
+  },
+  {
+    "id": 1371,
+    "otg_name": "НОВОБІЛОУСЬКА СЕЛИЩНА ТГ/С.НОВИЙ БІЛОУС",
+    "slug": "novobilouska-selishhna-tgsnovii-bilous"
+  },
+  {
+    "id": 1372,
+    "otg_name": "НІЖИНСЬКА СЕЛИЩНА ТГ/М.НІЖИН",
+    "slug": "nizinska-selishhna-tgmnizin"
+  },
+  {
+    "id": 1373,
+    "otg_name": "ВАРВИНСЬКА СЕЛИЩНА ТГ/СМТ.ВАРВА",
+    "slug": "varvinska-selishhna-tgsmtvarva"
+  },
+  {
+    "id": 1374,
+    "otg_name": "ВИСОЧАНСЬКА СЕЛИЩНА ТГ/С.ВИСОКЕ",
+    "slug": "visocanska-selishhna-tgsvisoke"
+  },
+  {
+    "id": 1375,
+    "otg_name": "ГОРОДНЯНСЬКА СЕЛИЩНА ТГ/М.ГОРОДНЯ",
+    "slug": "gorodnianska-selishhna-tgmgorodnia"
+  },
+  {
+    "id": 1376,
+    "otg_name": "ЛИНОВИЦЬКА СЕЛИЩНА ТГ/СМТ.ЛИНОВИЦЯ",
+    "slug": "linovicka-selishhna-tgsmtlinovicia"
+  },
+  {
+    "id": 1377,
+    "otg_name": "ПРИЛУЦЬКА СЕЛИЩНА ТГ/М.ПРИЛУКИ",
+    "slug": "prilucka-selishhna-tgmpriluki"
+  },
+  {
+    "id": 1378,
+    "otg_name": "ЧЕРНІГІВСЬКА СЕЛИЩНА ТГ/М.ЧЕРНІГІВ",
+    "slug": "cernigivska-selishhna-tgmcernigiv"
+  },
+  {
+    "id": 1379,
+    "otg_name": "ПОНОРНИЦЬКА СЕЛИЩНА ТГ/СМТ.ПОНОРНИЦЯ",
+    "slug": "ponornicka-selishhna-tgsmtponornicia"
+  },
+  {
+    "id": 1380,
+    "otg_name": "ТАЛАЛАЇВСЬКА СЕЛИЩНА ТГ/С.ТАЛАЛАЇВКА",
+    "slug": "talalayivska-selishhna-tgstalalayivka"
+  },
+  {
+    "id": 1381,
+    "otg_name": "СУХОПОЛОВ'ЯНСЬКА СЕЛИЩНА ТГ/С.СУХОПОЛОВА",
+    "slug": "suxopolovianska-selishhna-tgssuxopolova"
+  },
+  {
+    "id": 1382,
+    "otg_name": "ДОБРЯНСЬКА СЕЛИЩНА ТГ/СМТ.ДОБРЯНКА",
+    "slug": "dobrianska-selishhna-tgsmtdobrianka"
+  },
+  {
+    "id": 1383,
+    "otg_name": "КИСЕЛІВСЬКА СЕЛИЩНА ТГ/С.КИСЕЛІВКА",
+    "slug": "kiselivska-selishhna-tgskiselivka"
+  },
+  {
+    "id": 51,
+    "otg_name": "АГРОНОМІЧНА СІЛЬСЬКА ТГ/М.РОМНИ",
+    "slug": "agronomicna-silska-tgmromni"
+  },
+  {
+    "id": 1384,
+    "otg_name": "НОВОСАНЖАРСЬКА СЕЛИЩНА ТГ/СМТ.НОВІ САНЖАРИ",
+    "slug": "novosanzarska-selishhna-tgsmtnovi-sanzari"
+  },
+  {
+    "id": 1385,
+    "otg_name": "НОВОБАСАНСЬКА СІЛЬСЬКА ТГ/С.НОВА БАСАНЬ",
+    "slug": "novobasanska-silska-tgsnova-basan"
+  }
+]
